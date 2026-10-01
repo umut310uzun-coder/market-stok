@@ -325,7 +325,7 @@ end $$;
 --  KENDİ BARKODUMUZ — 200 ile başlayan EAN-13 (mağaza içi kullanım)
 -- =====================================================================
 create or replace function public.ean13_check(p12 text) returns int
-language plpgsql immutable as $$
+language plpgsql immutable set search_path = public as $$
 declare s int := 0; i int;
 begin
   for i in 1..12 loop
@@ -594,3 +594,6 @@ grant execute on function public.setup_first_admin(text, text, text) to anon, au
 grant execute on function public.create_user(text, text, text, text) to authenticated;
 grant execute on function public.reset_password(uuid, text)          to authenticated;
 grant execute on function public.set_user_active(uuid, boolean)      to authenticated;
+-- Tetikleyici fonksiyonları dışarıdan çağrılamasın
+revoke execute on function public.handle_new_user()  from public, anon, authenticated;
+revoke execute on function public.notify_low_stock() from public, anon, authenticated;
