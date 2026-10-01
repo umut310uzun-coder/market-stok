@@ -1,0 +1,72 @@
+{
+  "name": "Market - Günlük rapor (Telegram)",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [{ "field": "cronExpression", "expression": "0 21 * * *" }]
+        }
+      },
+      "id": "c2b2d4e0-0001-4d2b-8b02-000000000001",
+      "name": "Her akşam 21:00",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [0, 0]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://BURAYA_PROJE.supabase.co/rest/v1/rpc/daily_report",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            { "name": "apikey", "value": "BURAYA_SERVICE_ROLE_KEY" },
+            { "name": "Authorization", "value": "Bearer BURAYA_SERVICE_ROLE_KEY" },
+            { "name": "Content-Type", "value": "application/json" }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{}",
+        "options": {}
+      },
+      "id": "c2b2d4e0-0002-4d2b-8b02-000000000002",
+      "name": "Supabase'den günün raporu",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [240, 0]
+    },
+    {
+      "parameters": {
+        "jsCode": "const r = $input.first().json;\nconst tl = n => Number(n || 0).toLocaleString('tr-TR', { minimumFractionDigits: 2, maximumFractionDigits: 2 }) + ' TL';\nlet m = `📊 GÜNLÜK RAPOR — ${r.tarih}\\n\\n`;\nm += `💰 Ciro: ${tl(r.ciro)}\\n🧾 Satış sayısı: ${r.satis_adedi}\\n💵 Nakit: ${tl(r.nakit)}\\n💳 Kart: ${tl(r.kart)}\\n`;\nif ((r.en_cok_satan || []).length) {\n  m += `\\n🏆 En çok satanlar:\\n`;\n  r.en_cok_satan.slice(0, 5).forEach((x, i) => { m += `${i + 1}. ${x.urun} — ${Number(x.adet)} ad. (${tl(x.tutar)})\\n`; });\n}\nif ((r.azalan || []).length) {\n  m += `\\n⚠️ Azalan / biten (${r.azalan.length}):\\n`;\n  r.azalan.slice(0, 25).forEach(x => { m += `${Number(x.stok) <= 0 ? '🔴' : '🟠'} ${x.urun}: ${Number(x.stok)} ${x.birim}\\n`; });\n} else {\n  m += `\\n✅ Azalan ürün yok`;\n}\nreturn [{ json: { text: m } }];"
+      },
+      "id": "c2b2d4e0-0003-4d2b-8b02-000000000003",
+      "name": "Mesajı hazırla",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [480, 0]
+    },
+    {
+      "parameters": {
+        "chatId": "BURAYA_TELEGRAM_CHAT_ID",
+        "text": "={{ $json.text }}",
+        "additionalFields": {}
+      },
+      "id": "c2b2d4e0-0004-4d2b-8b02-000000000004",
+      "name": "Telegram'a gönder",
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1.2,
+      "position": [720, 0],
+      "credentials": {
+        "telegramApi": { "id": "", "name": "Telegram account" }
+      }
+    }
+  ],
+  "connections": {
+    "Her akşam 21:00": { "main": [[{ "node": "Supabase'den günün raporu", "type": "main", "index": 0 }]] },
+    "Supabase'den günün raporu": { "main": [[{ "node": "Mesajı hazırla", "type": "main", "index": 0 }]] },
+    "Mesajı hazırla": { "main": [[{ "node": "Telegram'a gönder", "type": "main", "index": 0 }]] }
+  },
+  "active": false,
+  "settings": { "executionOrder": "v1", "timezone": "Europe/Istanbul" }
+}

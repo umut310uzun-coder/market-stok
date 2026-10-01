@@ -1,0 +1,60 @@
+{
+  "name": "Market - Stok uyarısı (Telegram)",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "market-stok-uyari",
+        "options": {}
+      },
+      "id": "b1a1c3f0-0001-4c1a-9a01-000000000001",
+      "name": "Supabase'den gelen uyarı",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [0, 0],
+      "webhookId": "market-stok-uyari"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "string": [
+            {
+              "value1": "={{ $json.headers['x-market-secret'] }}",
+              "value2": "BURAYA_GIZLI_KELIME"
+            }
+          ]
+        }
+      },
+      "id": "b1a1c3f0-0002-4c1a-9a01-000000000002",
+      "name": "Gizli kelime doğru mu?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [240, 0]
+    },
+    {
+      "parameters": {
+        "chatId": "BURAYA_TELEGRAM_CHAT_ID",
+        "text": "={{ $json.body.durum === 'bitti' ? '🔴 STOK BİTTİ' : ($json.body.durum === 'test' ? '✅ TEST — bildirim çalışıyor' : '🟠 STOK AZALDI') }}\n\n📦 {{ $json.body.urun }}\nKalan: {{ $json.body.stok }} {{ $json.body.birim }} (uyarı sınırı: {{ $json.body.min_stok }})\nBarkod: {{ $json.body.barkod }}",
+        "additionalFields": {}
+      },
+      "id": "b1a1c3f0-0003-4c1a-9a01-000000000003",
+      "name": "Telegram'a gönder",
+      "type": "n8n-nodes-base.telegram",
+      "typeVersion": 1.2,
+      "position": [480, -20],
+      "credentials": {
+        "telegramApi": { "id": "", "name": "Telegram account" }
+      }
+    }
+  ],
+  "connections": {
+    "Supabase'den gelen uyarı": {
+      "main": [[{ "node": "Gizli kelime doğru mu?", "type": "main", "index": 0 }]]
+    },
+    "Gizli kelime doğru mu?": {
+      "main": [[{ "node": "Telegram'a gönder", "type": "main", "index": 0 }], []]
+    }
+  },
+  "active": false,
+  "settings": { "executionOrder": "v1" }
+}

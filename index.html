@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Market</title>
+  <meta name="theme-color" content="#0f766e">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="icon-192.png">
+  <!-- iPhone: ana ekrana ekleyince uygulama gibi açılsın -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Market">
+  <link rel="apple-touch-icon" href="icon-192.png">
+  <link rel="stylesheet" href="style.css">
+
+  <script src="config.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script>
+  <script src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.6/dist/JsBarcode.all.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js"></script>
+  <script type="module" src="app.js"></script>
+</head>
+<body>
+  <div id="app"><div class="center muted">Yükleniyor…</div></div>
+  <div id="toasts"></div>
+  <div id="printArea"></div>
+</body>
+</html>
