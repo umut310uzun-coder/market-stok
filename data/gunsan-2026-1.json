@@ -1,0 +1,5203 @@
+[
+{
+"code": "01281100-Y00101",
+"name": "Visage Beyaz Anahtar (çerçeveli)",
+"list": 132.9,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00101",
+"name": "Visage Krem Anahtar (çerçeveli)",
+"list": 132.9,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00103",
+"name": "Visage Beyaz Komütatör (çerçeveli)",
+"list": 164.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00103",
+"name": "Visage Krem Komütatör (çerçeveli)",
+"list": 164.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00105",
+"name": "Visage Beyaz Liht (çerçeveli)",
+"list": 144.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00105",
+"name": "Visage Krem Liht (çerçeveli)",
+"list": 144.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00107",
+"name": "Visage Beyaz Vavien (çerçeveli)",
+"list": 163.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00107",
+"name": "Visage Krem Vavien (çerçeveli)",
+"list": 163.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100109",
+"name": "Visage Beyaz Komütatör Vavien (çerçeveli)",
+"list": 258.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100109",
+"name": "Visage Krem Komütatör Vavien (çerçeveli)",
+"list": 258.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00135",
+"name": "Visage Beyaz Permütatör (Ara Vavien) (çerçeveli)",
+"list": 218.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00135",
+"name": "Visage Krem Permütatör (Ara Vavien) (çerçeveli)",
+"list": 218.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00110",
+"name": "Visage Beyaz Kapi Otomatigi (çerçeveli)",
+"list": 144.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00110",
+"name": "Visage Krem Kapi Otomatigi (çerçeveli)",
+"list": 144.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00111",
+"name": "Visage Beyaz Zil Butonu (çerçeveli)",
+"list": 144.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00111",
+"name": "Visage Krem Zil Butonu (çerçeveli)",
+"list": 144.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100160",
+"name": "Visage Beyaz Üçlü Anahtar (çerçeveli)",
+"list": 260.9,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100160",
+"name": "Visage Krem Üçlü Anahtar (çerçeveli)",
+"list": 260.9,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100134",
+"name": "Visage Beyaz Müzik Yayın Anahtarı (çerçeveli)",
+"list": 1109.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100134",
+"name": "Visage Krem Müzik Yayın Anahtarı (çerçeveli)",
+"list": 1109.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100179",
+"name": "Visage Beyaz Jaluzi Kumanda Anahtarı (Tek Düşmeli) (çerçeveli)",
+"list": 234.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100179",
+"name": "Visage Krem Jaluzi Kumanda Anahtarı (Tek Düşmeli) (çerçeveli)",
+"list": 234.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00125",
+"name": "Visage Beyaz Jaluzi Kumanda Anahtarı (İki Düşmeli) (çerçeveli)",
+"list": 213.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00125",
+"name": "Visage Krem Jaluzi Kumanda Anahtarı (İki Düşmeli) (çerçeveli)",
+"list": 213.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100163",
+"name": "Visage Beyaz Boiler Anahtar (çerçeveli)",
+"list": 204.2,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100163",
+"name": "Visage Krem Boiler Anahtar (çerçeveli)",
+"list": 204.2,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100312",
+"name": "Visage Beyaz İpli Acil Uyarı Anahtarı (çerçeveli)",
+"list": 275.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100312",
+"name": "Visage Krem İpli Acil Uyarı Anahtarı (çerçeveli)",
+"list": 275.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100356",
+"name": "Visage Beyaz Komütatör Liht (çerçeveli)",
+"list": 226.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100356",
+"name": "Visage Krem Komütatör Liht (çerçeveli)",
+"list": 226.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100380",
+"name": "Visage Beyaz DND/MUR Komütatörü (çerçeveli)",
+"list": 212.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100380",
+"name": "Visage Krem DND/MUR Komütatörü (çerçeveli)",
+"list": 212.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00102",
+"name": "Visage Beyaz İşikli Anahtar (çerçeveli)",
+"list": 199.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00102",
+"name": "Visage Krem İşikli Anahtar (çerçeveli)",
+"list": 199.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00104",
+"name": "Visage Beyaz İşikli Komütatör (çerçeveli)",
+"list": 221.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00104",
+"name": "Visage Krem İşikli Komütatör (çerçeveli)",
+"list": 221.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00106",
+"name": "Visage Beyaz İşikli Liht (çerçeveli)",
+"list": 199.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00106",
+"name": "Visage Krem İşikli Liht (çerçeveli)",
+"list": 199.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00108",
+"name": "Visage Beyaz İşikli Vavien (çerçeveli)",
+"list": 228.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00108",
+"name": "Visage Krem İşikli Vavien (çerçeveli)",
+"list": 228.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00112",
+"name": "Visage Beyaz İşikli Etiketli Zil Butonu, 12V (çerçeveli)",
+"list": 236.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00112",
+"name": "Visage Krem İşikli Etiketli Zil Butonu, 12V (çerçeveli)",
+"list": 236.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100113",
+"name": "Visage Beyaz Priz (çerçeveli)",
+"list": 134.9,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100113",
+"name": "Visage Krem Priz (çerçeveli)",
+"list": 134.9,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00115",
+"name": "Visage Beyaz Topraklı Priz (çerçeveli)",
+"list": 164.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00115",
+"name": "Visage Krem Topraklı Priz (çerçeveli)",
+"list": 164.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00116",
+"name": "Visage Beyaz Çocuk Korumalı Topraklı Priz (çerçeveli)",
+"list": 211.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00116",
+"name": "Visage Krem Çocuk Korumalı Topraklı Priz (çerçeveli)",
+"list": 211.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00138",
+"name": "Visage Beyaz Çocuk Korumalı Kapaklı Topraklı Priz (çerçeveli)",
+"list": 221.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00138",
+"name": "Visage Krem Çocuk Korumalı Kapaklı Topraklı Priz (çerçeveli)",
+"list": 221.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00117",
+"name": "Visage Beyaz Kapaklı Topraklı Priz (çerçeveli)",
+"list": 186.5,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00117",
+"name": "Visage Krem Kapaklı Topraklı Priz (çerçeveli)",
+"list": 186.5,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00118",
+"name": "Visage Beyaz UPS Priz (çerçeveli)",
+"list": 199.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00118",
+"name": "Visage Krem UPS Priz (çerçeveli)",
+"list": 199.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00136",
+"name": "Visage Beyaz Çocuk Korumalı Kapaklı UPS Priz (çerçeveli)",
+"list": 241.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00136",
+"name": "Visage Krem Çocuk Korumalı Kapaklı UPS Priz (çerçeveli)",
+"list": 241.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00137",
+"name": "Visage Beyaz Çocuk Korumalı UPS Priz (çerçeveli)",
+"list": 225.5,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00137",
+"name": "Visage Krem Çocuk Korumalı UPS Priz (çerçeveli)",
+"list": 225.5,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y00139",
+"name": "Visage Beyaz Kapaklı UPS Priz (çerçeveli)",
+"list": 216.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y00139",
+"name": "Visage Krem Kapaklı UPS Priz (çerçeveli)",
+"list": 216.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100185",
+"name": "Visage Beyaz İkili UPS Priz (çerçeveli)",
+"list": 318.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100185",
+"name": "Visage Krem İkili UPS Priz (çerçeveli)",
+"list": 318.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100149",
+"name": "Visage Beyaz İkili Priz (çerçeveli)",
+"list": 252.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100149",
+"name": "Visage Krem İkili Priz (çerçeveli)",
+"list": 252.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100150",
+"name": "Visage Beyaz İkili Topraklı Priz (çerçeveli)",
+"list": 280.9,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100150",
+"name": "Visage Krem İkili Topraklı Priz (çerçeveli)",
+"list": 280.9,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100122",
+"name": "Visage Beyaz TV Prizi (Geçişli-Sonlu) (çerçeveli)",
+"list": 212.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100122",
+"name": "Visage Krem TV Prizi (Geçişli-Sonlu) (çerçeveli)",
+"list": 212.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100153",
+"name": "Visage Beyaz Uydu Prizi Sonlu (Sat-TV-Radyo) (çerçeveli)",
+"list": 1100.0,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100153",
+"name": "Visage Krem Uydu Prizi Sonlu (Sat-TV-Radyo) (çerçeveli)",
+"list": 1100.0,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100339",
+"name": "Visage Beyaz Uydu Prizi Sonlu (Alcad Sat-TV) (çerçeveli)",
+"list": 1211.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100339",
+"name": "Visage Krem Uydu Prizi Sonlu (Alcad Sat-TV) (çerçeveli)",
+"list": 1211.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100154",
+"name": "Visage Beyaz Uydu Prizi Geçişli (Sat-TV-Radyo) (çerçeveli)",
+"list": 1100.0,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100154",
+"name": "Visage Krem Uydu Prizi Geçişli (Sat-TV-Radyo) (çerçeveli)",
+"list": 1100.0,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100391",
+"name": "Visage Beyaz Tekli Uydu Prizi Eko (çerçeveli)",
+"list": 182.2,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100391",
+"name": "Visage Krem Tekli Uydu Prizi Eko (çerçeveli)",
+"list": 182.2,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100156",
+"name": "Visage Beyaz Uydu Prizi Sonlu (TV-Sat) (çerçeveli)",
+"list": 869.9,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100156",
+"name": "Visage Krem Uydu Prizi Sonlu (TV-Sat) (çerçeveli)",
+"list": 869.9,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100172",
+"name": "Visage Beyaz Tekli Uydu Prizi F Konnektörlü (Geçişli-Sonlu) (çerçeveli)",
+"list": 340.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100172",
+"name": "Visage Krem Tekli Uydu Prizi F Konnektörlü (Geçişli-Sonlu) (çerçeveli)",
+"list": 340.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100165",
+"name": "Visage Beyaz Kablo Çıkışı (çerçeveli)",
+"list": 117.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100165",
+"name": "Visage Krem Kablo Çıkışı (çerçeveli)",
+"list": 117.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100314",
+"name": "Visage Beyaz HDMI Kablo Çıkışı (çerçeveli)",
+"list": 129.3,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100314",
+"name": "Visage Krem HDMI Kablo Çıkışı (çerçeveli)",
+"list": 129.3,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100120",
+"name": "Visage Beyaz Nümeris Telefon Prizi (Cat3) (çerçeveli)",
+"list": 168.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100120",
+"name": "Visage Krem Nümeris Telefon Prizi (Cat3) (çerçeveli)",
+"list": 168.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100121",
+"name": "Visage Beyaz İkili Nümeris Telefon Prizi (2 x Cat3) (çerçeveli)",
+"list": 258.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100121",
+"name": "Visage Krem İkili Nümeris Telefon Prizi (2 x Cat3) (çerçeveli)",
+"list": 258.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100132",
+"name": "Visage Beyaz Data + Nümeris Telefon Prizi (RJ45 Cat5E + Cat3) (çerçeveli)",
+"list": 574.9,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100132",
+"name": "Visage Krem Data + Nümeris Telefon Prizi (RJ45 Cat5E + Cat3) (çerçeveli)",
+"list": 574.9,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100171",
+"name": "Visage Beyaz Data + Nümeris Telefon Prizi (RJ45 Cat6 + Cat3) (çerçeveli)",
+"list": 574.9,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100171",
+"name": "Visage Krem Data + Nümeris Telefon Prizi (RJ45 Cat6 + Cat3) (çerçeveli)",
+"list": 574.9,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100129",
+"name": "Visage Beyaz Data Prizi (Jaksiz) (çerçeveli)",
+"list": 139.2,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100129",
+"name": "Visage Krem Data Prizi (Jaksiz) (çerçeveli)",
+"list": 139.2,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100130",
+"name": "Visage Beyaz Tekli Data Prizi (RJ45 Cat5E) (çerçeveli)",
+"list": 438.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100130",
+"name": "Visage Krem Tekli Data Prizi (RJ45 Cat5E) (çerçeveli)",
+"list": 438.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100169",
+"name": "Visage Beyaz Tekli Data Prizi (RJ45 Cat6) (çerçeveli)",
+"list": 438.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100169",
+"name": "Visage Krem Tekli Data Prizi (RJ45 Cat6) (çerçeveli)",
+"list": 438.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100131",
+"name": "Visage Beyaz İkili Data Prizi (2 x RJ45 Cat5E) (çerçeveli)",
+"list": 731.3,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100131",
+"name": "Visage Krem İkili Data Prizi (2 x RJ45 Cat5E) (çerçeveli)",
+"list": 731.3,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100170",
+"name": "Visage Beyaz İkili Data Prizi (2 x RJ45 Cat6) (çerçeveli)",
+"list": 731.3,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100170",
+"name": "Visage Krem İkili Data Prizi (2 x RJ45 Cat6) (çerçeveli)",
+"list": 731.3,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100332",
+"name": "Visage Beyaz İkili Data Prizi (Jaksiz) (çerçeveli)",
+"list": 140.0,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100332",
+"name": "Visage Krem İkili Data Prizi (Jaksiz) (çerçeveli)",
+"list": 140.0,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100337",
+"name": "Visage Beyaz Müzik Yayın Prizi (çerçeveli)",
+"list": 226.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100337",
+"name": "Visage Krem Müzik Yayın Prizi (çerçeveli)",
+"list": 226.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100352",
+"name": "Visage Beyaz VGA Prizi (çerçeveli)",
+"list": 1353.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100352",
+"name": "Visage Krem VGA Prizi (çerçeveli)",
+"list": 1353.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100350",
+"name": "Visage Beyaz HDMI Prizi (çerçeveli)",
+"list": 484.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100350",
+"name": "Visage Krem HDMI Prizi (çerçeveli)",
+"list": 484.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100351",
+"name": "Visage Beyaz USB Data Prizi (çerçeveli)",
+"list": 423.9,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100351",
+"name": "Visage Krem USB Data Prizi (çerçeveli)",
+"list": 423.9,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100322",
+"name": "Visage Beyaz Kulaklık Jakı (çerçeveli)",
+"list": 567.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100322",
+"name": "Visage Krem Kulaklık Jakı (çerçeveli)",
+"list": 567.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100323",
+"name": "Visage Beyaz Fiber Optik Data Prizi (çerçeveli)",
+"list": 286.5,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100323",
+"name": "Visage Krem Fiber Optik Data Prizi (çerçeveli)",
+"list": 286.5,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100359",
+"name": "Visage Beyaz Mikrofon Prizi (çerçeveli)",
+"list": 351.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100359",
+"name": "Visage Krem Mikrofon Prizi (çerçeveli)",
+"list": 351.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100126",
+"name": "Visage Beyaz Dimmer 1000VA (çerçeveli)",
+"list": 703.3,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100126",
+"name": "Visage Krem Dimmer 1000VA (çerçeveli)",
+"list": 703.3,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100128",
+"name": "Visage Beyaz Vavien Dimmer 600VA (çerçeveli)",
+"list": 1273.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100128",
+"name": "Visage Krem Vavien Dimmer 600VA (çerçeveli)",
+"list": 1273.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100127",
+"name": "Visage Beyaz Işıklı Dimmer 1000VA (çerçeveli)",
+"list": 768.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100127",
+"name": "Visage Krem Işıklı Dimmer 1000VA (çerçeveli)",
+"list": 768.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100157",
+"name": "Visage Beyaz Energy Saver Standart (çerçeveli)",
+"list": 491.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100157",
+"name": "Visage Krem Energy Saver Standart (çerçeveli)",
+"list": 491.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100357",
+"name": "Visage Beyaz Energy Saver (RF) (çerçeveli)",
+"list": 2020.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100357",
+"name": "Visage Krem Energy Saver (RF) (çerçeveli)",
+"list": 2020.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-100164",
+"name": "Visage Beyaz Hareket Sensörü (çerçeveli)",
+"list": 1789.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-100164",
+"name": "Visage Krem Hareket Sensörü (çerçeveli)",
+"list": 1789.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01151100-000711",
+"name": "Visage Energy Saver Rölesil (3x10A) Std (220VAC)",
+"list": 1090.8,
+"cur": "TL",
+"cat": "Visage Elektronik"
+},
+{
+"code": "01151100-000713",
+"name": "Visage Energy Saver Rölesil (2x16A) RF",
+"list": 2747.0,
+"cur": "TL",
+"cat": "Visage Elektronik"
+},
+{
+"code": "01151100-000714",
+"name": "Visage Energy Saver Rölesil 40A + 2xVRV (NO-NC) RF",
+"list": 6676.4,
+"cur": "TL",
+"cat": "Visage Elektronik"
+},
+{
+"code": "01281100-Y50101",
+"name": "Visage Beyaz Anahtar (çerçevesiz)",
+"list": 117.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50101",
+"name": "Visage Krem Anahtar (çerçevesiz)",
+"list": 117.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y50103",
+"name": "Visage Beyaz Komütatör (çerçevesiz)",
+"list": 149.3,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50103",
+"name": "Visage Krem Komütatör (çerçevesiz)",
+"list": 149.3,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y50105",
+"name": "Visage Beyaz Liht (çerçevesiz)",
+"list": 129.5,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50105",
+"name": "Visage Krem Liht (çerçevesiz)",
+"list": 129.5,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y50107",
+"name": "Visage Beyaz Vavien (çerçevesiz)",
+"list": 148.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50107",
+"name": "Visage Krem Vavien (çerçevesiz)",
+"list": 148.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-150109",
+"name": "Visage Beyaz Komütatör Vavien (çerçevesiz)",
+"list": 243.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-150109",
+"name": "Visage Krem Komütatör Vavien (çerçevesiz)",
+"list": 243.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y50135",
+"name": "Visage Beyaz Permütatör (Ara Vavien) (çerçevesiz)",
+"list": 202.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50135",
+"name": "Visage Krem Permütatör (Ara Vavien) (çerçevesiz)",
+"list": 202.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y50110",
+"name": "Visage Beyaz Kapi Otomatigi (çerçevesiz)",
+"list": 129.5,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50110",
+"name": "Visage Krem Kapi Otomatigi (çerçevesiz)",
+"list": 129.5,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y50111",
+"name": "Visage Beyaz Zil Butonu (çerçevesiz)",
+"list": 129.5,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50111",
+"name": "Visage Krem Zil Butonu (çerçevesiz)",
+"list": 129.5,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-150160",
+"name": "Visage Beyaz Üçlü Anahtar (çerçevesiz)",
+"list": 245.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-150160",
+"name": "Visage Krem Üçlü Anahtar (çerçevesiz)",
+"list": 245.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-150134",
+"name": "Visage Beyaz Müzik Yayın Anahtarı (çerçevesiz)",
+"list": 1094.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-150134",
+"name": "Visage Krem Müzik Yayın Anahtarı (çerçevesiz)",
+"list": 1094.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-150179",
+"name": "Visage Beyaz Jaluzi Kumanda Anahtarı (Tek Düşmeli) (çerçevesiz)",
+"list": 219.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-150179",
+"name": "Visage Krem Jaluzi Kumanda Anahtarı (Tek Düşmeli) (çerçevesiz)",
+"list": 219.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y50125",
+"name": "Visage Beyaz Jaluzi Kumanda Anahtarı (İki Düşmeli) (çerçevesiz)",
+"list": 197.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50125",
+"name": "Visage Krem Jaluzi Kumanda Anahtarı (İki Düşmeli) (çerçevesiz)",
+"list": 197.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-150163",
+"name": "Visage Beyaz Boiler Anahtar (çerçevesiz)",
+"list": 188.9,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-150163",
+"name": "Visage Krem Boiler Anahtar (çerçevesiz)",
+"list": 188.9,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-150312",
+"name": "Visage Beyaz İpli Acil Uyarı Anahtarı (çerçevesiz)",
+"list": 260.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-150312",
+"name": "Visage Krem İpli Acil Uyarı Anahtarı (çerçevesiz)",
+"list": 260.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-150356",
+"name": "Visage Beyaz Komütatör Liht (çerçevesiz)",
+"list": 211.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-150356",
+"name": "Visage Krem Komütatör Liht (çerçevesiz)",
+"list": 211.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-150380",
+"name": "Visage Beyaz DND/MUR Komütatörü (çerçevesiz)",
+"list": 197.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-150380",
+"name": "Visage Krem DND/MUR Komütatörü (çerçevesiz)",
+"list": 197.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y50102",
+"name": "Visage Beyaz İşikli Anahtar (çerçevesiz)",
+"list": 184.3,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50102",
+"name": "Visage Krem İşikli Anahtar (çerçevesiz)",
+"list": 184.3,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y50104",
+"name": "Visage Beyaz İşikli Komütatör (çerçevesiz)",
+"list": 206.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50104",
+"name": "Visage Krem İşikli Komütatör (çerçevesiz)",
+"list": 206.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y50106",
+"name": "Visage Beyaz İşikli Liht (çerçevesiz)",
+"list": 184.3,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50106",
+"name": "Visage Krem İşikli Liht (çerçevesiz)",
+"list": 184.3,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y50108",
+"name": "Visage Beyaz İşikli Vavien (çerçevesiz)",
+"list": 212.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50108",
+"name": "Visage Krem İşikli Vavien (çerçevesiz)",
+"list": 212.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y50112",
+"name": "Visage Beyaz İşikli Etiketli Zil Butonu, 12V (çerçevesiz)",
+"list": 221.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y50112",
+"name": "Visage Krem İşikli Etiketli Zil Butonu, 12V (çerçevesiz)",
+"list": 221.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-151113",
+"name": "Visage Beyaz Priz (çerçevesiz)",
+"list": 119.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-151113",
+"name": "Visage Krem Priz (çerçevesiz)",
+"list": 119.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y52115",
+"name": "Visage Beyaz Topraklı Priz (çerçevesiz)",
+"list": 149.3,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y52115",
+"name": "Visage Krem Topraklı Priz (çerçevesiz)",
+"list": 149.3,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y52116",
+"name": "Visage Beyaz Çocuk Korumalı Topraklı Priz (çerçevesiz)",
+"list": 195.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y52116",
+"name": "Visage Krem Çocuk Korumalı Topraklı Priz (çerçevesiz)",
+"list": 195.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y52138",
+"name": "Visage Beyaz Çocuk Korumalı Kapaklı Topraklı Priz (çerçevesiz)",
+"list": 206.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y52138",
+"name": "Visage Krem Çocuk Korumalı Kapaklı Topraklı Priz (çerçevesiz)",
+"list": 206.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y52117",
+"name": "Visage Beyaz Kapaklı Topraklı Priz (çerçevesiz)",
+"list": 171.2,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y52117",
+"name": "Visage Krem Kapaklı Topraklı Priz (çerçevesiz)",
+"list": 171.2,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y53118",
+"name": "Visage Beyaz UPS Priz (çerçevesiz)",
+"list": 184.3,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y53118",
+"name": "Visage Krem UPS Priz (çerçevesiz)",
+"list": 184.3,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y53136",
+"name": "Visage Beyaz Çocuk Korumalı Kapaklı UPS Priz (çerçevesiz)",
+"list": 225.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y53136",
+"name": "Visage Krem Çocuk Korumalı Kapaklı UPS Priz (çerçevesiz)",
+"list": 225.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y53137",
+"name": "Visage Beyaz Çocuk Korumalı UPS Priz (çerçevesiz)",
+"list": 210.2,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y53137",
+"name": "Visage Krem Çocuk Korumalı UPS Priz (çerçevesiz)",
+"list": 210.2,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-Y53139",
+"name": "Visage Beyaz Kapaklı UPS Priz (çerçevesiz)",
+"list": 201.3,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-Y53139",
+"name": "Visage Krem Kapaklı UPS Priz (çerçevesiz)",
+"list": 201.3,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-156185",
+"name": "Visage Beyaz İkili UPS Priz (çerçevesiz)",
+"list": 244.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-156185",
+"name": "Visage Krem İkili UPS Priz (çerçevesiz)",
+"list": 244.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-154149",
+"name": "Visage Beyaz İkili Priz (çerçevesiz)",
+"list": 179.1,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-154149",
+"name": "Visage Krem İkili Priz (çerçevesiz)",
+"list": 179.1,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-155150",
+"name": "Visage Beyaz İkili Topraklı Priz (çerçevesiz)",
+"list": 207.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-155150",
+"name": "Visage Krem İkili Topraklı Priz (çerçevesiz)",
+"list": 207.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-159122",
+"name": "Visage Beyaz TV Prizi (Geçişi-Sonlu) (çerçevesiz)",
+"list": 197.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-159122",
+"name": "Visage Krem TV Prizi (Geçişi-Sonlu) (çerçevesiz)",
+"list": 197.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-159153",
+"name": "Visage Beyaz Uydu Prizi Sonlu (Sat-TV-Radyo) (çerçevesiz)",
+"list": 1084.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-159153",
+"name": "Visage Krem Uydu Prizi Sonlu (Sat-TV-Radyo) (çerçevesiz)",
+"list": 1084.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-159339",
+"name": "Visage Beyaz Uydu Prizi Sonlu (Alcad Sat-TV) (çerçevesiz)",
+"list": 1196.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-159339",
+"name": "Visage Krem Uydu Prizi Sonlu (Alcad Sat-TV) (çerçevesiz)",
+"list": 1196.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-159154",
+"name": "Visage Beyaz Uydu Prizi Geçişi (Sat-TV-Radyo) (çerçevesiz)",
+"list": 1084.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-159154",
+"name": "Visage Krem Uydu Prizi Geçişi (Sat-TV-Radyo) (çerçevesiz)",
+"list": 1084.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-159391",
+"name": "Visage Beyaz Tekli Uydu Prizi Eko (çerçevesiz)",
+"list": 166.9,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-159391",
+"name": "Visage Krem Tekli Uydu Prizi Eko (çerçevesiz)",
+"list": 166.9,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-159156",
+"name": "Visage Beyaz Uydu Prizi Sonlu (TV-Sat) (çerçevesiz)",
+"list": 854.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-159156",
+"name": "Visage Krem Uydu Prizi Sonlu (TV-Sat) (çerçevesiz)",
+"list": 854.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-159172",
+"name": "Visage Beyaz Tekli Uydu Prizi F Konnektörlü (Geçişi-Sonlu) (çerçevesiz)",
+"list": 324.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-159172",
+"name": "Visage Krem Tekli Uydu Prizi F Konnektörlü (Geçişi-Sonlu) (çerçevesiz)",
+"list": 324.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157165",
+"name": "Visage Beyaz Kablo Çıkışı (çerçevesiz)",
+"list": 102.5,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157165",
+"name": "Visage Krem Kablo Çıkışı (çerçevesiz)",
+"list": 102.5,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157314",
+"name": "Visage Beyaz HDMI Kablo Çıkışı (çerçevesiz)",
+"list": 114.0,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157314",
+"name": "Visage Krem HDMI Kablo Çıkışı (çerçevesiz)",
+"list": 114.0,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157120",
+"name": "Visage Beyaz Nümeris Telefon Prizi (Cat3) (çerçevesiz)",
+"list": 152.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157120",
+"name": "Visage Krem Nümeris Telefon Prizi (Cat3) (çerçevesiz)",
+"list": 152.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157121",
+"name": "Visage Beyaz İkili Nümeris Telefon Prizi (2 x Cat3) (çerçevesiz)",
+"list": 243.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157121",
+"name": "Visage Krem İkili Nümeris Telefon Prizi (2 x Cat3) (çerçevesiz)",
+"list": 243.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157132",
+"name": "Visage Beyaz Data + Nümeris Telefon Prizi (RJ45 Cat5E + Cat3) (çerçevesiz)",
+"list": 559.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157132",
+"name": "Visage Krem Data + Nümeris Telefon Prizi (RJ45 Cat5E + Cat3) (çerçevesiz)",
+"list": 559.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157171",
+"name": "Visage Beyaz Data + Nümeris Telefon Prizi (RJ45 Cat6 + Cat3) (çerçevesiz)",
+"list": 559.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157171",
+"name": "Visage Krem Data + Nümeris Telefon Prizi (RJ45 Cat6 + Cat3) (çerçevesiz)",
+"list": 559.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157129",
+"name": "Visage Beyaz Data Prizi (Jaksiz) (çerçevesiz)",
+"list": 123.9,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157129",
+"name": "Visage Krem Data Prizi (Jaksiz) (çerçevesiz)",
+"list": 123.9,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157130",
+"name": "Visage Beyaz Tekli Data Prizi (RJ45 Cat5E) (çerçevesiz)",
+"list": 423.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157130",
+"name": "Visage Krem Tekli Data Prizi (RJ45 Cat5E) (çerçevesiz)",
+"list": 423.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157169",
+"name": "Visage Beyaz Tekli Data Prizi (RJ45 Cat6) (çerçevesiz)",
+"list": 423.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157169",
+"name": "Visage Krem Tekli Data Prizi (RJ45 Cat6) (çerçevesiz)",
+"list": 423.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157131",
+"name": "Visage Beyaz İkili Data Prizi (2 x RJ45 Cat5E) (çerçevesiz)",
+"list": 716.0,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157131",
+"name": "Visage Krem İkili Data Prizi (2 x RJ45 Cat5E) (çerçevesiz)",
+"list": 716.0,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157170",
+"name": "Visage Beyaz İkili Data Prizi (2 x RJ45 Cat6) (çerçevesiz)",
+"list": 716.0,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157170",
+"name": "Visage Krem İkili Data Prizi (2 x RJ45 Cat6) (çerçevesiz)",
+"list": 716.0,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157332",
+"name": "Visage Beyaz İkili Data Prizi (Jaksiz) (çerçevesiz)",
+"list": 124.7,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157332",
+"name": "Visage Krem İkili Data Prizi (Jaksiz) (çerçevesiz)",
+"list": 124.7,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157337",
+"name": "Visage Beyaz Müzik Yayın Prizi (çerçevesiz)",
+"list": 210.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157337",
+"name": "Visage Krem Müzik Yayın Prizi (çerçevesiz)",
+"list": 210.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-158352",
+"name": "Visage Beyaz VGA Prizi (çerçevesiz)",
+"list": 1337.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-158352",
+"name": "Visage Krem VGA Prizi (çerçevesiz)",
+"list": 1337.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157350",
+"name": "Visage Beyaz HDMI Prizi (çerçevesiz)",
+"list": 469.5,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157350",
+"name": "Visage Krem HDMI Prizi (çerçevesiz)",
+"list": 469.5,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157351",
+"name": "Visage Beyaz USB Data Prizi (çerçevesiz)",
+"list": 408.6,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157351",
+"name": "Visage Krem USB Data Prizi (çerçevesiz)",
+"list": 408.6,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157322",
+"name": "Visage Beyaz Kulaklık Jaki (çerçevesiz)",
+"list": 552.5,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157322",
+"name": "Visage Krem Kulaklık Jaki (çerçevesiz)",
+"list": 552.5,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157323",
+"name": "Visage Beyaz Fiber Optik Data Prizi (çerçevesiz)",
+"list": 271.2,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157323",
+"name": "Visage Krem Fiber Optik Data Prizi (çerçevesiz)",
+"list": 271.2,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-157359",
+"name": "Visage Beyaz Mikrofon Prizi (çerçevesiz)",
+"list": 335.8,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-157359",
+"name": "Visage Krem Mikrofon Prizi (çerçevesiz)",
+"list": 335.8,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-160126",
+"name": "Visage Beyaz Dimmer 1000VA (çerçevesiz)",
+"list": 688.0,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-160126",
+"name": "Visage Krem Dimmer 1000VA (çerçevesiz)",
+"list": 688.0,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-160128",
+"name": "Visage Beyaz Vavien Dimmer 600VA (çerçevesiz)",
+"list": 1258.5,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-160128",
+"name": "Visage Krem Vavien Dimmer 600VA (çerçevesiz)",
+"list": 1258.5,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-160127",
+"name": "Visage Beyaz Işikli Dimmer 1000VA (çerçevesiz)",
+"list": 753.4,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-160127",
+"name": "Visage Krem Işikli Dimmer 1000VA (çerçevesiz)",
+"list": 753.4,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-158357",
+"name": "Visage Beyaz Energy Saver (RF) (çerçevesiz)",
+"list": 2005.3,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-158357",
+"name": "Visage Krem Energy Saver (RF) (çerçevesiz)",
+"list": 2005.3,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-158164",
+"name": "Visage Beyaz Hareket Sensörü (çerçevesiz)",
+"list": 1774.3,
+"cur": "TL",
+"cat": "Visage Beyaz Anahtar-Priz"
+},
+{
+"code": "01281200-158164",
+"name": "Visage Krem Hareket Sensörü (çerçevesiz)",
+"list": 1774.3,
+"cur": "TL",
+"cat": "Visage Krem Anahtar-Priz"
+},
+{
+"code": "01281100-000140",
+"name": "Visage Beyaz Tekli Çerçeve",
+"list": 15.3,
+"cur": "TL",
+"cat": "Visage Beyaz Çerçeve-Kasa"
+},
+{
+"code": "01281200-000140",
+"name": "Visage Krem Tekli Çerçeve",
+"list": 15.3,
+"cur": "TL",
+"cat": "Visage Krem Çerçeve-Kasa"
+},
+{
+"code": "01281100-000141",
+"name": "Visage Beyaz İkili Çerçeve",
+"list": 90.4,
+"cur": "TL",
+"cat": "Visage Beyaz Çerçeve-Kasa"
+},
+{
+"code": "01281200-000141",
+"name": "Visage Krem İkili Çerçeve",
+"list": 90.4,
+"cur": "TL",
+"cat": "Visage Krem Çerçeve-Kasa"
+},
+{
+"code": "01281100-000143",
+"name": "Visage Beyaz Üçlü Çerçeve",
+"list": 115.7,
+"cur": "TL",
+"cat": "Visage Beyaz Çerçeve-Kasa"
+},
+{
+"code": "01281200-000143",
+"name": "Visage Krem Üçlü Çerçeve",
+"list": 115.7,
+"cur": "TL",
+"cat": "Visage Krem Çerçeve-Kasa"
+},
+{
+"code": "01281100-000145",
+"name": "Visage Beyaz Dörtlü Çerçeve",
+"list": 148.1,
+"cur": "TL",
+"cat": "Visage Beyaz Çerçeve-Kasa"
+},
+{
+"code": "01281200-000145",
+"name": "Visage Krem Dörtlü Çerçeve",
+"list": 148.1,
+"cur": "TL",
+"cat": "Visage Krem Çerçeve-Kasa"
+},
+{
+"code": "01281100-000146",
+"name": "Visage Beyaz Beşli Çerçeve",
+"list": 189.7,
+"cur": "TL",
+"cat": "Visage Beyaz Çerçeve-Kasa"
+},
+{
+"code": "01281200-000146",
+"name": "Visage Krem Beşli Çerçeve",
+"list": 189.7,
+"cur": "TL",
+"cat": "Visage Krem Çerçeve-Kasa"
+},
+{
+"code": "01281100-000147",
+"name": "Visage Beyaz Altılı Çerçeve",
+"list": 229.5,
+"cur": "TL",
+"cat": "Visage Beyaz Çerçeve-Kasa"
+},
+{
+"code": "01281200-000147",
+"name": "Visage Krem Altılı Çerçeve",
+"list": 229.5,
+"cur": "TL",
+"cat": "Visage Krem Çerçeve-Kasa"
+},
+{
+"code": "01281100-000178",
+"name": "Visage Beyaz İkili Priz Çerçeve",
+"list": 73.3,
+"cur": "TL",
+"cat": "Visage Beyaz Çerçeve-Kasa"
+},
+{
+"code": "01281200-000178",
+"name": "Visage Krem İkili Priz Çerçeve",
+"list": 73.3,
+"cur": "TL",
+"cat": "Visage Krem Çerçeve-Kasa"
+},
+{
+"code": "01281100-000148",
+"name": "Visage Beyaz Siva Üstü Kasa",
+"list": 84.5,
+"cur": "TL",
+"cat": "Visage Beyaz Çerçeve-Kasa"
+},
+{
+"code": "01281200-000148",
+"name": "Visage Krem Siva Üstü Kasa",
+"list": 84.5,
+"cur": "TL",
+"cat": "Visage Krem Çerçeve-Kasa"
+},
+{
+"code": "OS3C1100-06",
+"name": "Otomatik Sigortalar (10kA) C Tipi 1 Kutuplu 6A",
+"list": 431.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B1100-06",
+"name": "Otomatik Sigortalar (10kA) B Tipi 1 Kutuplu 6A",
+"list": 431.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C1100-10",
+"name": "Otomatik Sigortalar (10kA) C Tipi 1 Kutuplu 10A",
+"list": 414.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B1100-10",
+"name": "Otomatik Sigortalar (10kA) B Tipi 1 Kutuplu 10A",
+"list": 414.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C1100-16",
+"name": "Otomatik Sigortalar (10kA) C Tipi 1 Kutuplu 16A",
+"list": 414.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B1100-16",
+"name": "Otomatik Sigortalar (10kA) B Tipi 1 Kutuplu 16A",
+"list": 414.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C1100-20",
+"name": "Otomatik Sigortalar (10kA) C Tipi 1 Kutuplu 20A",
+"list": 414.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B1100-20",
+"name": "Otomatik Sigortalar (10kA) B Tipi 1 Kutuplu 20A",
+"list": 414.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C1100-25",
+"name": "Otomatik Sigortalar (10kA) C Tipi 1 Kutuplu 25A",
+"list": 414.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B1100-25",
+"name": "Otomatik Sigortalar (10kA) B Tipi 1 Kutuplu 25A",
+"list": 414.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C1100-32",
+"name": "Otomatik Sigortalar (10kA) C Tipi 1 Kutuplu 32A",
+"list": 418.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B1100-32",
+"name": "Otomatik Sigortalar (10kA) B Tipi 1 Kutuplu 32A",
+"list": 418.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C1100-40",
+"name": "Otomatik Sigortalar (10kA) C Tipi 1 Kutuplu 40A",
+"list": 423.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B1100-40",
+"name": "Otomatik Sigortalar (10kA) B Tipi 1 Kutuplu 40A",
+"list": 423.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C1100-50",
+"name": "Otomatik Sigortalar (10kA) C Tipi 1 Kutuplu 50A",
+"list": 545.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B1100-50",
+"name": "Otomatik Sigortalar (10kA) B Tipi 1 Kutuplu 50A",
+"list": 545.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C1100-63",
+"name": "Otomatik Sigortalar (10kA) C Tipi 1 Kutuplu 63A",
+"list": 690.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B1100-63",
+"name": "Otomatik Sigortalar (10kA) B Tipi 1 Kutuplu 63A",
+"list": 690.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C2100-06",
+"name": "Otomatik Sigortalar (10kA) C Tipi 2 Kutuplu 6A",
+"list": 905.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B2100-06",
+"name": "Otomatik Sigortalar (10kA) B Tipi 2 Kutuplu 6A",
+"list": 905.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C2100-10",
+"name": "Otomatik Sigortalar (10kA) C Tipi 2 Kutuplu 10A",
+"list": 876.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B2100-10",
+"name": "Otomatik Sigortalar (10kA) B Tipi 2 Kutuplu 10A",
+"list": 876.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C2100-16",
+"name": "Otomatik Sigortalar (10kA) C Tipi 2 Kutuplu 16A",
+"list": 876.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B2100-16",
+"name": "Otomatik Sigortalar (10kA) B Tipi 2 Kutuplu 16A",
+"list": 876.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C2100-20",
+"name": "Otomatik Sigortalar (10kA) C Tipi 2 Kutuplu 20A",
+"list": 876.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B2100-20",
+"name": "Otomatik Sigortalar (10kA) B Tipi 2 Kutuplu 20A",
+"list": 876.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C2100-25",
+"name": "Otomatik Sigortalar (10kA) C Tipi 2 Kutuplu 25A",
+"list": 876.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B2100-25",
+"name": "Otomatik Sigortalar (10kA) B Tipi 2 Kutuplu 25A",
+"list": 876.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C2100-32",
+"name": "Otomatik Sigortalar (10kA) C Tipi 2 Kutuplu 32A",
+"list": 890.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B2100-32",
+"name": "Otomatik Sigortalar (10kA) B Tipi 2 Kutuplu 32A",
+"list": 890.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C2100-40",
+"name": "Otomatik Sigortalar (10kA) C Tipi 2 Kutuplu 40A",
+"list": 920.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B2100-40",
+"name": "Otomatik Sigortalar (10kA) B Tipi 2 Kutuplu 40A",
+"list": 920.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C2100-50",
+"name": "Otomatik Sigortalar (10kA) C Tipi 2 Kutuplu 50A",
+"list": 980.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B2100-50",
+"name": "Otomatik Sigortalar (10kA) B Tipi 2 Kutuplu 50A",
+"list": 980.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C2100-63",
+"name": "Otomatik Sigortalar (10kA) C Tipi 2 Kutuplu 63A",
+"list": 1024.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B2100-63",
+"name": "Otomatik Sigortalar (10kA) B Tipi 2 Kutuplu 63A",
+"list": 1024.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C3100-06",
+"name": "Otomatik Sigortalar (10kA) C Tipi 3 Kutuplu 6A",
+"list": 1276.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B3100-06",
+"name": "Otomatik Sigortalar (10kA) B Tipi 3 Kutuplu 6A",
+"list": 1276.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C3100-10",
+"name": "Otomatik Sigortalar (10kA) C Tipi 3 Kutuplu 10A",
+"list": 1232.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B3100-10",
+"name": "Otomatik Sigortalar (10kA) B Tipi 3 Kutuplu 10A",
+"list": 1232.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C3100-16",
+"name": "Otomatik Sigortalar (10kA) C Tipi 3 Kutuplu 16A",
+"list": 1232.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B3100-16",
+"name": "Otomatik Sigortalar (10kA) B Tipi 3 Kutuplu 16A",
+"list": 1232.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C3100-20",
+"name": "Otomatik Sigortalar (10kA) C Tipi 3 Kutuplu 20A",
+"list": 1232.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B3100-20",
+"name": "Otomatik Sigortalar (10kA) B Tipi 3 Kutuplu 20A",
+"list": 1232.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C3100-25",
+"name": "Otomatik Sigortalar (10kA) C Tipi 3 Kutuplu 25A",
+"list": 1232.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B3100-25",
+"name": "Otomatik Sigortalar (10kA) B Tipi 3 Kutuplu 25A",
+"list": 1232.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C3100-32",
+"name": "Otomatik Sigortalar (10kA) C Tipi 3 Kutuplu 32A",
+"list": 1241.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B3100-32",
+"name": "Otomatik Sigortalar (10kA) B Tipi 3 Kutuplu 32A",
+"list": 1241.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C3100-40",
+"name": "Otomatik Sigortalar (10kA) C Tipi 3 Kutuplu 40A",
+"list": 1350.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B3100-40",
+"name": "Otomatik Sigortalar (10kA) B Tipi 3 Kutuplu 40A",
+"list": 1350.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C3100-50",
+"name": "Otomatik Sigortalar (10kA) C Tipi 3 Kutuplu 50A",
+"list": 1365.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B3100-50",
+"name": "Otomatik Sigortalar (10kA) B Tipi 3 Kutuplu 50A",
+"list": 1365.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C3100-63",
+"name": "Otomatik Sigortalar (10kA) C Tipi 3 Kutuplu 63A",
+"list": 1707.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B3100-63",
+"name": "Otomatik Sigortalar (10kA) B Tipi 3 Kutuplu 63A",
+"list": 1707.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C4100-06",
+"name": "Otomatik Sigortalar (10kA) C Tipi 4 Kutuplu 6A",
+"list": 1794.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B4100-06",
+"name": "Otomatik Sigortalar (10kA) B Tipi 4 Kutuplu 6A",
+"list": 1794.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C4100-10",
+"name": "Otomatik Sigortalar (10kA) C Tipi 4 Kutuplu 10A",
+"list": 1597.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B4100-10",
+"name": "Otomatik Sigortalar (10kA) B Tipi 4 Kutuplu 10A",
+"list": 1597.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C4100-16",
+"name": "Otomatik Sigortalar (10kA) C Tipi 4 Kutuplu 16A",
+"list": 1597.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B4100-16",
+"name": "Otomatik Sigortalar (10kA) B Tipi 4 Kutuplu 16A",
+"list": 1597.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C4100-20",
+"name": "Otomatik Sigortalar (10kA) C Tipi 4 Kutuplu 20A",
+"list": 1597.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B4100-20",
+"name": "Otomatik Sigortalar (10kA) B Tipi 4 Kutuplu 20A",
+"list": 1597.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C4100-25",
+"name": "Otomatik Sigortalar (10kA) C Tipi 4 Kutuplu 25A",
+"list": 1597.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B4100-25",
+"name": "Otomatik Sigortalar (10kA) B Tipi 4 Kutuplu 25A",
+"list": 1597.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C4100-32",
+"name": "Otomatik Sigortalar (10kA) C Tipi 4 Kutuplu 32A",
+"list": 1703.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B4100-32",
+"name": "Otomatik Sigortalar (10kA) B Tipi 4 Kutuplu 32A",
+"list": 1703.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C4100-40",
+"name": "Otomatik Sigortalar (10kA) C Tipi 4 Kutuplu 40A",
+"list": 1810.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B4100-40",
+"name": "Otomatik Sigortalar (10kA) B Tipi 4 Kutuplu 40A",
+"list": 1810.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C4100-50",
+"name": "Otomatik Sigortalar (10kA) C Tipi 4 Kutuplu 50A",
+"list": 2064.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B4100-50",
+"name": "Otomatik Sigortalar (10kA) B Tipi 4 Kutuplu 50A",
+"list": 2064.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C4100-63",
+"name": "Otomatik Sigortalar (10kA) C Tipi 4 Kutuplu 63A",
+"list": 2257.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3B4100-63",
+"name": "Otomatik Sigortalar (10kA) B Tipi 4 Kutuplu 63A",
+"list": 2257.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C1100-80",
+"name": "Otomatik Sigortalar (10kA - 27mm.) C Tipi 80A",
+"list": 1113.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C1100-100",
+"name": "Otomatik Sigortalar (10kA - 27mm.) C Tipi 100A",
+"list": 1151.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C1100-125",
+"name": "Otomatik Sigortalar (10kA - 27mm.) C Tipi 125A",
+"list": 1213.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C2100-80",
+"name": "Otomatik Sigortalar (10kA - 27mm.) C Tipi 80A",
+"list": 2391.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C2100-100",
+"name": "Otomatik Sigortalar (10kA - 27mm.) C Tipi 100A",
+"list": 2970.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C2100-125",
+"name": "Otomatik Sigortalar (10kA - 27mm.) C Tipi 125A",
+"list": 3669.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C3100-80",
+"name": "Otomatik Sigortalar (10kA - 27mm.) C Tipi 80A",
+"list": 3472.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C3100-100",
+"name": "Otomatik Sigortalar (10kA - 27mm.) C Tipi 100A",
+"list": 3746.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C3100-125",
+"name": "Otomatik Sigortalar (10kA - 27mm.) C Tipi 125A",
+"list": 4385.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C4100-80",
+"name": "Otomatik Sigortalar (10kA - 27mm.) C Tipi 80A",
+"list": 4741.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C4100-100",
+"name": "Otomatik Sigortalar (10kA - 27mm.) C Tipi 100A",
+"list": 4967.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "OS3C4100-125",
+"name": "Otomatik Sigortalar (10kA - 27mm.) C Tipi 125A",
+"list": 5173.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Otomatik Sigortalar"
+},
+{
+"code": "GPSP3401275",
+"name": "Parafudr C Tipi Sayaç Sonrası 1 Kontak 40kA 275V",
+"list": 817.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Parafudr"
+},
+{
+"code": "GPSP3402275",
+"name": "Parafudr C Tipi Sayaç Sonrası 2 Kontak 40kA 275V",
+"list": 1598.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Parafudr"
+},
+{
+"code": "GPSP3403275",
+"name": "Parafudr C Tipi Sayaç Sonrası 3 Kontak 40kA 275V",
+"list": 2369.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Parafudr"
+},
+{
+"code": "GPSP3404275",
+"name": "Parafudr C Tipi Sayaç Sonrası 4 Kontak 40kA 275V",
+"list": 3150.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Parafudr"
+},
+{
+"code": "GPSP3401P275",
+"name": "Parafudr C Tipi Sayaç Sonrası 2 kutup 1P+N 40kA 275V",
+"list": 2159.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Parafudr"
+},
+{
+"code": "GPSP3403P275",
+"name": "Parafudr C Tipi Sayaç Sonrası 4 Kutup 3P+N 40kA 275V",
+"list": 3676.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Parafudr"
+},
+{
+"code": "KA32-25/30",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 25A",
+"list": 1501.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-32/30",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 32A",
+"list": 1501.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-40/30",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 40A",
+"list": 1501.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-63/30",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 63A",
+"list": 1731.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-25/300",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 25A",
+"list": 1501.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-32/300",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 32A",
+"list": 1501.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-40/300",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 40A",
+"list": 1501.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-63/300",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 63A",
+"list": 1731.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-80/300",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 80A",
+"list": 2448.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-25/30",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 25A",
+"list": 2213.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-32/30",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 32A",
+"list": 2213.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-40/30",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 40A",
+"list": 2213.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-63/30",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 63A",
+"list": 2599.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-80/30",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 80A",
+"list": 3545.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-100/30",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 100A",
+"list": 3711.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-25/300",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 25A",
+"list": 2213.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-32/300",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 32A",
+"list": 2213.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-40/300",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 40A",
+"list": 2213.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-63/300",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 63A",
+"list": 2599.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-80/300",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 80A",
+"list": 3545.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-100/300",
+"name": "6kA AC Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 100A",
+"list": 3711.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-25/30-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 25A",
+"list": 1965.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-32/30-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 32A",
+"list": 1965.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-40/30-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 40A",
+"list": 1965.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-63/30-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 63A",
+"list": 2268.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-80/30-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 80A",
+"list": 3206.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-100/30-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 100A",
+"list": 3311.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-25/300-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 25A",
+"list": 1965.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-32/300-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 32A",
+"list": 1965.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-40/300-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 40A",
+"list": 1965.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-63/300-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 63A",
+"list": 2268.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-80/300-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 80A",
+"list": 3206.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA32-100/300-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 100A",
+"list": 3311.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-25/30-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 25A",
+"list": 2705.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-32/30-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 32A",
+"list": 2705.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-40/30-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 40A",
+"list": 2705.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-63/30-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 63A",
+"list": 3407.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-80/30-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 80A",
+"list": 4648.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-100/30-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 100A",
+"list": 4868.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-25/300-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 25A",
+"list": 2705.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-32/300-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 32A",
+"list": 2705.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-40/300-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 40A",
+"list": 2705.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-63/300-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 63A",
+"list": 3407.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-80/300-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 80A",
+"list": 4648.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA34-100/300-A",
+"name": "6kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 100A",
+"list": 4868.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-25/30",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 30mA 25A",
+"list": 1667.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-32/30",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 30mA 32A",
+"list": 1667.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-40/30",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 30mA 40A",
+"list": 1667.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-63/30",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 30mA 63A",
+"list": 1922.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-80/30",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 30mA 80A",
+"list": 2169.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-25/300",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 300mA 25A",
+"list": 1667.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-32/300",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 300mA 32A",
+"list": 1667.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-40/300",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 300mA 40A",
+"list": 1667.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-63/300",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 300mA 63A",
+"list": 1922.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-80/300",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 300mA 80A",
+"list": 2169.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-100/300",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 300mA 100A",
+"list": 2719.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-25/30",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 30mA 25A",
+"list": 2459.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-32/30",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 30mA 32A",
+"list": 2459.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-40/30",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 30mA 40A",
+"list": 2459.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-63/30",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 30mA 63A",
+"list": 2890.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-80/30",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 30mA 80A",
+"list": 3938.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-100/30",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 30mA 100A",
+"list": 4127.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-25/300",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 300mA 25A",
+"list": 2459.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-32/300",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 300mA 32A",
+"list": 2459.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-40/300",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 300mA 40A",
+"list": 2459.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-63/300",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 300mA 63A",
+"list": 2890.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-80/300",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 300mA 80A",
+"list": 3938.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-100/300",
+"name": "10 kA AC Tip Kaçak Akim Koruma Anahtarı (Mekanik) 300mA 100A",
+"list": 4127.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-25/30-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 25A",
+"list": 2169.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-40/30-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 40A",
+"list": 2169.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-63/30-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 63A",
+"list": 2499.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-80/30-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 80A",
+"list": 3533.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-100/30-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 80A",
+"list": 3647.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-25/300-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 25A",
+"list": 2169.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-32/300-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 32A",
+"list": 2169.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-40/300-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 40A",
+"list": 2169.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-63/300-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 63A",
+"list": 2499.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-80/300-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 80A",
+"list": 3533.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA52-100/300-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 100A",
+"list": 3647.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-25/30-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 25A",
+"list": 2983.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-32/30-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 32A",
+"list": 2983.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-40/30-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 40A",
+"list": 2983.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-63/30-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 63A",
+"list": 3757.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-80/30-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 80A",
+"list": 5117.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-100/30-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 30mA 100A",
+"list": 5363.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-25/300-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 25A",
+"list": 2983.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-32/300-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 32A",
+"list": 2983.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-40/300-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 40A",
+"list": 2983.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-63/300-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 63A",
+"list": 3757.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-80/300-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 80A",
+"list": 5117.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "KA54-100/300-A",
+"name": "10 kA A Tip Kaçak Akım Koruma Anahtarı (Mekanik) 300mA 100A",
+"list": 5363.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kaçak Akım Koruma Anahtarı"
+},
+{
+"code": "GHF3063-32525",
+"name": "Kompakt Şalterler Sabit 3 Kutup 25kA 25A",
+"list": 3557.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3063-32532",
+"name": "Kompakt Şalterler Sabit 3 Kutup 25kA 32A",
+"list": 3557.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3063-32540",
+"name": "Kompakt Şalterler Sabit 3 Kutup 25kA 40A",
+"list": 3557.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3063-32550",
+"name": "Kompakt Şalterler Sabit 3 Kutup 25kA 50A",
+"list": 3557.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3063-32563",
+"name": "Kompakt Şalterler Sabit 3 Kutup 25KA 63A",
+"list": 3557.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3100-33580",
+"name": "Kompakt Şalterler Sabit 3 Kutup 35kA 80A",
+"list": 4614.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3100-335100",
+"name": "Kompakt Şalterler Sabit 3 Kutup 35kA 100A",
+"list": 4665.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3250-335125",
+"name": "Kompakt Şalterler Sabit 3 Kutup 35kA 125A",
+"list": 5273.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3250-335160",
+"name": "Kompakt Şalterler Sabit 3 Kutup 35kA 160A",
+"list": 5593.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3250-335200",
+"name": "Kompakt Şalterler Sabit 3 Kutup 35kA 200A",
+"list": 6215.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3250-335250",
+"name": "Kompakt Şalterler Sabit 3 Kutup 35kA 250A",
+"list": 7222.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3400-350315",
+"name": "Kompakt Şalterler Sabit 3 Kutup 50kA 315A",
+"list": 17932.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3400-350400",
+"name": "Kompakt Şalterler Sabit 3 Kutup 50kA 400A",
+"list": 19300.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3630-350500",
+"name": "Kompakt Şalterler Sabit 3 Kutup 50kA 500A",
+"list": 24048.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3630-350630",
+"name": "Kompakt Şalterler Sabit 3 Kutup 50kA 630A",
+"list": 29878.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3800-370800",
+"name": "Kompakt Şalterler Sabit 3 Kutup 70kA 800A",
+"list": 31187.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF31250-3851000",
+"name": "Kompakt Şalterler Sabit 3 Kutup 85kA",
+"list": 86365.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF31250-3851250",
+"name": "Kompakt Şalterler Sabit 3 Kutup 85kA",
+"list": 89687.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-063-4-25-25",
+"name": "Kompakt Şalterler Sabit 4 Kutup 25kA 25A",
+"list": 5184.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-063-4-25-32",
+"name": "Kompakt Şalterler Sabit 4 Kutup 25kA 32A",
+"list": 5184.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-063-4-25-40",
+"name": "Kompakt Şalterler Sabit 4 Kutup 25kA 40A",
+"list": 5184.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-063-4-25-50",
+"name": "Kompakt Şalterler Sabit 4 Kutup 25kA 50A",
+"list": 5184.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-063-4-25-63",
+"name": "Kompakt Şalterler Sabit 4 Kutup 25KA 63A",
+"list": 5184.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-100-4-35-80",
+"name": "Kompakt Şalterler Sabit 4 Kutup 35kA 80A",
+"list": 5316.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-100-4-35-100",
+"name": "Kompakt Şalterler Sabit 4 Kutup 35kA 100A",
+"list": 5562.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-250-4-35-125",
+"name": "Kompakt Şalterler Sabit 4 Kutup 35kA 125A",
+"list": 6054.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-250-4-35-160",
+"name": "Kompakt Şalterler Sabit 4 Kutup 35kA 160A",
+"list": 8447.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-250-4-35-200",
+"name": "Kompakt Şalterler Sabit 4 Kutup 35kA 200A",
+"list": 9653.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-250-4-35-250",
+"name": "Kompakt Şalterler Sabit 4 Kutup 35kA 250A",
+"list": 9718.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-400-4-50-315",
+"name": "Kompakt Şalterler Sabit 4 Kutup 50kA 315A",
+"list": 19937.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-400-4-50-400",
+"name": "Kompakt Şalterler Sabit 4 Kutup 50kA 400A",
+"list": 21991.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-630-4-50-500",
+"name": "Kompakt Şalterler Sabit 4 Kutup 50kA 500A",
+"list": 25344.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-630-4-50-630",
+"name": "Kompakt Şalterler Sabit 4 Kutup 50kA 630A",
+"list": 36233.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHF3-800-4-70-800",
+"name": "Kompakt Şalterler Sabit 4 Kutup 70kA 800A",
+"list": 40944.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB3P-25/63",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtırma Bobini AC 230V (Sağ/3P) 25A~63A (Sabit)",
+"list": 2690.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB4P-25/63",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtırma Bobini AC 230V (Sağ/4P) 25A~63A (Sabit)",
+"list": 2690.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB3P-80/100",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtırma Bobini AC 230V (Sağ/3P) 80A~100A (Sabit)",
+"list": 2845.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB4P-80/100",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtırma Bobini AC 230V (Sağ/4P) 80A~100A (Sabit)",
+"list": 2845.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB3P-125/250",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtirma Bobini AC 230V (Sağ/3P) 125A~250A (Sabit)",
+"list": 3507.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB4P-125/250",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtirma Bobini AC 230V (Sağ/4P) 125A~250A (Sabit)",
+"list": 3507.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB3P-315/400",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtirma Bobini AC 230V (Sağ/3P) 315A~400A (Sabit)",
+"list": 4992.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB4P-315/400",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtirma Bobini AC 230V (Sağ/4P) 315A~400A (Sabit)",
+"list": 4992.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB3P-500/630",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtirma Bobini AC 230V (Sağ/3P) 500A~630A (Sabit)",
+"list": 4992.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB4P-500/630",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtirma Bobini AC 230V (Sağ/4P) 500A~630A (Sabit)",
+"list": 4992.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB3P-700/800",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtirma Bobini AC 230V (Sağ/3P) 800A (Sabit)",
+"list": 5152.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB4P-700/800",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtirma Bobini AC 230V (Sağ/4P) 800A (Sabit)",
+"list": 5152.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3AB3P-1000/1250",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Açtirma Bobini AC 230V (Sağ/3P) 1000~1250A (Sabit)",
+"list": 6266.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3GB-25/63",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Düşük Gerilim Bobini AC 230 V (Sol) 25A~63A (Sabit)",
+"list": 3095.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3GB-80/100",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Düşük Gerilim Bobini AC 230 V (Sol) 80A~100A (Sabit)",
+"list": 3197.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3GB-125/250",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Düşük Gerilim Bobini AC 230 V (Sol) 125A~250A (Sabit)",
+"list": 3879.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3GB-315/400",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Düşük Gerilim Bobini AC 230 V (Sol) 315A~400A (Sabit)",
+"list": 4229.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3GB-500/630",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Düşük Gerilim Bobini AC 230 V (Sol) 500A~630A (Sabit)",
+"list": 5281.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3GB-700/800",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Düşük Gerilim Bobini AC 230 V (Sol) 800A (Sabit)",
+"list": 8872.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3GB-1000/1250",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Düşük Gerilim Bobini AC 230 V (Sol) 1000~1250A (Sabit)",
+"list": 9747.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3-25/63",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Yardımci Kontak (1A+1K) (Sol) 25A~63A (Sabit)",
+"list": 1437.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3-80/100",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Yardımci Kontak (1A+1K) (Sol) 80A~100A (Sabit)",
+"list": 1475.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3-125/250",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Yardımci Kontak (1A+1K) (Sol) 125A~250A (Sabit)",
+"list": 1526.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3-315/400",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Yardımci Kontak (1A+1K) (Sol) 315A~400A (Sabit)",
+"list": 2229.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3-500/630",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Yardımci Kontak (1A+1K) (Sol) 500A~630A (Sabit)",
+"list": 2229.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3-700/800",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Yardımci Kontak (1A+1K) (Sol) 800A (Sabit)",
+"list": 2558.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3-1000/1250",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Yardımci Kontak (1A+1K) (Sol) 1000~1250A (Sabit)",
+"list": 3132.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3MM-80/100",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Motor Mekanizması AC 230V 80A~100A (Sabit)",
+"list": 17406.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3MM-200/250",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Motor Mekanizması AC 230V 200A~250A (Sabit)",
+"list": 20887.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3MM-315/400",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Motor Mekanizması AC 230V 315A~400A (Sabit)",
+"list": 35283.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3MM-500/630",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Motor Mekanizması AC 230V 500A~630A (Sabit)",
+"list": 35283.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3MM-700/800",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Motor Mekanizması AC 230V 800A (Sabit)",
+"list": 38624.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3MM-1000/1250",
+"name": "Sabit Tip Kompakt Şalter Aksesuarları Motor Mekanizması AC 230V 1000~1250A (Sabit)",
+"list": 41773.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA31603-3532/40",
+"name": "Kompakt Şalterler Ayar Sahali 3 Kutup 35kA 32A~40A",
+"list": 6319.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA31603-3550/63",
+"name": "Kompakt Şalterler Ayar Sahali 3 Kutup 35kA 50A~63A",
+"list": 6319.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA31603-3580/100",
+"name": "Kompakt Şalterler Ayar Sahali 3 Kutup 35kA 80A~100A",
+"list": 6424.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA31603-35100/125",
+"name": "Kompakt Şalterler Ayar Sahali 3 Kutup 35kA 100A~125A",
+"list": 8174.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA31603-35125/160",
+"name": "Kompakt Şalterler Ayar Sahali 3 Kutup 35kA 125A~160A",
+"list": 8500.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA32503-35160/200",
+"name": "Kompakt Şalterler Ayar Sahali 3 Kutup 35kA 160A~200A",
+"list": 10355.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA32503-35200/250",
+"name": "Kompakt Şalterler Ayar Sahali 3 Kutup 35kA 200A~250A",
+"list": 10839.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA34003-50315/400",
+"name": "Kompakt Şalterler Ayar Sahali 3 Kutup 50kA 315A~400A",
+"list": 23389.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA36303-50400/500",
+"name": "Kompakt Şalterler Ayar Sahali 3 Kutup 50kA 400A~500A",
+"list": 32136.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA36303-50500/630",
+"name": "Kompakt Şalterler Ayar Sahali 3 Kutup 50kA 500~630A",
+"list": 36909.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA31604-3532/40",
+"name": "Kompakt Şalterler Ayar Sahali 4 Kutup 35kA 32A~40A",
+"list": 8300.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA31604-3550/63",
+"name": "Kompakt Şalterler Ayar Sahali 4 Kutup 35kA 50A~63A",
+"list": 8300.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA31604-3580/100",
+"name": "Kompakt Şalterler Ayar Sahali 4 Kutup 35kA 80A~100A",
+"list": 8609.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA31604-35100/125",
+"name": "Kompakt Şalterler Ayar Sahali 4 Kutup 35kA 100A~125A",
+"list": 13442.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA31604-35125/160",
+"name": "Kompakt Şalterler Ayar Sahali 4 Kutup 35kA 125A~160A",
+"list": 14375.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA32504-35160/200",
+"name": "Kompakt Şalterler Ayar Sahali 4 Kutup 35kA 160A~200A",
+"list": 16862.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA32504-35200/250",
+"name": "Kompakt Şalterler Ayar Sahali 4 Kutup 35kA 200A~250A",
+"list": 18105.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA34004-50315/400",
+"name": "Kompakt Şalterler Ayar Sahali 4 Kutup 50kA 315A~400A",
+"list": 36929.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA36304-50400/500",
+"name": "Kompakt Şalterler Ayar Sahali 4 Kutup 50kA 400A~500A",
+"list": 48623.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA36304-50500/630",
+"name": "Kompakt Şalterler Ayar Sahali 4 Kutup 50kA 500~630A",
+"list": 52547.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3ABW-25/160-A",
+"name": "Ayar Sahali Tip Kompakt Şalter Aksesuarları Ayar S. A. Bobini AC230V 25A-160A K. 25A~160A",
+"list": 1148.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3ABW-200/250-A",
+"name": "Ayar Sahali Tip Kompakt Şalter Aksesuarları Ayar S. A. Bobini AC230V 200A-250A K. 200A~250A",
+"list": 1377.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3ABW-400/630-A",
+"name": "Ayar Sahali Tip Kompakt Şalter Aksesuarları Ayar S. A. Bobini AC230V 400A-630A K. 400A~630A",
+"list": 2985.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3GB-25/160-A",
+"name": "Ayar Sahali Tip Kompakt Şalter Aksesuarları Ayar S. Düşük G. Bobini AC230V 25A-160A 25A~160A",
+"list": 2847.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3GB-200/250-A",
+"name": "Ayar Sahali Tip Kompakt Şalter Aksesuarları Ayar S. Düşük G. Bobini AC230V 200A-250A 200A~250A",
+"list": 3306.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3GB-400/630-A",
+"name": "Ayar Sahali Tip Kompakt Şalter Aksesuarları Ayar S. Düşük G. Bobini AC230V 400A-630A 400A~630A",
+"list": 4501.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3-25/160-A",
+"name": "Ayar Sahali Tip Kompakt Şalter Aksesuarları Ayar S. Y. Kontak 25A-160A (1A 1K) 25A~160A",
+"list": 735.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3-200/250-A",
+"name": "Ayar Sahali Tip Kompakt Şalter Aksesuarları Ayar S. Y. Kontak 200A-250A (1A 1K) 200A~250A",
+"list": 918.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3-400/630-A",
+"name": "Ayar Sahali Tip Kompakt Şalter Aksesuarları Ayar S. Y. Kontak 400A-630A (1A 1K) 400A~630A",
+"list": 1377.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3MM-25/160-A",
+"name": "Ayar Sahali Tip Kompakt Şalter Aksesuarları Ayar S. M. Mekanizması AC230V 25A-160A 25A~160A",
+"list": 18371.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3MM-200/250-A",
+"name": "Ayar Sahali Tip Kompakt Şalter Aksesuarları Ayar S. M. Mekanizması AC230V 200A-250A 200A~250A",
+"list": 20667.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHA3MM-400/630-A",
+"name": "Ayar Sahali Tip Kompakt Şalter Aksesuarları Ayar S. M. Mekanizması AC230V 400A-630A 400A~630A",
+"list": 22964.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY125F4P040AB1",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 50kA 40A",
+"list": 12151.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY125F4P050AB1",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 50kA 50A",
+"list": 12151.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY125F4P063AB1",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 50kA 63A",
+"list": 12151.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY125F4P080AB1",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 50kA 80A",
+"list": 12151.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY125F4P100AB1",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 50kA 100A",
+"list": 12151.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY250F4P125AB1",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 50kA 125A",
+"list": 15469.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY250F4P160AB1",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 50kA 160A",
+"list": 17259.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY250F4P200AB1",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 50kA 200A",
+"list": 19964.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY250F4P250AB1",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 50kA 250A",
+"list": 26203.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY400F4P315AB1",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 70kA 315A",
+"list": 41496.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY400F4P400AB1",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 70kA 400A",
+"list": 44782.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY630F4P500AB3",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 70kA 500A",
+"list": 56923.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GHY630F4P630AB3",
+"name": "Kompakt Şalterler Yangin Korumali 3P+N 70kA 630A",
+"list": 69558.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kompakt Şalterler"
+},
+{
+"code": "GDC3-1NO09",
+"name": "Kontaktör 3 Kutup AC 220V 4kW 9A",
+"list": 912.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC3-1NO12",
+"name": "Kontaktör 3 Kutup AC 220V 5.5kW 12A",
+"list": 905.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC3-1NO18",
+"name": "Kontaktör 3 Kutup AC 220V 7.5kW 18A",
+"list": 1008.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC3-1NO25",
+"name": "Kontaktör 3 Kutup AC 220V 11kW 25A",
+"list": 1325.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC3-1NO32",
+"name": "Kontaktör 3 Kutup AC 220V 15kW 32A",
+"list": 1681.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC31NC-1NO40",
+"name": "Kontaktör 3 Kutup AC 220V 18.5kW 40A",
+"list": 3122.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC31NC-1NO50",
+"name": "Kontaktör 3 Kutup AC 220V 22kW 50A",
+"list": 3709.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC31NC-1NO65",
+"name": "Kontaktör 3 Kutup AC 220V 30kW 65A",
+"list": 4266.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC31NC-1NO80",
+"name": "Kontaktör 3 Kutup AC 220V 37kW 80A",
+"list": 5565.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC31NC-1NO95",
+"name": "Kontaktör 3 Kutup AC 220V 45kW 95A",
+"list": 5715.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC611500M7",
+"name": "Kontaktör 3 Kutup AC 220V 55kW 115A",
+"list": 17033.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC615000M7",
+"name": "Kontaktör 3 Kutup AC 220V 75kW 150A",
+"list": 17464.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC618500M7",
+"name": "Kontaktör 3 Kutup AC 220V 90kW 185A",
+"list": 21575.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC622500M7",
+"name": "Kontaktör 3 Kutup AC 220V 110kW 225A",
+"list": 22319.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC626500M7",
+"name": "Kontaktör 3 Kutup AC 220V 132kW 265A",
+"list": 32109.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC633000M7",
+"name": "Kontaktör 3 Kutup AC 220V 160kW 330A",
+"list": 43073.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC640000M7",
+"name": "Kontaktör 3 Kutup AC 220V 200kW 400A",
+"list": 45813.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC650000M7",
+"name": "Kontaktör 3 Kutup AC 220V 250kW 500A",
+"list": 65783.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDC663000M7",
+"name": "Kontaktör 3 Kutup AC 220V 335kW 630A",
+"list": 91236.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFD-4N0C",
+"name": "Kontaktör Aksesuarlar Yardimci Kontak 4NO Üzerine",
+"list": 427.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFD-3N1C",
+"name": "Kontaktör Aksesuarlar Yardimci Kontak 3NO+1NC Üzerine",
+"list": 427.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFD-2N2C",
+"name": "Kontaktör Aksesuarlar Yardimci Kontak 2NO+2NC Üzerine",
+"list": 427.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFD-1N3C",
+"name": "Kontaktör Aksesuarlar Yardimci Kontak 1NO+3NC Üzerine",
+"list": 427.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFD-0N4C",
+"name": "Kontaktör Aksesuarlar Yardimci Kontak 4NC Üzerine",
+"list": 427.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFD-1N1C",
+"name": "Kontaktör Aksesuarlar Yardimci Kontak 1NO+1NC Üzerine",
+"list": 333.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFD-2N0C",
+"name": "Kontaktör Aksesuarlar Yardimci Kontak 2NO Üzerine",
+"list": 333.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFD-0N2C",
+"name": "Kontaktör Aksesuarlar Yardimci Kontak 2NC Üzerine",
+"list": 333.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFC-1N1C",
+"name": "Kontaktör Aksesuarlar Yardimci Kontak 1NO+1NC Yanina",
+"list": 333.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX20904M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 4kW 9A",
+"list": 1221.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX21204M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 5.5kW 12A",
+"list": 1221.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX22504M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 11kW 25A",
+"list": 2363.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX24004M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 18.5kW 40A",
+"list": 6421.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX25004M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 22kW 50A",
+"list": 7072.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX26504M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 30kW 65A",
+"list": 8027.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX28004M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 37kW 80A",
+"list": 10925.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX29504M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 45kW 95A",
+"list": 10925.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX2F1154M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 55kW 115A",
+"list": 23885.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX2F1504M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 75kW 150A",
+"list": 25491.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX2F1854M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 90kW 185A",
+"list": 32696.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX2F2254M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 100kW 225A",
+"list": 34105.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX2F2654M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 132kW 265A",
+"list": 49299.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX2F3304M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 160kW 330A",
+"list": 67741.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX2F4004M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 200kW 400A",
+"list": 74398.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX2F5004M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 250kW 500A",
+"list": 97109.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX2F6304M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 335kW 630A",
+"list": 135797.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GJX2F8004M7",
+"name": "Kontaktör 4 Kutup AC 220V 50/60Hz 400kW 800A",
+"list": 148170.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFR632H",
+"name": "Kontaktör Aksesuarlar Mekanik Kilit (9A-25A)",
+"list": 1446.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFR695HX",
+"name": "Kontaktör Aksesuarlar Mekanik Kilit (40A-95A)",
+"list": 246.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFR6FFHS",
+"name": "Kontaktör Aksesuarlar Mekanik Kilit (115A-150A)",
+"list": 972.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFR6GGHS",
+"name": "Kontaktör Aksesuarlar Mekanik Kilit (185A-225A)",
+"list": 1155.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFR6HHHS",
+"name": "Kontaktör Aksesuarlar Mekanik Kilit (265A-330A)",
+"list": 1199.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFR6KKHS",
+"name": "Kontaktör Aksesuarlar Mekanik Kilit (400A-500A)",
+"list": 1222.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFR6LLHS",
+"name": "Kontaktör Aksesuarlar Mekanik Kilit (630A-800A)",
+"list": 1199.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GX6150N7",
+"name": "Kontaktör Aksesuarlar Bobin (115A~150A)",
+"list": 4376.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GX6225N7",
+"name": "Kontaktör Aksesuarlar Bobin (185A~225A)",
+"list": 6126.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GX6330N7",
+"name": "Kontaktör Aksesuarlar Bobin (265A~330A)",
+"list": 8533.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GX6400N7",
+"name": "Kontaktör Aksesuarlar Bobin (400A)",
+"list": 12691.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GX6500N7",
+"name": "Kontaktör Aksesuarlar Bobin (500A)",
+"list": 15024.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GX6630N7",
+"name": "Kontaktör Aksesuarlar Bobin (630A)",
+"list": 21880.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDR3S-25-1",
+"name": "Termik Röleler 0.63~1.0A 9A~32A",
+"list": 724.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-25-1P6",
+"name": "Termik Röleler 1.0~1.6A 9A~32A",
+"list": 905.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-25-2P5",
+"name": "Termik Röleler 1.6~2.5A 9A~32A",
+"list": 905.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-25-4",
+"name": "Termik Röleler 2.5~4.0A 9A~32A",
+"list": 905.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-25-6",
+"name": "Termik Röleler 4.0~6A 9A~32A",
+"list": 905.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-25-8",
+"name": "Termik Röleler 5.5~8A 9A~32A",
+"list": 905.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-25-10",
+"name": "Termik Röleler 7.0~10A 9A~32A",
+"list": 905.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-25-13",
+"name": "Termik Röleler 9.0~13A 9A~32A",
+"list": 905.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-25-18",
+"name": "Termik Röleler 12~18A 9A~32A",
+"list": 905.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-25-25",
+"name": "Termik Röleler 17~25A 9A~32A",
+"list": 905.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-38-32",
+"name": "Termik Röleler 23~32A 25A~32A",
+"list": 1290.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-38-40",
+"name": "Termik Röleler 30~40A 25A~32A",
+"list": 1290.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-93-25",
+"name": "Termik Röleler 17~25A 40A~95A",
+"list": 2089.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-93-32",
+"name": "Termik Röleler 23~32A 40A~95A",
+"list": 2089.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-93-40",
+"name": "Termik Röleler 30~40A 40A~95A",
+"list": 2151.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-93-50",
+"name": "Termik Röleler 37~50A 50A~95A",
+"list": 2212.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-93-65",
+"name": "Termik Röleler 48~65A 50A~95A",
+"list": 2249.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-93-70",
+"name": "Termik Röleler 55~70A 65A~95A",
+"list": 2335.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-93-80",
+"name": "Termik Röleler 63~80A 80A~95A",
+"list": 2581.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR3S-93-93",
+"name": "Termik Röleler 80~93A 95A",
+"list": 2827.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR618565",
+"name": "Termik Röleler 48~65A 115~185A",
+"list": 5621.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR618570",
+"name": "Termik Röleler 55~70A 115~185A",
+"list": 5621.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR618580",
+"name": "Termik Röleler 63~80A 115~185A",
+"list": 5741.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR618595",
+"name": "Termik Röleler 75~95A 115~185A",
+"list": 5741.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR6185115",
+"name": "Termik Röleler 90~115A 115~185A",
+"list": 5741.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR6185135",
+"name": "Termik Röleler 105~135A 115~185A",
+"list": 6108.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR6185150",
+"name": "Termik Röleler 120~150A 115~185A",
+"list": 6220.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR6185160",
+"name": "Termik Röleler 130~160A 115~185A",
+"list": 6220.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR6185185",
+"name": "Termik Röleler 150~185A 115~185A",
+"list": 6220.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR6630200F",
+"name": "Termik Röleler 145~200A 225~630A",
+"list": 13491.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR6630250F",
+"name": "Termik Röleler 180~250A 225~630A",
+"list": 13491.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR6630320F",
+"name": "Termik Röleler 230~320A 225~630A",
+"list": 13491.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR6630400F",
+"name": "Termik Röleler 290~400A 225~630A",
+"list": 13491.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR6630480F",
+"name": "Termik Röleler 350~480A 225~630A",
+"list": 13491.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDR6630630F",
+"name": "Termik Röleler 460~630A 225~630A",
+"list": 13491.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDRS1D25J",
+"name": "Termik Röleler Termik Röle Ray Montaj Aparatı",
+"list": 319.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDRS1D36J",
+"name": "Termik Röleler Termik Röle Ray Montaj Aparatı",
+"list": 512.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDRS1D93J",
+"name": "Termik Röleler Termik Röle Ray Montaj Aparatı",
+"list": 978.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Termik Röleler"
+},
+{
+"code": "GDCMN17K63010M7",
+"name": "Mini Kontaktör 3 Kutup AC 230V 2.2kW 6A",
+"list": 1090.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDCMN17K63001M7",
+"name": "Mini Kontaktör 3 Kutup AC 230V 2.2kW 6A",
+"list": 1090.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDCMN17K93010M7",
+"name": "Mini Kontaktör 3 Kutup AC 230V 4kW 9A",
+"list": 1301.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDCMN17K93001M7",
+"name": "Mini Kontaktör 3 Kutup AC 230V 4kW 9A",
+"list": 1301.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDCMN17K123010M7",
+"name": "Mini Kontaktör 3 Kutup AC 230V 5.5kW 12A",
+"list": 1318.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GDCMN17K123001M7",
+"name": "Mini Kontaktör 3 Kutup AC 230V 5.5kW 12A",
+"list": 1318.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör"
+},
+{
+"code": "GFMN4K11",
+"name": "Modüler Kontaktör Mini Kontaktör Aksesuarları Yardımcı Kontak 1NO+1NC Üzerine",
+"list": 339.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GFMN4K22",
+"name": "Modüler Kontaktör Mini Kontaktör Aksesuarları Yardımcı Kontak 2NO+2NC Üzerine",
+"list": 428.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD16211",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 2 Kutup 1NO+1NC 16",
+"list": 1140.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD16220",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 2 Kutup 2NO 16",
+"list": 1140.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD20211",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 2 Kutup 1NO+1NC 20",
+"list": 1140.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD20220",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 2 Kutup 2NO 20",
+"list": 1140.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD25211",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 2 Kutup 1NO+1NC 25",
+"list": 1147.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD25220",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 2 Kutup 2NO 25",
+"list": 1147.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD32211",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 2 Kutup 1NO+1NC 32",
+"list": 2489.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD32220",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 2 Kutup 2NO 32",
+"list": 2489.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD40211",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 2 Kutup 1NO+1NC 40",
+"list": 2522.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD40220",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 2 Kutup 2NO 40",
+"list": 2522.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD63211",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 2 Kutup 1NO+1NC 63",
+"list": 2554.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD63220",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 2 Kutup 2NO 63",
+"list": 2554.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD16422",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 4 Kutup 2NO+2NC 16",
+"list": 2308.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD16440",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 4 Kutup 4NO 16",
+"list": 2308.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD20422",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 4 Kutup 2NO+2NC 20",
+"list": 2308.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD20440",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 4 Kutup 4NO 20",
+"list": 2308.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD25422",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 4 Kutup 2NO+2NC 25",
+"list": 2341.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD25440",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 4 Kutup 4NO 25",
+"list": 2341.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD32422",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 4 Kutup 2NO+2NC 32",
+"list": 3183.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD32440",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 4 Kutup 4NO 32",
+"list": 3183.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD40422",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 4 Kutup 2NO+2NC 40",
+"list": 3216.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD40440",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 4 Kutup 4NO 40",
+"list": 3216.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD63422",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 4 Kutup 2NO+2NC 63",
+"list": 3239.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDCMD63440",
+"name": "Modüler Kontaktör 2 ve 4 Kutup AC 230V 4 Kutup 4NO 63",
+"list": 3239.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Modüler Kontaktör"
+},
+{
+"code": "GDC25-11M7",
+"name": "Kompanzasyon Kontaktörleri 12 25",
+"list": 1809.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDC32-11M7",
+"name": "Kompanzasyon Kontaktörleri 18 32",
+"list": 2794.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDC43-11M7",
+"name": "Kompanzasyon Kontaktörleri 20 43",
+"list": 3897.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDC63-21M7",
+"name": "Kompanzasyon Kontaktörleri 30 63",
+"list": 5633.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDC95-21M7",
+"name": "Kompanzasyon Kontaktörleri 45 95",
+"list": 8237.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDC115-21M7",
+"name": "Kompanzasyon Kontaktörleri 60 115",
+"list": 9430.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304000053",
+"name": "Kontaktör & Kondansatör Kondansatör 400 5",
+"list": 3106.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304007053",
+"name": "Kontaktör & Kondansatör Kondansatör 400 7,5",
+"list": 3414.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304000103",
+"name": "Kontaktör & Kondansatör Kondansatör 400 10",
+"list": 3722.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304000123",
+"name": "Kontaktör & Kondansatör Kondansatör 400 12",
+"list": 3979.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304000153",
+"name": "Kontaktör & Kondansatör Kondansatör 400 15",
+"list": 4492.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304000203",
+"name": "Kontaktör & Kondansatör Kondansatör 400 20",
+"list": 5134.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304000253",
+"name": "Kontaktör & Kondansatör Kondansatör 400 25",
+"list": 8343.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304000303",
+"name": "Kontaktör & Kondansatör Kondansatör 400 30",
+"list": 10141.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304500053",
+"name": "Kontaktör & Kondansatör Kondansatör 450 5",
+"list": 3209.1,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304507053",
+"name": "Kontaktör & Kondansatör Kondansatör 450 7,5",
+"list": 3337.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304500103",
+"name": "Kontaktör & Kondansatör Kondansatör 450 10",
+"list": 3786.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304500123",
+"name": "Kontaktör & Kondansatör Kondansatör 450 12",
+"list": 4043.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304500153",
+"name": "Kontaktör & Kondansatör Kondansatör 450 15",
+"list": 4364.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304500203",
+"name": "Kontaktör & Kondansatör Kondansatör 450 20",
+"list": 5391.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304500253",
+"name": "Kontaktör & Kondansatör Kondansatör 450 25",
+"list": 8472.0,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP304500303",
+"name": "Kontaktör & Kondansatör Kondansatör 450 30",
+"list": 11424.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP305250053",
+"name": "Kontaktör & Kondansatör Kondansatör 525 5",
+"list": 3530.2,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP305257053",
+"name": "Kontaktör & Kondansatör Kondansatör 525 7,5",
+"list": 3722.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP305250103",
+"name": "Kontaktör & Kondansatör Kondansatör 525 10",
+"list": 3927.9,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP305250123",
+"name": "Kontaktör & Kondansatör Kondansatör 525 12",
+"list": 4171.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP305250153",
+"name": "Kontaktör & Kondansatör Kondansatör 525 15",
+"list": 4749.5,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP305250203",
+"name": "Kontaktör & Kondansatör Kondansatör 525 20",
+"list": 5519.7,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP305250253",
+"name": "Kontaktör & Kondansatör Kondansatör 525 25",
+"list": 8600.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDCAP305250303",
+"name": "Kontaktör & Kondansatör Kondansatör 525 30",
+"list": 11938.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Kontaktör & Kondansatör"
+},
+{
+"code": "GDP32-1",
+"name": "Motor Koruma Şalterleri 0.25kW",
+"list": 3075.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GDP32-1P6",
+"name": "Motor Koruma Şalterleri 0.37kW",
+"list": 3075.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GDP32-2P5",
+"name": "Motor Koruma Şalterleri 0.75kW",
+"list": 3075.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GDP32-4",
+"name": "Motor Koruma Şalterleri 1.5kW",
+"list": 3075.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GDP32-6P3",
+"name": "Motor Koruma Şalterleri 2.2kW",
+"list": 3075.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GDP32-10",
+"name": "Motor Koruma Şalterleri 4.0kW",
+"list": 3172.3,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GDP32-14",
+"name": "Motor Koruma Şalterleri 5.5kW",
+"list": 3426.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GDP32-18",
+"name": "Motor Koruma Şalterleri 7.5kW",
+"list": 3426.8,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GDP32-23",
+"name": "Motor Koruma Şalterleri 9.0kW",
+"list": 3527.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GDP32-25",
+"name": "Motor Koruma Şalterleri 11.0kW",
+"list": 3527.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GDP32-32",
+"name": "Motor Koruma Şalterleri 15.0kW",
+"list": 3527.4,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GAE-20",
+"name": "Motor Koruma Şalteri Aksesuarları Yardımcı Kontak (Üst)2A Kontak",
+"list": 169.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GAE-11",
+"name": "Motor Koruma Şalteri Aksesuarları Yardımcı Kontak (Üst)1A+1K Kontak",
+"list": 169.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+},
+{
+"code": "GDP-32MC",
+"name": "Motor Koruma Şalteri Aksesuarları Muhafaza Kutusu IP55",
+"list": 958.6,
+"cur": "TL",
+"cat": "Günsan Şalt - Motor Koruma Şalterleri"
+}
+]
