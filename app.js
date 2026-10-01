@@ -61,7 +61,7 @@ function loadCfg() {
   return {
     url: c.SUPABASE_URL || saved.url || '',
     key: c.SUPABASE_ANON_KEY || saved.key || '',
-    name: saved.name || c.MARKET_NAME || 'Market',
+    name: saved.name || c.MARKET_NAME || 'Uzun Elektrik',
     fromFile: !!(c.SUPABASE_URL && c.SUPABASE_ANON_KEY),
   };
 }

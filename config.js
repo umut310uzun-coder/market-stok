@@ -5,5 +5,5 @@
 window.MARKET_CONFIG = {
   SUPABASE_URL: 'https://qozfusvegypczamjuzhz.supabase.co',
   SUPABASE_ANON_KEY: 'sb_publishable_khR2n4OnPTquwX7xFoBypw_K5iqo6rR',
-  MARKET_NAME: 'Market',
+  MARKET_NAME: 'Uzun Elektrik',
 };
