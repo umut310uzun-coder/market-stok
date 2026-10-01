@@ -1,0 +1,5070 @@
+[
+{
+"code": "RGM-07E",
+"name": "7 Kademe 3x20 mm display Monofaze Reaktif Güç Kontrol Rölesi",
+"list": 7290.0,
+"cur": "TL",
+"cat": "Reaktif Güç Kontrol Röleleri"
+},
+{
+"code": "RGM-12E",
+"name": "12 Kademe 3x20 mm display Monofaze Reaktif Güç Kontrol Rölesi",
+"list": 7600.0,
+"cur": "TL",
+"cat": "Reaktif Güç Kontrol Röleleri"
+},
+{
+"code": "RGT-12GE",
+"name": "12 Kademe GES Uyumlu Grafik LCD ekran Trifaze Reaktif Güç Kontrol Rölesi",
+"list": 11180.0,
+"cur": "TL",
+"cat": "Reaktif Güç Kontrol Röleleri"
+},
+{
+"code": "RGT-18GE",
+"name": "18 Kademe GES Uyumlu Grafik LCD ekran Trifaze Reaktif Güç Kontrol Rölesi",
+"list": 12000.0,
+"cur": "TL",
+"cat": "Reaktif Güç Kontrol Röleleri"
+},
+{
+"code": "RGT-12E",
+"name": "12 Kademe Grafik LCD ekran Trifaze Reaktif Güç Kontrol Rölesi",
+"list": 11180.0,
+"cur": "TL",
+"cat": "Reaktif Güç Kontrol Röleleri"
+},
+{
+"code": "RGT-18E",
+"name": "18 Kademe Grafik LCD ekran Trifaze Reaktif Güç Kontrol Rölesi",
+"list": 12000.0,
+"cur": "TL",
+"cat": "Reaktif Güç Kontrol Röleleri"
+},
+{
+"code": "RGT-24H",
+"name": "24 Kademe LCD ekran Trifaze Haberleşmeli Reaktif Güç Kontrol Rölesi",
+"list": 13800.0,
+"cur": "TL",
+"cat": "Reaktif Güç Kontrol Röleleri"
+},
+{
+"code": "RGT-MT18 (SVC)",
+"name": "18 Kademe SVC ve GES Uyumlu Haberleşmeli Reaktif güç kontrol rölesi (Dokunmatik Ekran)",
+"list": 24500.0,
+"cur": "TL",
+"cat": "Svc Reaktif Güç Kontrol Rölesi (tcr Çıkışlı)"
+},
+{
+"code": "RGT-12G SVC",
+"name": "12 Kademe GES ve SVC Uyumlu Haberleşmeli Grafik LCD Ekran Reaktif Güç Kontrol Rölesi",
+"list": 14175.0,
+"cur": "TL",
+"cat": "Svc Reaktif Güç Kontrol Rölesi (tcr Çıkışlı)"
+},
+{
+"code": "RGT-12 SVC",
+"name": "12 Kademe SVC Uyumlu Haberleşmeli Reaktif Güç Kontrol Rölesi",
+"list": 14175.0,
+"cur": "TL",
+"cat": "Svc Reaktif Güç Kontrol Rölesi (tcr Çıkışlı)"
+},
+{
+"code": "RGT-12E SVC",
+"name": "12 Kademe SVC Uyumlu Grafik LCD Ekran Reaktif Güç Kontrol Rölesi",
+"list": 13330.0,
+"cur": "TL",
+"cat": "Svc Reaktif Güç Kontrol Rölesi (tcr Çıkışlı)"
+},
+{
+"code": "RGT-18 SVC",
+"name": "18 Kademe SVC Uyumlu Haberleşmeli Grafik LCD Ekran Reaktif Güç Kontrol Rölesi",
+"list": 19580.0,
+"cur": "TL",
+"cat": "Svc Reaktif Güç Kontrol Rölesi (tcr Çıkışlı)"
+},
+{
+"code": "RGT-18G SVC",
+"name": "18 Kademe GES ve SVC Uyumlu Haberleşmeli Grafik LCD Ekran Reaktif Güç Kontrol Rölesi",
+"list": 19580.0,
+"cur": "TL",
+"cat": "Svc Reaktif Güç Kontrol Rölesi (tcr Çıkışlı)"
+},
+{
+"code": "SRL-5T",
+"name": "5 kVAr Endüktif Yük Sürücüsü",
+"list": 11000.0,
+"cur": "TL",
+"cat": "Svc İçin Endüktif Yük Sürücüleri"
+},
+{
+"code": "SRL-10T",
+"name": "10 kVAr Endüktif Yük Sürücüsü",
+"list": 14280.0,
+"cur": "TL",
+"cat": "Svc İçin Endüktif Yük Sürücüleri"
+},
+{
+"code": "SRL-20T",
+"name": "20 kVAr Endüktif Yük Sürücüsü",
+"list": 19840.0,
+"cur": "TL",
+"cat": "Svc İçin Endüktif Yük Sürücüleri"
+},
+{
+"code": "SRL-30T",
+"name": "30 kVAr Endüktif Yük Sürücüsü",
+"list": 24150.0,
+"cur": "TL",
+"cat": "Svc İçin Endüktif Yük Sürücüleri"
+},
+{
+"code": "SRL-50T",
+"name": "50 kVAr Endüktif Yük Sürücüsü",
+"list": 31500.0,
+"cur": "TL",
+"cat": "Svc İçin Endüktif Yük Sürücüleri"
+},
+{
+"code": "TNS-1",
+"name": "1 kVAr Monofaze /230V Şönt Reaktörü",
+"list": 110.0,
+"cur": "USD",
+"cat": "Svc İçin Monofaze Şönt Reaktörler (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-1,5",
+"name": "1,5 kVAr Monofaze /230V Şönt Reaktörü",
+"list": 115.0,
+"cur": "USD",
+"cat": "Svc İçin Monofaze Şönt Reaktörler (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-1,66S",
+"name": "1,66 kVAr Monofaze /230V Şönt Reaktörü",
+"list": 130.0,
+"cur": "USD",
+"cat": "Svc İçin Monofaze Şönt Reaktörler (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-2,5",
+"name": "2,5 kVAr Monofaze /230V Şönt Reaktörü",
+"list": 190.0,
+"cur": "USD",
+"cat": "Svc İçin Monofaze Şönt Reaktörler (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-3",
+"name": "3 kVAr Monofaze /230V Şönt Reaktörü",
+"list": 200.0,
+"cur": "USD",
+"cat": "Svc İçin Monofaze Şönt Reaktörler (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-3,3S",
+"name": "3,33 kVAr Monofaze /230V Şönt Reaktörü",
+"list": 245.0,
+"cur": "USD",
+"cat": "Svc İçin Monofaze Şönt Reaktörler (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-5",
+"name": "5 kVAr Monofaze /230V Şönt Reaktörü",
+"list": 350.0,
+"cur": "USD",
+"cat": "Svc İçin Monofaze Şönt Reaktörler (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-6,67S",
+"name": "6,67 kVAr Monofaze /230V Şönt Reaktörü",
+"list": 410.0,
+"cur": "USD",
+"cat": "Svc İçin Monofaze Şönt Reaktörler (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-7,5",
+"name": "7,5 kVAr Monofaze /230V Şönt Reaktörü",
+"list": 450.0,
+"cur": "USD",
+"cat": "Svc İçin Monofaze Şönt Reaktörler (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-10S",
+"name": "10 kVAr Monofaze /230V Şönt Reaktörü",
+"list": 504.0,
+"cur": "USD",
+"cat": "Svc İçin Monofaze Şönt Reaktörler (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-16,66S",
+"name": "16,66 kVAr Monofaze /230V Şönt Reaktörü",
+"list": 780.0,
+"cur": "USD",
+"cat": "Svc İçin Monofaze Şönt Reaktörler (endüktif Yük Reaktörleri)"
+},
+{
+"code": "SMC-5",
+"name": "3 x 1,5 kVAr Monofaze Kapasitif Statik Kontaktör",
+"list": 11000.0,
+"cur": "TL",
+"cat": "Kapasitif Statik Kontaktörler"
+},
+{
+"code": "SMC-15",
+"name": "3 x 5 kVAr Monofaze Kapasitif Statik Kontaktör",
+"list": 20300.0,
+"cur": "TL",
+"cat": "Kapasitif Statik Kontaktörler"
+},
+{
+"code": "SMC-45",
+"name": "3 x 15 kVAr Monofaze Kapasitif Statik Kontaktör",
+"list": 26460.0,
+"cur": "TL",
+"cat": "Kapasitif Statik Kontaktörler"
+},
+{
+"code": "STC-5",
+"name": "5 kVAr Kapasitif Statik Kontaktör",
+"list": 11550.0,
+"cur": "TL",
+"cat": "Kapasitif Statik Kontaktörler"
+},
+{
+"code": "STC-10",
+"name": "10 kVAr Kapasitif Statik Kontaktör",
+"list": 17850.0,
+"cur": "TL",
+"cat": "Kapasitif Statik Kontaktörler"
+},
+{
+"code": "STC-15",
+"name": "15 kVAr Kapasitif Statik Kontaktör",
+"list": 18580.0,
+"cur": "TL",
+"cat": "Kapasitif Statik Kontaktörler"
+},
+{
+"code": "STC-25",
+"name": "25 kVAr Kapasitif Statik Kontaktör",
+"list": 19950.0,
+"cur": "TL",
+"cat": "Kapasitif Statik Kontaktörler"
+},
+{
+"code": "STC-30",
+"name": "30 kVAr Kapasitif Statik Kontaktör",
+"list": 21000.0,
+"cur": "TL",
+"cat": "Kapasitif Statik Kontaktörler"
+},
+{
+"code": "STC-50A",
+"name": "50 kVAr Kapasitif Statik Kontaktör",
+"list": 23100.0,
+"cur": "TL",
+"cat": "Kapasitif Statik Kontaktörler"
+},
+{
+"code": "TGES-5",
+"name": "5 kVA 800/400V Güç Trafosu",
+"list": 800.0,
+"cur": "USD",
+"cat": "Güç Trafoları (ges Sistemlerine Özel)"
+},
+{
+"code": "TGES-10",
+"name": "10 kVA 800/400V Güç Trafosu",
+"list": 1450.0,
+"cur": "USD",
+"cat": "Güç Trafoları (ges Sistemlerine Özel)"
+},
+{
+"code": "TGES-20",
+"name": "20 kVA 800/400V Güç Trafosu",
+"list": 2330.0,
+"cur": "USD",
+"cat": "Güç Trafoları (ges Sistemlerine Özel)"
+},
+{
+"code": "TGES-30",
+"name": "30 kVA 800/400V Güç Trafosu",
+"list": 2900.0,
+"cur": "USD",
+"cat": "Güç Trafoları (ges Sistemlerine Özel)"
+},
+{
+"code": "TGES-40",
+"name": "40 kVA 800/400V Güç Trafosu",
+"list": 3750.0,
+"cur": "USD",
+"cat": "Güç Trafoları (ges Sistemlerine Özel)"
+},
+{
+"code": "TGES-50",
+"name": "50 kVA 800/400V Güç Trafosu",
+"list": 4750.0,
+"cur": "USD",
+"cat": "Güç Trafoları (ges Sistemlerine Özel)"
+},
+{
+"code": "OP-232",
+"name": "Optik okuyucu, RS-232 ile haberleşme, neodyum mıknatıslı",
+"list": 1150.0,
+"cur": "TL",
+"cat": "Uzaktan Haberleşme"
+},
+{
+"code": "OP-USB",
+"name": "Optik okuyucu, USB 1.1 / USB 2.0 ile haberleşme, neodyum mıknatıslı",
+"list": 2590.0,
+"cur": "TL",
+"cat": "Uzaktan Haberleşme"
+},
+{
+"code": "USB-CON",
+"name": "RS-232 USB çevirici ve RS-485 USB çevirici, 300bps – 230,4 Kbps Baudrate, izoleli",
+"list": 5175.0,
+"cur": "TL",
+"cat": "Uzaktan Haberleşme"
+},
+{
+"code": "ETH-GTW-24V",
+"name": "Ethernet Modem, RS-485, TCP-IP uyumlu, 10/100 Mbps ethernet, izoleli, ModBus iletişim, Maksimum 230400 Bps BESLEME:24V AC",
+"list": 7350.0,
+"cur": "TL",
+"cat": "Uzaktan Haberleşme"
+},
+{
+"code": "ETH-GTW-230V",
+"name": "Ethernet Modem, RS-485, TCP-IP uyumlu, 10/100 Mbps ethernet, izoleli, ModBus iletişim, Maksimum 230400 Bps BESLEME: 230V AC",
+"list": 7350.0,
+"cur": "TL",
+"cat": "Uzaktan Haberleşme"
+},
+{
+"code": "GSM-MOD-4G",
+"name": "GSM Modem, Quand band GSM/GPRS/EDGE, RS-232, RS-485, TCP-IP uyumlu, izoleli, ModBus iletişim, Maksimum 19200 Bps, 2.2dBi SMA değiştirilebilir anten",
+"list": 9750.0,
+"cur": "TL",
+"cat": "Uzaktan Haberleşme"
+},
+{
+"code": "RF-MOD-SET",
+"name": "Kuyu Depo Haberleşme Sistemi, ISM 868 MHz,GFSK Modülasyon, RS 485 Arayüzü, Maksimum 57600 Bps RF İletişim Hızı,",
+"list": 23350.0,
+"cur": "TL",
+"cat": "Uzaktan Haberleşme"
+},
+{
+"code": "GSM-MOD-SET",
+"name": "Kuyu Depo Haberleşme Sistemi, Quand band GSM/GPRS/EDGE, RS-232, RS-485, TCP-IP",
+"list": 23350.0,
+"cur": "TL",
+"cat": "Uzaktan Haberleşme"
+},
+{
+"code": "HA-5",
+"name": "Harici anten 5 dBI, 824~960 / 1710~2170 MHz, 3 Metre kablolu, SMA Konnektör, Mıknatıslı montaj",
+"list": 2500.0,
+"cur": "TL",
+"cat": "Uzaktan Haberleşme"
+},
+{
+"code": "HA-9",
+"name": "Harici anten 9 dBI, 824~960 / 1710~2170 MHz, 3 Metre kablolu, SMA Konnektör, Mıknatıslı montaj",
+"list": 5190.0,
+"cur": "TL",
+"cat": "Uzaktan Haberleşme"
+},
+{
+"code": "DATA-SIM",
+"name": "2 YILLIK SIM KART HİZMET BEDELİ (TURKCELL)",
+"list": 1600.0,
+"cur": "TL",
+"cat": "Enerji İzleme Sistemleri + Data Hattı"
+},
+{
+"code": "TPM-01E",
+"name": "96x96mm Enerji Analizörü,7 Segment Display Ekran",
+"list": 5090.0,
+"cur": "TL",
+"cat": "Şebeke Analizörleri"
+},
+{
+"code": "TPM-01 ES",
+"name": "96x96mm Enerji Analizörü, Haberleşmeli,7 Segment Display Ekran,31.Harmonik Ölçümü,1 Dij. İnput-1 Röle Çıkışı",
+"list": 5770.0,
+"cur": "TL",
+"cat": "Şebeke Analizörleri"
+},
+{
+"code": "TPM-01 ESH",
+"name": "96x96mm Enerji Analizörü, Haberleşmeli,7 Segment Display Ekran,31.Harmonik Ölçümü,1 Dij. İnput-2 Röle Çıkışı",
+"list": 6350.0,
+"cur": "TL",
+"cat": "Şebeke Analizörleri"
+},
+{
+"code": "TPM-03",
+"name": "96x96mm Enerji Analizörü, Haberleşmeli,Grafik LCD Ekran,63.Harmonik Ölçümü,1 Dij. İnput-2 Röle-1 Pulse Çıkışı",
+"list": 13330.0,
+"cur": "TL",
+"cat": "Şebeke Analizörleri"
+},
+{
+"code": "TPM-04SH",
+"name": "96x96mm Enerji Analizörü, Haberleşmeli,Custom LCD Ekran,31.Harmonik Ölçümü,1 Dij. İnput-2 Röle Çıkışı",
+"list": 8290.0,
+"cur": "TL",
+"cat": "Şebeke Analizörleri"
+},
+{
+"code": "TPM-04SHDL",
+"name": "Ray Tipi Enerji Analizörü, Haberleşmeli,Custom LCD Ekran,41.Harmonik Ölçümü,1 Dij. İnput-2 Röle Çıkışı",
+"list": 8600.0,
+"cur": "TL",
+"cat": "Şebeke Analizörleri"
+},
+{
+"code": "TPM-05",
+"name": "96x96mm Enerji Analizörü, Haberleşmeli,Custom LCD Ekran,41.Harmonik Ölçümü,1 Dij. İnput-2 Röle Çıkışı",
+"list": 11440.0,
+"cur": "TL",
+"cat": "Şebeke Analizörleri"
+},
+{
+"code": "TPM-05A",
+"name": "96x96mm Enerji Analizörü,4.Akım Trafo Girişi, Haberleşmeli,Custom LCD Ekran,41.Harmonik Ölçümü,1 Dij. İnput-2 Röle Çıkışı",
+"list": 11700.0,
+"cur": "TL",
+"cat": "Şebeke Analizörleri"
+},
+{
+"code": "EM-06",
+"name": "96x96 mm Multimetre",
+"list": 3200.0,
+"cur": "TL",
+"cat": "Multimetreler"
+},
+{
+"code": "EM-72",
+"name": "72x72mm Multimetre",
+"list": 3000.0,
+"cur": "TL",
+"cat": "Multimetreler"
+},
+{
+"code": "EM-250D",
+"name": "96x96mm Direkt Multimetre (300A Direkt)",
+"list": 4250.0,
+"cur": "TL",
+"cat": "Multimetreler"
+},
+{
+"code": "EM-06DIN",
+"name": "Ray Tipi Multimetre",
+"list": 3990.0,
+"cur": "TL",
+"cat": "Multimetreler"
+},
+{
+"code": "EM-250DIN",
+"name": "Ray Tipi Direkt Multimetre (300A Direkt)",
+"list": 4460.0,
+"cur": "TL",
+"cat": "Multimetreler"
+},
+{
+"code": "EM-07",
+"name": "96x96mm, Haberleşmeli, Setli Multimetre",
+"list": 5980.0,
+"cur": "TL",
+"cat": "Multimetreler"
+},
+{
+"code": "EM-07E",
+"name": "96x96mm, Haberleşmeli,Multimetre",
+"list": 5700.0,
+"cur": "TL",
+"cat": "Multimetreler"
+},
+{
+"code": "EM-07D",
+"name": "96x96mm, Haberleşmeli, Direkt Setli Multimetre (300A)",
+"list": 6700.0,
+"cur": "TL",
+"cat": "Multimetreler"
+},
+{
+"code": "EM-08",
+"name": "Yeni Nesil Multimetre (kWh ve Kosinüs Ölçümü)",
+"list": 3990.0,
+"cur": "TL",
+"cat": "Multimetreler"
+},
+{
+"code": "TMK-0,25",
+"name": "0,25 kVAr Monofaze/230V A.G Güç Kondansatörü",
+"list": 15.0,
+"cur": "USD",
+"cat": "Kondansatörler 230v Monofaze (silindir Tip)"
+},
+{
+"code": "TMK-0,5",
+"name": "0,5 kVAr Monofaze/230V A.G Güç Kondansatörü",
+"list": 15.0,
+"cur": "USD",
+"cat": "Kondansatörler 230v Monofaze (silindir Tip)"
+},
+{
+"code": "TMK-1",
+"name": "1 kVAr Monofaze/230V A.G Güç Kondansatörü",
+"list": 20.0,
+"cur": "USD",
+"cat": "Kondansatörler 230v Monofaze (silindir Tip)"
+},
+{
+"code": "TMK-1,5",
+"name": "1,5 kVAr Monofaze/230V A.G Güç Kondansatörü",
+"list": 24.0,
+"cur": "USD",
+"cat": "Kondansatörler 230v Monofaze (silindir Tip)"
+},
+{
+"code": "TMK-2,5",
+"name": "2,5 kVAr Monofaze/230V A.G Güç Kondansatörü",
+"list": 44.0,
+"cur": "USD",
+"cat": "Kondansatörler 230v Monofaze (silindir Tip)"
+},
+{
+"code": "TMK-5",
+"name": "5 kVAr Monofaze/230V A.G Güç Kondansatörü",
+"list": 80.0,
+"cur": "USD",
+"cat": "Kondansatörler 230v Monofaze (silindir Tip)"
+},
+{
+"code": "TMK-7,5",
+"name": "7,5 kVAr Monofaze/230V A.G Güç Kondansatörü",
+"list": 130.0,
+"cur": "USD",
+"cat": "Kondansatörler 230v Monofaze (silindir Tip)"
+},
+{
+"code": "TMK-10",
+"name": "10 kVAr Monofaze/230V A.G Güç Kondansatörü",
+"list": 145.0,
+"cur": "USD",
+"cat": "Kondansatörler 230v Monofaze (silindir Tip)"
+},
+{
+"code": "TTK-0,5",
+"name": "0,5 kVAr 400V/0,61 kVAr 440V A.G Güç Kondansatörü",
+"list": 16.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-1",
+"name": "1 kVAr 400V/1,21 kVAr 440V A.G Güç Kondansatörü",
+"list": 16.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-1,5",
+"name": "1,5 kVAr 400V/1,82 kVAr 440V A.G Güç Kondansatörü",
+"list": 22.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-2,5",
+"name": "2,5 kVAr 400V/3,03 kVAr 440V A.G Güç Kondansatörü",
+"list": 25.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-5",
+"name": "5 kVAr 400V/6,05 kVAr 440V A.G Güç Kondansatörü",
+"list": 42.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-7,5",
+"name": "7,5 kVAr 400V/9,08 kVAr 440V A.G Güç Kondansatörü",
+"list": 52.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-10",
+"name": "10 kVAr 400V/12,1 kVAr 440V A.G Güç Kondansatörü",
+"list": 60.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-12,5",
+"name": "12,5 kVAr 400V/15,12 kVAr 440V A.G Güç Kondansatörü",
+"list": 74.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-15",
+"name": "15 kVAr 400V/18,15 kVAr 440V A.G Güç Kondansatörü",
+"list": 82.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-20",
+"name": "20 kVAr 400V/24,2 kVAr 440V A.G Güç Kondansatörü",
+"list": 108.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-25",
+"name": "25 kVAr 400V/30,25 kVAr 440V A.G Güç Kondansatörü",
+"list": 125.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-30",
+"name": "30 kVAr 400V/36,3 kVAr 440V A.G Güç Kondansatörü",
+"list": 140.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-40",
+"name": "40 kVAr 400V/48,4 kVAr 440V A.G Güç Kondansatörü",
+"list": 225.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTK-50",
+"name": "50 kVAr 400V/60,5 kVAr 440V A.G Güç Kondansatörü",
+"list": 255.0,
+"cur": "USD",
+"cat": "400v - 415v - 440v Trifaze Alçak Gerilim Güç Kondansatörleri"
+},
+{
+"code": "TTKB-5",
+"name": "5 kVAr 525V AĞIR HİZMET A.G Güç Kondansatörü",
+"list": 45.0,
+"cur": "USD",
+"cat": "525v Trifaze Alçak Gerilim Güç Kondansatörleri(ağır Hizmet)"
+},
+{
+"code": "TTKB-7,5",
+"name": "7,5 kVAr 525V AĞIR HİZMET A.G Güç Kondansatörü",
+"list": 57.0,
+"cur": "USD",
+"cat": "525v Trifaze Alçak Gerilim Güç Kondansatörleri(ağır Hizmet)"
+},
+{
+"code": "TTKB-10",
+"name": "10 kVAr 525V AĞIR HİZMET A.G Güç Kondansatörü",
+"list": 70.0,
+"cur": "USD",
+"cat": "525v Trifaze Alçak Gerilim Güç Kondansatörleri(ağır Hizmet)"
+},
+{
+"code": "TTKB-12,5",
+"name": "12,5 kVAr 525V AĞIR HİZMET A.G Güç Kondansatörü",
+"list": 85.0,
+"cur": "USD",
+"cat": "525v Trifaze Alçak Gerilim Güç Kondansatörleri(ağır Hizmet)"
+},
+{
+"code": "TTKB-15",
+"name": "15 kVAr 525V AĞIR HİZMET A.G Güç Kondansatörü",
+"list": 92.0,
+"cur": "USD",
+"cat": "525v Trifaze Alçak Gerilim Güç Kondansatörleri(ağır Hizmet)"
+},
+{
+"code": "TTKB-20",
+"name": "20 kVAr 525V AĞIR HİZMET A.G Güç Kondansatörü",
+"list": 134.0,
+"cur": "USD",
+"cat": "525v Trifaze Alçak Gerilim Güç Kondansatörleri(ağır Hizmet)"
+},
+{
+"code": "TTKB-25",
+"name": "25 kVAr 525V AĞIR HİZMET A.G Güç Kondansatörü",
+"list": 145.0,
+"cur": "USD",
+"cat": "525v Trifaze Alçak Gerilim Güç Kondansatörleri(ağır Hizmet)"
+},
+{
+"code": "TTKB-30",
+"name": "30 kVAr 525V AĞIR HİZMET A.G Güç Kondansatörü",
+"list": 160.0,
+"cur": "USD",
+"cat": "525v Trifaze Alçak Gerilim Güç Kondansatörleri(ağır Hizmet)"
+},
+{
+"code": "TTKB-40",
+"name": "40 kVAr 525V AĞIR HİZMET A.G Güç Kondansatörü",
+"list": 265.0,
+"cur": "USD",
+"cat": "525v Trifaze Alçak Gerilim Güç Kondansatörleri(ağır Hizmet)"
+},
+{
+"code": "TTKB-50",
+"name": "50 kVAr 525V AĞIR HİZMET A.G Güç Kondansatörü",
+"list": 285.0,
+"cur": "USD",
+"cat": "525v Trifaze Alçak Gerilim Güç Kondansatörleri(ağır Hizmet)"
+},
+{
+"code": "KMP-2,5",
+"name": "2,5 kVAr Kompanzasyon Kontaktörü Üst Blok Dahil 1NA+2NK",
+"list": 32.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "KMP-5",
+"name": "5 kVAr Kompanzasyon Kontaktörü Üst Blok Dahil 1NA+2NK",
+"list": 39.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "KMP-7,5",
+"name": "7,5 kVAr Kompanzasyon Kontaktörü Üst Blok Dahil 1NA+2NK",
+"list": 40.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "KMP-10",
+"name": "10 kVAr Kompanzasyon Kontaktörü 1NA+2NK",
+"list": 42.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "KMP-12,5",
+"name": "12,5 kVAr Kompanzasyon Kontaktörü 1NA+2NK",
+"list": 46.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "KMP-15",
+"name": "15 kVAr Kompanzasyon Kontaktörü 1NA+2NK",
+"list": 55.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "KMP-20",
+"name": "20 kVAr Kompanzasyon Kontaktörü 1NA+2NK",
+"list": 77.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "KMP-25",
+"name": "25 kVAr Kompanzasyon Kontaktörü 1NA+2NK",
+"list": 82.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "KMP-30",
+"name": "30 kVAr Kompanzasyon Kontaktörü 1NA+2NK",
+"list": 99.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "KMP-40",
+"name": "40 kVAr Kompanzasyon Kontaktörü 1NA+2NK",
+"list": 115.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "KMP-50",
+"name": "50 kVAr Kompanzasyon Kontaktörü 1NA+2NK",
+"list": 147.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "KMP-60",
+"name": "60 kVAr Kompanzasyon Kontaktörü 1NA+2NK",
+"list": 190.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "KMP-75",
+"name": "75 kVAr Kompanzasyon Kontaktörü 1NA+2NK",
+"list": 220.0,
+"cur": "USD",
+"cat": "Kompanzasyon Kontaktörleri"
+},
+{
+"code": "TYA-00",
+"name": "160A Yük Ayırıcı",
+"list": 33.0,
+"cur": "USD",
+"cat": "Yük Ayırıcılar"
+},
+{
+"code": "TYA-1",
+"name": "250A Yük Ayırıcı",
+"list": 98.0,
+"cur": "USD",
+"cat": "Yük Ayırıcılar"
+},
+{
+"code": "UEC1-20GC20M7Z",
+"name": "2 KUTUP 20A Modüler Kontaktör",
+"list": 22.0,
+"cur": "USD",
+"cat": "Sessiz Kontaktörler - Modüler Kontaktörler"
+},
+{
+"code": "UEC1-40GC20M7Z",
+"name": "2 KUTUP 40A Modüler Kontaktör",
+"list": 53.9,
+"cur": "USD",
+"cat": "Sessiz Kontaktörler - Modüler Kontaktörler"
+},
+{
+"code": "UEC1-63GC20M7Z",
+"name": "2 KUTUP 63A Modüler Kontaktör",
+"list": 60.5,
+"cur": "USD",
+"cat": "Sessiz Kontaktörler - Modüler Kontaktörler"
+},
+{
+"code": "UEC1-20GC30M7Z",
+"name": "3 KUTUP 20A Modüler Kontaktör",
+"list": 41.8,
+"cur": "USD",
+"cat": "Sessiz Kontaktörler - Modüler Kontaktörler"
+},
+{
+"code": "UEC1-40GC30M7Z",
+"name": "3 KUTUP 40A Modüler Kontaktör",
+"list": 74.8,
+"cur": "USD",
+"cat": "Sessiz Kontaktörler - Modüler Kontaktörler"
+},
+{
+"code": "UEC1-63GC30M7Z",
+"name": "3 KUTUP 63A Modüler Kontaktör",
+"list": 85.8,
+"cur": "USD",
+"cat": "Sessiz Kontaktörler - Modüler Kontaktörler"
+},
+{
+"code": "UEC1-20GC40M7Z",
+"name": "4 KUTUP 20A Modüler Kontaktör",
+"list": 42.9,
+"cur": "USD",
+"cat": "Sessiz Kontaktörler - Modüler Kontaktörler"
+},
+{
+"code": "UEC1-40GC40M7Z",
+"name": "4 KUTUP 40A Modüler Kontaktör",
+"list": 80.3,
+"cur": "USD",
+"cat": "Sessiz Kontaktörler - Modüler Kontaktörler"
+},
+{
+"code": "UEC1-63GC40M7Z",
+"name": "4 KUTUP 63A Modüler Kontaktör",
+"list": 93.5,
+"cur": "USD",
+"cat": "Sessiz Kontaktörler - Modüler Kontaktörler"
+},
+{
+"code": "CA1GS11",
+"name": "Yardımcı Kontak",
+"list": 11.55,
+"cur": "USD",
+"cat": "Sessiz Kontaktörler - Modüler Kontaktörler"
+},
+{
+"code": "TAR-30A",
+"name": "Kaçak Akım Algılama Rölesi 30mA-30A",
+"list": 82.0,
+"cur": "USD",
+"cat": "Kaçak Akım Algılama Rölesi"
+},
+{
+"code": "TAR-30AD",
+"name": "A Tipi Dijital Harmonik Filtreli Kaçak Akım Algılama Rölesi 30mA-30A",
+"list": 155.0,
+"cur": "USD",
+"cat": "Kaçak Akım Algılama Rölesi"
+},
+{
+"code": "TAR-35D",
+"name": "Dijital Direkt Bağlantılı Kaçak Akım Algılama Rölesi(35mm) 30mA-3A",
+"list": 125.0,
+"cur": "USD",
+"cat": "Kaçak Akım Algılama Rölesi"
+},
+{
+"code": "TAR-70D",
+"name": "Dijital Direkt Bağlantılı Kaçak Akım Algılama Rölesi(70mm) 30mA-30A",
+"list": 150.0,
+"cur": "USD",
+"cat": "Kaçak Akım Algılama Rölesi"
+},
+{
+"code": "TTOR-45",
+"name": "Toroidal Akım Trafosu 45 mm",
+"list": 32.0,
+"cur": "USD",
+"cat": "Toroidal Akım Trafoları"
+},
+{
+"code": "TTOR-80",
+"name": "Toroidal Akım Trafosu 80 mm",
+"list": 38.0,
+"cur": "USD",
+"cat": "Toroidal Akım Trafoları"
+},
+{
+"code": "TTOR-100",
+"name": "Toroidal Akım Trafosu100 mm",
+"list": 65.0,
+"cur": "USD",
+"cat": "Toroidal Akım Trafoları"
+},
+{
+"code": "TTOR-150",
+"name": "Toroidal Akım Trafosu 150 mm",
+"list": 90.0,
+"cur": "USD",
+"cat": "Toroidal Akım Trafoları"
+},
+{
+"code": "TTOR-210",
+"name": "Toroidal Akım Trafosu210 mm",
+"list": 115.0,
+"cur": "USD",
+"cat": "Toroidal Akım Trafoları"
+},
+{
+"code": "TTOR-310",
+"name": "Toroidal Akım Trafosu 310 mm",
+"list": 285.0,
+"cur": "USD",
+"cat": "Toroidal Akım Trafoları"
+},
+{
+"code": "TDIK-360",
+"name": "Dikdörtgen CBCT 360X100 mm",
+"list": 1030.0,
+"cur": "USD",
+"cat": "Toroidal Akım Trafoları"
+},
+{
+"code": "TDIK-500",
+"name": "Dikdörtgen CBCT 500X100 mm",
+"list": 1450.0,
+"cur": "USD",
+"cat": "Toroidal Akım Trafoları"
+},
+{
+"code": "TAYR-36",
+"name": "Ayrılabilir Dikdörtgen CBCT 360X100 mm",
+"list": 1250.0,
+"cur": "USD",
+"cat": "Toroidal Akım Trafoları"
+},
+{
+"code": "TAYR-50",
+"name": "Ayrılabilir Dikdörtgen CBCT 500X100 mm",
+"list": 1650.0,
+"cur": "USD",
+"cat": "Toroidal Akım Trafoları"
+},
+{
+"code": "AT-100",
+"name": "30X10 mm 100/5 Mühürsüz Delikli Akım Trafosu, Class 0.5,1.5VA",
+"list": 23.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-125",
+"name": "30X10 mm 125/5 Mühürsüz Delikli Akım Trafosu, Class 0.5,2.5VA",
+"list": 23.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-150",
+"name": "30X10 mm 150/5 Mühürsüz Delikli Akım Trafosu, Class 0.5,2.5VA",
+"list": 24.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-200",
+"name": "30X10 mm 200/5 Mühürsüz Delikli Akım Trafosu, Class 0.5,2.5VA",
+"list": 24.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-250",
+"name": "30X10 mm 250/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 5VA",
+"list": 24.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-300",
+"name": "30X10 mm 300/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 5VA",
+"list": 25.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-400",
+"name": "40X10 mm 400/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 5VA",
+"list": 25.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-500",
+"name": "40X10 mm 500/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 5VA",
+"list": 25.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-600",
+"name": "40X10 mm 600/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 7.5VA",
+"list": 25.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-750",
+"name": "60X10 mm 750/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 15VA",
+"list": 27.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-800",
+"name": "60X10 mm 800/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 15VA",
+"list": 29.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-1000",
+"name": "60X10 mm 1000/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 15VA",
+"list": 33.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-1250",
+"name": "60X10 mm 1250/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 20VA",
+"list": 35.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-1500",
+"name": "80X10 mm 1500/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 25VA",
+"list": 42.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-1600",
+"name": "100X10 mm 1600/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 25VA",
+"list": 43.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-2000",
+"name": "100X10 mm 2000/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 30VA",
+"list": 50.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-2500",
+"name": "100X10 mm 2500/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 40VA",
+"list": 50.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-3000",
+"name": "100X10 mm 3000/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 40VA",
+"list": 70.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "AT-4000",
+"name": "100X10 mm 4000/5 Mühürsüz Delikli Akım Trafosu, Class 0.5, 40VA",
+"list": 88.0,
+"cur": "USD",
+"cat": "A.g Akım Trafoları"
+},
+{
+"code": "OG-AT/40",
+"name": "40/1 O.G Toroid Akım Trafosu,68mm",
+"list": 260.0,
+"cur": "USD",
+"cat": "Xlpe Kablo Tipi O.g Akım Trafoları"
+},
+{
+"code": "OG-AT/100",
+"name": "100/5 O.G Toroid Akım Trafosu,68mm",
+"list": 260.0,
+"cur": "USD",
+"cat": "Xlpe Kablo Tipi O.g Akım Trafoları"
+},
+{
+"code": "ATM-40",
+"name": "20 mm 40/5 Mühürsüz Delikli Akım Trafosu, Class 1, 1VA",
+"list": 15.0,
+"cur": "USD",
+"cat": "Mini Seri A.g Akım Trafoları"
+},
+{
+"code": "ATM-50",
+"name": "20 mm 50/5 Mühürsüz Delikli Akım Trafosu, Class 1, 1VA",
+"list": 15.0,
+"cur": "USD",
+"cat": "Mini Seri A.g Akım Trafoları"
+},
+{
+"code": "ATM-60",
+"name": "20 mm 60/5 Mühürsüz Delikli Akım Trafosu, Class 1, 1VA",
+"list": 15.0,
+"cur": "USD",
+"cat": "Mini Seri A.g Akım Trafoları"
+},
+{
+"code": "ATM-75",
+"name": "20 mm 75/5 Mühürsüz Delikli Akım Trafosu, Class 1, 1.5VA",
+"list": 15.0,
+"cur": "USD",
+"cat": "Mini Seri A.g Akım Trafoları"
+},
+{
+"code": "ATM-80",
+"name": "20 mm 80/5 Mühürsüz Delikli Akım Trafosu, Class 1, 1.5VA",
+"list": 15.0,
+"cur": "USD",
+"cat": "Mini Seri A.g Akım Trafoları"
+},
+{
+"code": "ATM-100",
+"name": "30 X10 mm 100/5 Mühürsüz Delikli Akım Trafosu,Class 1, 1.5VA",
+"list": 15.0,
+"cur": "USD",
+"cat": "Mini Seri A.g Akım Trafoları"
+},
+{
+"code": "ATM-125",
+"name": "30 X10 mm 125/5 Mühürsüz Delikli Akım Trafosu,Class 1, 1.5VA",
+"list": 15.0,
+"cur": "USD",
+"cat": "Mini Seri A.g Akım Trafoları"
+},
+{
+"code": "ATM-150",
+"name": "30 X10 mm 150/5 Mühürsüz Delikli Akım Trafosu,Class 1, 2.5VA",
+"list": 15.0,
+"cur": "USD",
+"cat": "Mini Seri A.g Akım Trafoları"
+},
+{
+"code": "ATM-200",
+"name": "30 X10 mm 200/5 Mühürsüz Delikli Akım Trafosu,Class 1, 2.5VA",
+"list": 15.0,
+"cur": "USD",
+"cat": "Mini Seri A.g Akım Trafoları"
+},
+{
+"code": "ATM-250",
+"name": "30 X10 mm 250/5 Mühürsüz Delikli Akım Trafosu,Class 1, 2.5VA",
+"list": 16.0,
+"cur": "USD",
+"cat": "Mini Seri A.g Akım Trafoları"
+},
+{
+"code": "ATM-300",
+"name": "30 X10 mm 300/5 Mühürsüz Delikli Akım Trafosu,Class 1, 2.5VA",
+"list": 16.0,
+"cur": "USD",
+"cat": "Mini Seri A.g Akım Trafoları"
+},
+{
+"code": "ATM-400",
+"name": "30 X10 mm 400/5 Mühürsüz Delikli Akım Trafosu,Class 1, 2.5VA",
+"list": 16.0,
+"cur": "USD",
+"cat": "Mini Seri A.g Akım Trafoları"
+},
+{
+"code": "SGC1-D-09",
+"name": "AC 3 Kutup 9A Kontaktör 1NA+1NK",
+"list": 18.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-D-12",
+"name": "AC 3 Kutup 12A Kontaktör 1NA+1NK",
+"list": 19.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-D-18",
+"name": "AC 3 Kutup 18A Kontaktör 1NA+1NK",
+"list": 21.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-D-25",
+"name": "AC 3 Kutup 25A Kontaktör 1NA+1NK",
+"list": 44.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-D-32",
+"name": "AC 3 Kutup 32A Kontaktör 1NA+1NK",
+"list": 48.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-D-40",
+"name": "AC 3 Kutup 40A Kontaktör 1NA+1NK",
+"list": 75.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-D-50",
+"name": "AC 3 Kutup 50A Kontaktör 1NA+1NK",
+"list": 90.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-D-65",
+"name": "AC 3 Kutup 65A Kontaktör 1NA+1NK",
+"list": 105.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-D-80",
+"name": "AC 3 Kutup 80A Kontaktör 1NA+1NK",
+"list": 130.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-D-95",
+"name": "AC 3 Kutup 95A Kontaktör 1NA+1NK",
+"list": 180.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "UEC1-115C",
+"name": "AC 3 Kutup 115A Kontaktör 2NA+2NK",
+"list": 260.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "UEC1-150C",
+"name": "AC 3 Kutup 150A Kontaktör 2NA+2NK",
+"list": 310.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "UEC1-185C",
+"name": "AC 3 Kutup 185A Kontaktör 2NA+2NK",
+"list": 330.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-225A",
+"name": "AC 3 Kutup 225A Kontaktör 2NA+2NK",
+"list": 400.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-F330",
+"name": "AC 3 Kutup 330A Kontaktör 2NA+2NK",
+"list": 530.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-F400",
+"name": "AC 3 Kutup 400A Kontaktör 2NA+2NK",
+"list": 650.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-F500",
+"name": "AC 3 Kutup 500A Kontaktör 2NA+2NK",
+"list": 800.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-F630",
+"name": "AC 3 Kutup 630A Kontaktör 2NA+2NK",
+"list": 1100.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "SGC1-F800",
+"name": "AC 3 Kutup 800A Kontaktör 2NA+2NK",
+"list": 1300.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (230v-3 Kutuplu)"
+},
+{
+"code": "UEC1-09CB-24V",
+"name": "24V AC 3 Kutup 9A Kontaktör 1NA+1NK",
+"list": 23.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (24v Ac -3 Kutuplu)"
+},
+{
+"code": "UEC1-12CB-24V",
+"name": "24V AC 3 Kutup 12A Kontaktör 1NA+1NK",
+"list": 24.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (24v Ac -3 Kutuplu)"
+},
+{
+"code": "UEC1-18CB-24V",
+"name": "24V AC 3 Kutup 18A Kontaktör 1NA+1NK",
+"list": 25.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (24v Ac -3 Kutuplu)"
+},
+{
+"code": "UEC1-25CB-24V",
+"name": "24V AC 3 Kutup 25A Kontaktör 1NA+1NK",
+"list": 37.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (24v Ac -3 Kutuplu)"
+},
+{
+"code": "UEC1-32CB-24V",
+"name": "24V AC 3 Kutup 32A Kontaktör 1NA+1NK",
+"list": 43.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (24v Ac -3 Kutuplu)"
+},
+{
+"code": "UEC1-38CB-24V",
+"name": "24V AC 3 Kutup 38A Kontaktör 1NA+1NK",
+"list": 50.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (24v Ac -3 Kutuplu)"
+},
+{
+"code": "UEC1-50CB-24V",
+"name": "24V AC 3 Kutup 50A Kontaktör 1NA+1NK",
+"list": 77.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (24v Ac -3 Kutuplu)"
+},
+{
+"code": "UEC1-65CB-24V",
+"name": "24V AC 3 Kutup 65A Kontaktör 1NA+1NK",
+"list": 90.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (24v Ac -3 Kutuplu)"
+},
+{
+"code": "UEC1-80CB-24V",
+"name": "24V AC 3 Kutup 80A Kontaktör 1NA+1NK",
+"list": 110.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (24v Ac -3 Kutuplu)"
+},
+{
+"code": "UEC1-95CB-24V",
+"name": "24V AC 3 Kutup 95A Kontaktör 1NA+1NK",
+"list": 138.0,
+"cur": "USD",
+"cat": "Ac Kontaktörler (24v Ac -3 Kutuplu)"
+},
+{
+"code": "SGC1-M0910",
+"name": "AC 3 Kutup 9A Kontaktör 1NA",
+"list": 14.0,
+"cur": "USD",
+"cat": "Mini Ac Kontaktörler (230v Ac-3 Kutuplu)"
+},
+{
+"code": "SGC1-M1210",
+"name": "AC 3 Kutup 12A Kontaktör 1NA",
+"list": 15.0,
+"cur": "USD",
+"cat": "Mini Ac Kontaktörler (230v Ac-3 Kutuplu)"
+},
+{
+"code": "SGC1-M1610",
+"name": "AC 3 Kutup 16A Kontaktör 1NA",
+"list": 16.0,
+"cur": "USD",
+"cat": "Mini Ac Kontaktörler (230v Ac-3 Kutuplu)"
+},
+{
+"code": "CA1S11",
+"name": "Yan Yardımcı Blok 1NA+1NK",
+"list": 11.0,
+"cur": "USD",
+"cat": "Uec Serisi İçin Yardımcı Kontaklar"
+},
+{
+"code": "CA1R22",
+"name": "Üst Yardımcı Blok 2NA+2NK",
+"list": 17.0,
+"cur": "USD",
+"cat": "Uec Serisi İçin Yardımcı Kontaklar"
+},
+{
+"code": "SGB-63-0201",
+"name": "MCB 1P 2A 4.5 kA, Otomatik Sigorta",
+"list": 4.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-0401",
+"name": "MCB 1P 4A 4.5 kA, Otomatik Sigorta",
+"list": 4.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-0601",
+"name": "MCB 1P 6A 4.5 kA, Otomatik Sigorta",
+"list": 4.25,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-1001",
+"name": "MCB 1P 10A 4.5 kA, Otomatik Sigorta",
+"list": 4.25,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-1601",
+"name": "MCB 1P 16A 4.5 kA, Otomatik Sigorta",
+"list": 4.25,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-2001",
+"name": "MCB 1P 20A 4.5 kA, Otomatik Sigorta",
+"list": 4.25,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-2501",
+"name": "MCB 1P 25A 4.5 kA, Otomatik Sigorta",
+"list": 4.25,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-3201",
+"name": "MCB 1P 32A 4.5 kA, Otomatik Sigorta",
+"list": 4.25,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-4001",
+"name": "MCB 1P 40A 4.5 kA, Otomatik Sigorta",
+"list": 4.25,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-5001",
+"name": "MCB 1P 50A 4.5 kA, Otomatik Sigorta",
+"list": 4.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-6301",
+"name": "MCB 1P 63A 4.5 kA, Otomatik Sigorta",
+"list": 4.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-0602",
+"name": "MCB 2P 6A 4.5 kA, Otomatik Sigorta",
+"list": 6.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-1002",
+"name": "MCB 2P 10A 4.5 kA, Otomatik Sigorta",
+"list": 6.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-1602",
+"name": "MCB 2P 16A 4.5 kA, Otomatik Sigorta",
+"list": 6.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-2002",
+"name": "MCB 2P 20A 4.5 kA, Otomatik Sigorta",
+"list": 6.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-2502",
+"name": "MCB 2P 25A 4.5 kA, Otomatik Sigorta",
+"list": 6.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-3202",
+"name": "MCB 2P 32A 4.5 kA, Otomatik Sigorta",
+"list": 7.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-4002",
+"name": "MCB 2P 40A 4.5 kA, Otomatik Sigorta",
+"list": 7.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-5002",
+"name": "MCB 2P 50A 4.5 kA, Otomatik Sigorta",
+"list": 7.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-6302",
+"name": "MCB 2P 63A 4.5 kA, Otomatik Sigorta",
+"list": 7.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-0603",
+"name": "MCB 3P 6A 4.5 kA, Otomatik Sigorta",
+"list": 13.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-1003",
+"name": "MCB 3P 10A 4.5 kA, Otomatik Sigorta",
+"list": 13.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-1603",
+"name": "MCB 3P 16A 4.5 kA, Otomatik Sigorta",
+"list": 13.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-2003",
+"name": "MCB 3P 20A 4.5 kA, Otomatik Sigorta",
+"list": 13.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-2503",
+"name": "MCB 3P 25A 4.5 kA, Otomatik Sigorta",
+"list": 13.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-3203",
+"name": "MCB 3P 32A 4.5 kA, Otomatik Sigorta",
+"list": 13.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-4003",
+"name": "MCB 3P 40A 4.5 kA, Otomatik Sigorta",
+"list": 13.5,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-5003",
+"name": "MCB 3P 50A 4.5 kA, Otomatik Sigorta",
+"list": 15.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-6303",
+"name": "MCB 3P 63A 4.5 kA, Otomatik Sigorta",
+"list": 15.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-80-125H",
+"name": "MLB3P 80A Otomatik Sigorta",
+"list": 40.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-100-125H",
+"name": "MLB3P 100A Otomatik Sigorta",
+"list": 42.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-125H-125",
+"name": "MLB3P 125A Otomatik Sigorta",
+"list": 44.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-1004",
+"name": "MCB 4P 10A 4.5 kA, Otomatik Sigorta",
+"list": 17.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-1604",
+"name": "MCB 4P 16A 4.5 kA, Otomatik Sigorta",
+"list": 17.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-2004",
+"name": "MCB 4P 20A 4.5 kA, Otomatik Sigorta",
+"list": 17.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-2504",
+"name": "MCB 4P 25A 4.5 kA, Otomatik Sigorta",
+"list": 17.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-3204",
+"name": "MCB 4P 32A 4.5 kA, Otomatik Sigorta",
+"list": 17.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-4004",
+"name": "MCB 4P 40A 4.5 kA, Otomatik Sigorta",
+"list": 17.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-5004",
+"name": "MCB 4P 50A 4.5 kA, Otomatik Sigorta",
+"list": 19.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "SGB-63-6304",
+"name": "MCB 4P 63A 4.5 kA, Otomatik Sigorta",
+"list": 19.0,
+"cur": "USD",
+"cat": "Otomatik Sigortalar"
+},
+{
+"code": "2A-OG-PİMLİ",
+"name": "2A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 22.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "4A-OG-PİMLİ",
+"name": "4A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 22.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "6A-OG-PİMLİ",
+"name": "6A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 22.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "10A-OG-PİMLİ",
+"name": "10A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 22.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "16A-OG-PİMLİ",
+"name": "16A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 22.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "20A-OG-PİMLİ",
+"name": "20A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 22.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "25A-OG-PİMLİ",
+"name": "25A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 22.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "30A-OG-PİMLİ",
+"name": "30A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 22.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "40A-OG-PİMLİ",
+"name": "40A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 22.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "50A-OG-PİMLİ",
+"name": "50A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 27.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "63A-OG-PİMLİ",
+"name": "63A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 27.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "80A-OG-PİMLİ",
+"name": "80A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 27.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "100A-OG-PİMLİ",
+"name": "100A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 27.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "125A-OG-PİMLİ",
+"name": "125A OG Sigorta 36kV Pimli 61 cm Alüminyum Başlık",
+"list": 27.0,
+"cur": "USD",
+"cat": "Og Sigortalar"
+},
+{
+"code": "SGV2-M06",
+"name": "3 Kutup 1-1,5A Motor Koruma Şalteri,",
+"list": 41.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV2-M07",
+"name": "3 Kutup 1,6-2,5A Motor Koruma Şalteri",
+"list": 41.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV2-M08",
+"name": "3 Kutup 2,5-4A Motor Koruma Şalteri",
+"list": 41.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV2-M10",
+"name": "3 Kutup 4-6,3A Motor Koruma Şalteri",
+"list": 41.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV2-M14",
+"name": "3 Kutup 6-10A Motor Koruma Şalteri",
+"list": 43.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV2-M16",
+"name": "3 Kutup 9-14A Motor Koruma Şalteri",
+"list": 43.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV2-M20",
+"name": "3 Kutup 13-18A Motor Koruma Şalteri",
+"list": 43.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV2-M21",
+"name": "3 Kutup 17-23A Motor Koruma Şalteri",
+"list": 46.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV2-M22",
+"name": "3 Kutup 20-25A Motor Koruma Şalteri",
+"list": 46.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV2-M32",
+"name": "3 Kutup 24-32A Motor Koruma Şalteri",
+"list": 65.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV3-M40",
+"name": "3 Kutup 25-40A Motor Koruma Şalteri",
+"list": 115.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV3-M63",
+"name": "3 Kutup 40-63A Motor Koruma Şalteri",
+"list": 120.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV3-M80",
+"name": "3 Kutup 63-80A Motor Koruma Şalteri",
+"list": 125.0,
+"cur": "USD",
+"cat": "Motor Koruma Şalterleri"
+},
+{
+"code": "SGV2-AE11",
+"name": "Üst Yardımcı Blok",
+"list": 7.0,
+"cur": "USD",
+"cat": "Yardımcı Kontaktlar"
+},
+{
+"code": "SGV2-AN11",
+"name": "Sağ-Sol Yan Yardımcı Blok",
+"list": 11.0,
+"cur": "USD",
+"cat": "Yardımcı Kontaktlar"
+},
+{
+"code": "SGR2-D1307",
+"name": "1,6A - 2,5A ManyetikTermik Röle",
+"list": 16.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D1308",
+"name": "2,5A - 4A ManyetikTermik Röle",
+"list": 16.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D1310",
+"name": "4A - 6A ManyetikTermik Röle",
+"list": 16.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D1314",
+"name": "7A - 10A ManyetikTermik Röle",
+"list": 16.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D1316",
+"name": "9A - 13A ManyetikTermik Röle",
+"list": 16.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D1321",
+"name": "12A - 18A ManyetikTermik Röle",
+"list": 16.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D1322",
+"name": "17A - 25A ManyetikTermik Röle",
+"list": 20.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D2353",
+"name": "23A - 32A ManyetikTermik Röle",
+"list": 27.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D2355",
+"name": "28A - 36A ManyetikTermik Röle",
+"list": 28.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D3355",
+"name": "30A - 40A ManyetikTermik Röle",
+"list": 36.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D3357",
+"name": "37A - 50A ManyetikTermik Röle",
+"list": 55.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D3359",
+"name": "48A - 65A ManyetikTermik Röle",
+"list": 60.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D3361",
+"name": "55A - 70A ManyetikTermik Röle",
+"list": 60.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGR2-D3365",
+"name": "80A - 104A ManyetikTermik Röle",
+"list": 75.0,
+"cur": "USD",
+"cat": "Manyetik Termik Röleler"
+},
+{
+"code": "SGM6-125H-80",
+"name": "80A 3 Kutup Sabit Kompakt Şalter 36kA",
+"list": 65.0,
+"cur": "USD",
+"cat": "Kompakt Şalterler (3 Kutuplu - Sabit)"
+},
+{
+"code": "SGM6-125H-100",
+"name": "100A 3 Kutup Sabit Kompakt Şalter 36kA",
+"list": 68.0,
+"cur": "USD",
+"cat": "Kompakt Şalterler (3 Kutuplu - Sabit)"
+},
+{
+"code": "SGM6-125H-125",
+"name": "125A 3 Kutup Sabit Kompakt Şalter 36kA",
+"list": 98.0,
+"cur": "USD",
+"cat": "Kompakt Şalterler (3 Kutuplu - Sabit)"
+},
+{
+"code": "SGM6-160L-160",
+"name": "160A 3 Kutup Sabit Kompakt Şalter 36kA",
+"list": 100.0,
+"cur": "USD",
+"cat": "Kompakt Şalterler (3 Kutuplu - Sabit)"
+},
+{
+"code": "SGM6-250L-200",
+"name": "200A 3 Kutup Sabit Kompakt Şalter 36kA",
+"list": 115.0,
+"cur": "USD",
+"cat": "Kompakt Şalterler (3 Kutuplu - Sabit)"
+},
+{
+"code": "SGM6-250L-250",
+"name": "250A 3 Kutup Sabit Kompakt Şalter 36kA",
+"list": 120.0,
+"cur": "USD",
+"cat": "Kompakt Şalterler (3 Kutuplu - Sabit)"
+},
+{
+"code": "SGM6-400M-315",
+"name": "315A 3 Kutup Sabit Kompakt Şalter 85kA",
+"list": 245.0,
+"cur": "USD",
+"cat": "Kompakt Şalterler (3 Kutuplu - Sabit)"
+},
+{
+"code": "SGM6-400M-400",
+"name": "400A 3 Kutup Sabit Kompakt Şalter 85kA",
+"list": 250.0,
+"cur": "USD",
+"cat": "Kompakt Şalterler (3 Kutuplu - Sabit)"
+},
+{
+"code": "SGM6-630M-630",
+"name": "630A 3 Kutup Sabit Kompakt Şalter 85kA",
+"list": 400.0,
+"cur": "USD",
+"cat": "Kompakt Şalterler (3 Kutuplu - Sabit)"
+},
+{
+"code": "SGM6-1250M-1000",
+"name": "1000A 3 Kutup Sabit Kompakt Şalter 50kA",
+"list": 1200.0,
+"cur": "USD",
+"cat": "Kompakt Şalterler (3 Kutuplu - Sabit)"
+},
+{
+"code": "SGM6-1250M-1250",
+"name": "1250A 3 Kutup Sabit Kompakt Şalter 50kA",
+"list": 1350.0,
+"cur": "USD",
+"cat": "Kompakt Şalterler (3 Kutuplu - Sabit)"
+},
+{
+"code": "SGM6-1600M-1600",
+"name": "1600A 3 Kutup Sabit Kompakt Şalter 65kA",
+"list": 1900.0,
+"cur": "USD",
+"cat": "Kompakt Şalterler (3 Kutuplu - Sabit)"
+},
+{
+"code": "DAV-120",
+"name": "DIN Tipi Dijital Voltmetre(150-260V) & Ampermetre(1-100A)",
+"list": 3000.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre & Ampermetre"
+},
+{
+"code": "DAV-300",
+"name": "DIN Tipi Dijital Voltmetre(150-260V) & Ampermetre(2-250A)",
+"list": 3200.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre & Ampermetre"
+},
+{
+"code": "DAV-72D",
+"name": "Dijital Voltmetre(150-260V) & Ampermetre(1-100A) (72x72mm)",
+"list": 3400.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre & Ampermetre"
+},
+{
+"code": "DJ-V72DC",
+"name": "Dijital DC Voltmetre 1V - 300V DC, 3 Hane 14 mm Display (72x72mm)",
+"list": 2500.0,
+"cur": "TL",
+"cat": "Dc Voltmetre"
+},
+{
+"code": "DJ-V48DC",
+"name": "Dijital DC Voltmetre 1V - 300V DC, 3 Hane 9 mm Display (48x 48mm)",
+"list": 2500.0,
+"cur": "TL",
+"cat": "Dc Voltmetre"
+},
+{
+"code": "DJ-V36DC",
+"name": "Dijital DC Voltmetre 1V - 300V DC, 3 Hane 14 mm Display (36x72mm)",
+"list": 2700.0,
+"cur": "TL",
+"cat": "Dc Voltmetre"
+},
+{
+"code": "DJ-A72DC",
+"name": "Dijital DC Ampermetre 100mA - 990A DC, 3 Hane 14 mm Display (72x72mm), XA/60 mV Şönt",
+"list": 2880.0,
+"cur": "TL",
+"cat": "Dc Ampermetre (60 Mv Şönt)"
+},
+{
+"code": "DJ-A48DC",
+"name": "Dijital DC Ampermetre 100mA - 990A DC, 3 Hane 9 mm Display (48x48mm), XA/60 mV Şönt",
+"list": 2880.0,
+"cur": "TL",
+"cat": "Dc Ampermetre (60 Mv Şönt)"
+},
+{
+"code": "DJ-A36DC",
+"name": "Dijital DC Ampermetre 100mA - 990A DC, 3 Hane 14 mm Display (36x72mm), XA/60 mV Şönt",
+"list": 3000.0,
+"cur": "TL",
+"cat": "Dc Ampermetre (60 Mv Şönt)"
+},
+{
+"code": "SNT60-30",
+"name": "30A , 60mV Şönt",
+"list": 660.0,
+"cur": "TL",
+"cat": "Şöntler"
+},
+{
+"code": "SNT60-40",
+"name": "40A , 60mV Şönt",
+"list": 660.0,
+"cur": "TL",
+"cat": "Şöntler"
+},
+{
+"code": "SNT60-50",
+"name": "50A , 60mV Şönt",
+"list": 730.0,
+"cur": "TL",
+"cat": "Şöntler"
+},
+{
+"code": "SNT60-60",
+"name": "60A , 60mV Şönt",
+"list": 750.0,
+"cur": "TL",
+"cat": "Şöntler"
+},
+{
+"code": "SNT60-100",
+"name": "100A , 60mV Şönt",
+"list": 1100.0,
+"cur": "TL",
+"cat": "Şöntler"
+},
+{
+"code": "SNT60-150",
+"name": "150A , 60mV Şönt",
+"list": 1250.0,
+"cur": "TL",
+"cat": "Şöntler"
+},
+{
+"code": "SNT60-250",
+"name": "250A , 60mV Şönt",
+"list": 1520.0,
+"cur": "TL",
+"cat": "Şöntler"
+},
+{
+"code": "SNT60-300",
+"name": "300A , 60mV Şönt",
+"list": 2000.0,
+"cur": "TL",
+"cat": "Şöntler"
+},
+{
+"code": "SNT60-600",
+"name": "600A , 60mV Şönt",
+"list": 4300.0,
+"cur": "TL",
+"cat": "Şöntler"
+},
+{
+"code": "SNT60-1000",
+"name": "1000A , 60mV Şönt",
+"list": 6700.0,
+"cur": "TL",
+"cat": "Şöntler"
+},
+{
+"code": "SNT60-1600",
+"name": "1600A , 60mV Şönt",
+"list": 12350.0,
+"cur": "TL",
+"cat": "Şöntler"
+},
+{
+"code": "DJ-V96",
+"name": "Dijital Voltmetre 1V - 500V AC (50/60 Hz) 96x96mm",
+"list": 2100.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre"
+},
+{
+"code": "DJ-V72",
+"name": "Dijital Voltmetre 1V - 500V AC (50/60 Hz) 72x72mm",
+"list": 2100.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre"
+},
+{
+"code": "DJ-V48",
+"name": "Dijital Voltmetre 1V - 500V AC (50/60 Hz) 48x48mm",
+"list": 2360.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre"
+},
+{
+"code": "DJ-V36",
+"name": "Dijital Voltmetre 1V - 500V AC (50/60 Hz) 36x72mm",
+"list": 2360.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre"
+},
+{
+"code": "DV-DIN",
+"name": "Dijital Voltmetre 1V - 500V AC (50/60 Hz) DIN Tipi",
+"list": 2360.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre"
+},
+{
+"code": "DJ-V96T",
+"name": "Dijital 3 Faz Voltmetre 5V - 500V AC (50/60 Hz) 96x96mm",
+"list": 3000.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre"
+},
+{
+"code": "DJ-V96S",
+"name": "Dijital Seçmeli Voltmetre 5V - 500V AC (50/60 Hz) 96x96mm",
+"list": 2300.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre"
+},
+{
+"code": "DJ-V72S",
+"name": "Dijital Seçmeli Voltmetre 5V - 500V AC (50/60 Hz) 72x72mm",
+"list": 2300.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre"
+},
+{
+"code": "RG-72E",
+"name": "Dijital Voltmetre (Regülatörler için) Ekonomik Tip 3V - 300V AC 72x72mm",
+"list": 1380.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre (regülatörler İçin)"
+},
+{
+"code": "RG-72EB",
+"name": "Kornalı Dijital Voltmetre (Regülatörler için) 3V - 300V AC 72x72mm",
+"list": 1400.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre (regülatörler İçin)"
+},
+{
+"code": "RG-96K",
+"name": "Dijital Voltmetre (Regülatörler için servo kontrol) 1V - 300V AC 72x72mm",
+"list": 2800.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre (regülatörler İçin)"
+},
+{
+"code": "RG-72K",
+"name": "Dijital Voltmetre (Regülatörler için servo kontrol) 1V - 300V AC 72x72mm",
+"list": 2600.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre (regülatörler İçin)"
+},
+{
+"code": "RG-72AK",
+"name": "Dijital Voltmetre (Regülatörler için servo ve akım kontrolü) 1V - 300V AC 250A Direkt 72x72mm",
+"list": 3150.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre (regülatörler İçin)"
+},
+{
+"code": "RG-72AKC",
+"name": "Dijital Voltmetre (Regülatörler için servo ve akım kontrolü) 1V - 300V AC 250A Direkt 72x72mm",
+"list": 3150.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre (regülatörler İçin)"
+},
+{
+"code": "RG-72C",
+"name": "Dijital Voltmetre (Regülatörler için Siviçsiz-Servo kontrol) 1V - 300V AC 72x72mm",
+"list": 2780.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre (regülatörler İçin)"
+},
+{
+"code": "DV-B",
+"name": "Dijital Seçmeli Voltmetre (50/60 Hz), Buzzer’lı 72x72mm",
+"list": 1380.0,
+"cur": "TL",
+"cat": "Dijital Voltmetre (regülatörler İçin)"
+},
+{
+"code": "DJ-A96",
+"name": "Dijital X5 Ampermetre, 96x96mm",
+"list": 2250.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DJ-A96D",
+"name": "Dijital Direkt Ampermetre(1-100A), 96x96mm",
+"list": 2670.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DJ-A72",
+"name": "Dijital X5 Ampermetre, 72x72mm",
+"list": 2100.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DJ-A72D",
+"name": "Dijital Direkt Ampermetre(1-100A), 72x72mm",
+"list": 2570.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DJ-A48",
+"name": "Dijital X5 Ampermetre, 48x48mm",
+"list": 2250.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DJ-A48D",
+"name": "Dijital Direkt Ampermetre(1-100A), 48x48mm",
+"list": 2570.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DJ-A36",
+"name": "Dijital X5 Ampermetre, 36x72mm",
+"list": 2360.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DJ-A36D",
+"name": "Dijital Direkt Ampermetre(1-100A), 36x72mm",
+"list": 2570.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DA-120",
+"name": "Dijital Direkt Ampermetre(1-100A), DIN Kutu",
+"list": 2600.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DA-300",
+"name": "Dijital Direkt Ampermetre, (2-250A) DIN Kutu",
+"list": 2850.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DJ-A96T",
+"name": "Dijital 3 Faz X5 Ampermetre, 96x96mm",
+"list": 3300.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DJ-A96S",
+"name": "Dijital Setli X5 Ampermetre, 96x96mm",
+"list": 3675.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DJ-A72S",
+"name": "Dijital Setli X5 Ampermetre, 72x72mm",
+"list": 3300.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DA-VIP04",
+"name": "Dijital Setli X5 Ampermetre, 96x96mm",
+"list": 3725.0,
+"cur": "TL",
+"cat": "Dijital Ampermetre"
+},
+{
+"code": "DJ-F96",
+"name": "Dijital Frekansmetre 1 - 400 Hz.(15V - 500V AC) 96x96mm",
+"list": 2360.0,
+"cur": "TL",
+"cat": "Dijital Frekansmetre"
+},
+{
+"code": "DJ-F72",
+"name": "Dijital Frekansmetre 1 - 400 Hz.(15V - 500V AC) 72x72mm",
+"list": 2250.0,
+"cur": "TL",
+"cat": "Dijital Frekansmetre"
+},
+{
+"code": "DJ-F48",
+"name": "Dijital Frekansmetre 1 - 400 Hz.(15V - 500V AC) 48x48mm",
+"list": 2250.0,
+"cur": "TL",
+"cat": "Dijital Frekansmetre"
+},
+{
+"code": "DJ-F36",
+"name": "Dijital Frekansmetre 1 - 400 Hz.(15V - 500V AC) 36x72mm",
+"list": 2250.0,
+"cur": "TL",
+"cat": "Dijital Frekansmetre"
+},
+{
+"code": "DF-DIN",
+"name": "Dijital Frekansmetre 1 - 400 Hz.(15V - 500V AC) DIN Kutu",
+"list": 2570.0,
+"cur": "TL",
+"cat": "Dijital Frekansmetre"
+},
+{
+"code": "DAKR-01D",
+"name": "Düşük Akım Kontrol Rölesi 1-10.000/5A ve ya 0.5A - 5A Direkt DIN Kutu",
+"list": 2220.0,
+"cur": "TL",
+"cat": "Dijital Termikler"
+},
+{
+"code": "TRM-12",
+"name": "Dijital Termik 3-12A Ayar Sahalı (Direkt) Klasik Ray Kutu",
+"list": 2360.0,
+"cur": "TL",
+"cat": "Dijital Termikler"
+},
+{
+"code": "TRM-25",
+"name": "Dijital Termik 1-25A Ayar Sahalı (Direkt) Klasik Ray Kutu",
+"list": 2670.0,
+"cur": "TL",
+"cat": "Dijital Termikler"
+},
+{
+"code": "TRM-30M",
+"name": "Monofaze Akım ve Gerilim Koruma Özellikli Dijital Termik 0,5-30A Ayar Sahalı",
+"list": 3000.0,
+"cur": "TL",
+"cat": "Dijital Termikler"
+},
+{
+"code": "TRM-30F",
+"name": "Faz Koruma Özellikli Dijital Termik 0,5-30A Ayar Sahalı Direkt Ray Montaj",
+"list": 3400.0,
+"cur": "TL",
+"cat": "Dijital Termikler"
+},
+{
+"code": "TRM-50",
+"name": "Dijital Termik 15-50A Ayar Sahalı,Akım Trafolu, Ray Kutu",
+"list": 3400.0,
+"cur": "TL",
+"cat": "Dijital Termikler"
+},
+{
+"code": "TRM-100",
+"name": "Dijital Termik 40-100A Ayar Sahalı,Akım Trafolu, Ray Kutu",
+"list": 3675.0,
+"cur": "TL",
+"cat": "Dijital Termikler"
+},
+{
+"code": "TRM-200",
+"name": "Dijital Termik 90-200A Ayar Sahalı,Akım Trafolu, Ray Kutu",
+"list": 4725.0,
+"cur": "TL",
+"cat": "Dijital Termikler"
+},
+{
+"code": "TRM-300",
+"name": "Dijital Termik 190-300A Ayar Sahalı,Akım Trafolu, Ray Kutu",
+"list": 5000.0,
+"cur": "TL",
+"cat": "Dijital Termikler"
+},
+{
+"code": "TRM-400",
+"name": "Dijital Termik 290-400A Ayar Sahalı,Akım Trafolu, Ray Kutu",
+"list": 6400.0,
+"cur": "TL",
+"cat": "Dijital Termikler"
+},
+{
+"code": "KON-TER-12",
+"name": "Dijital Kontaktör Termik (1-12A Ayar Sahalı, 4 kW'a kadar)",
+"list": 5090.0,
+"cur": "TL",
+"cat": "Dijital Kontaktör & Termik Röle"
+},
+{
+"code": "KON-TER-18",
+"name": "Dijital Kontaktör Termik (1-18A Ayar Sahalı, 7,5 kW'a kadar)",
+"list": 5600.0,
+"cur": "TL",
+"cat": "Dijital Kontaktör & Termik Röle"
+},
+{
+"code": "KON-TER-25",
+"name": "Dijital Kontaktör Termik (1-25A Ayar Sahalı, 11 kW'a kadar)",
+"list": 6770.0,
+"cur": "TL",
+"cat": "Dijital Kontaktör & Termik Röle"
+},
+{
+"code": "KON-TER-50",
+"name": "Dijital Kontaktör Termik (25-50A Ayar Sahalı, 22 kW'a kadar)",
+"list": 7980.0,
+"cur": "TL",
+"cat": "Dijital Kontaktör & Termik Röle"
+},
+{
+"code": "TTR-20AS",
+"name": "NFC Özellikli Astronomik Zaman Rölesi",
+"list": 2800.0,
+"cur": "TL",
+"cat": "Astronomik Zaman Rölesi"
+},
+{
+"code": "AST-02",
+"name": "Dijital Astronomik Zaman Rölesi",
+"list": 3000.0,
+"cur": "TL",
+"cat": "Astronomik Zaman Rölesi"
+},
+{
+"code": "GKE-40",
+"name": "Dijital Monofaze Gerilim Koruma Rölesi Direkt 40A",
+"list": 2200.0,
+"cur": "TL",
+"cat": "Ev / Endüstriyel Tip Akım Ve Gerilim Koruma Röleleri"
+},
+{
+"code": "GKE-63",
+"name": "Dijital Kaçak Akım Algılamalı Monofaze Gerilim ve Akım Koruma Rölesi Direkt 63A",
+"list": 2800.0,
+"cur": "TL",
+"cat": "Ev / Endüstriyel Tip Akım Ve Gerilim Koruma Röleleri"
+},
+{
+"code": "GKE-63E",
+"name": "Dijital Monofaze Gerilim ve Akım Koruma Rölesi Direkt 63A",
+"list": 1990.0,
+"cur": "TL",
+"cat": "Ev / Endüstriyel Tip Akım Ve Gerilim Koruma Röleleri"
+},
+{
+"code": "GKE-63T",
+"name": "Dijital Trifaze Gerilim ve Akım Koruma Rölesi Direkt 63A",
+"list": 4830.0,
+"cur": "TL",
+"cat": "Ev / Endüstriyel Tip Akım Ve Gerilim Koruma Röleleri"
+},
+{
+"code": "GKE-100T",
+"name": "Dijital Trifaze Gerilim ve Akım Koruma Rölesi Direkt 100A",
+"list": 5460.0,
+"cur": "TL",
+"cat": "Ev / Endüstriyel Tip Akım Ve Gerilim Koruma Röleleri"
+},
+{
+"code": "GKE-125T",
+"name": "Dijital Trifaze Gerilim ve Akım Koruma Rölesi Direkt 125A",
+"list": 5670.0,
+"cur": "TL",
+"cat": "Ev / Endüstriyel Tip Akım Ve Gerilim Koruma Röleleri"
+},
+{
+"code": "EB-185",
+"name": "3 Kutuplu Elektronik Kontaktör Bobin Beslemesi (150-185-225 A)",
+"list": 3400.0,
+"cur": "TL",
+"cat": "Kontaktör Bobin Beslemesi"
+},
+{
+"code": "DHM-48",
+"name": "Dijital İş Güç zaman saati (maksimum 99.999 saat), 6 hane 9 mm display, rezervli, resetlenebilir (48 x 48), pano tipi",
+"list": 2000.0,
+"cur": "TL",
+"cat": "İş Güç Zaman Saati"
+},
+{
+"code": "HM-48",
+"name": "Dijital İş Güç zaman saati (maksimum 99.999 saat), 5 hane 9 mm, 2 hane 8 mm display, rezervli (48 x 48), pano tipi,",
+"list": 1500.0,
+"cur": "TL",
+"cat": "İş Güç Zaman Saati"
+},
+{
+"code": "HM-48D",
+"name": "Dijital İş Güç zaman saati (maksimum 99.999 saat), 5 hane 9 mm, 2 hane 8 mm display, rezervli, resetlenebilir (48 x 48), pano tipi",
+"list": 1500.0,
+"cur": "TL",
+"cat": "İş Güç Zaman Saati"
+},
+{
+"code": "DHM-DIN",
+"name": "Dijital İş Güç zaman saati (maksimum 99.999 saat), 6 hane 9 mm display, rezervli, resetlenebilir (DIN KUTU), ray tipi",
+"list": 1680.0,
+"cur": "TL",
+"cat": "İş Güç Zaman Saati"
+},
+{
+"code": "SF-48",
+"name": "Analog İş Güç zaman saati (maksimum 999.999.9 saat), 7 hane 220 V Pano Tipi 48x48",
+"list": 1200.0,
+"cur": "TL",
+"cat": "İş Güç Zaman Saati"
+},
+{
+"code": "ERX-10",
+"name": "Multifonskiyonlu Zaman Rölesi (12-240 V AC/DC) DIN III Kutu",
+"list": 2550.0,
+"cur": "TL",
+"cat": "Fonksiyonel Zaman Röleleri"
+},
+{
+"code": "ERX-10T",
+"name": "Multifonskiyonlu Zaman Rölesi (24-240 V AC/DC) DIN III Kutu",
+"list": 2550.0,
+"cur": "TL",
+"cat": "Fonksiyonel Zaman Röleleri"
+},
+{
+"code": "ERX-10D",
+"name": "Dijital Multifonskiyonlu Zaman Rölesi (12-240 V AC/DC) DIN II Kutu",
+"list": 3050.0,
+"cur": "TL",
+"cat": "Fonksiyonel Zaman Röleleri"
+},
+{
+"code": "DRV-10",
+"name": "Multifonskiyonlu Zaman Rölesi (220/24V AC) DIN II Kutu",
+"list": 2250.0,
+"cur": "TL",
+"cat": "Fonksiyonel Zaman Röleleri"
+},
+{
+"code": "TTR-10",
+"name": "Programlanabilir Zaman Saati (220 V AC) DIN II Kutu",
+"list": 2450.0,
+"cur": "TL",
+"cat": "Fonksiyonel Zaman Röleleri"
+},
+{
+"code": "ERS-08N",
+"name": "Multifonskiyonlu Zaman Rölesi,8 PIN Soket Bağlantılı 48x48mm (50V-240V AC /24V-220V DC)",
+"list": 1890.0,
+"cur": "TL",
+"cat": "Fonksiyonel Zaman Röleleri"
+},
+{
+"code": "ERD-48T",
+"name": "Çekmede Gecikmeli - Bırakmada Gecikmeli 48x48mm",
+"list": 2150.0,
+"cur": "TL",
+"cat": "Dijital Zaman Röleleri"
+},
+{
+"code": "ERD-48",
+"name": "START ON ile ani kontak ve gecikme veya Flaşör 48x48mm",
+"list": 2940.0,
+"cur": "TL",
+"cat": "Dijital Zaman Röleleri"
+},
+{
+"code": "ERD-72T",
+"name": "Çekmede Gecikmeli - Bırakmada Gecikmeli 72x72mm",
+"list": 2450.0,
+"cur": "TL",
+"cat": "Dijital Zaman Röleleri"
+},
+{
+"code": "ERD-72",
+"name": "Besleme ON ile ani kontak ve gecikme veya Flaşör 72x72mm",
+"list": 3040.0,
+"cur": "TL",
+"cat": "Dijital Zaman Röleleri"
+},
+{
+"code": "ERD-96T",
+"name": "Çekmede Gecikmeli - Bırakmada Gecikmeli 96x96mm",
+"list": 2675.0,
+"cur": "TL",
+"cat": "Dijital Zaman Röleleri"
+},
+{
+"code": "ERD-96",
+"name": "Besleme ON ile ani kontak ve gecikme veya Flaşör 96x96mm",
+"list": 3400.0,
+"cur": "TL",
+"cat": "Dijital Zaman Röleleri"
+},
+{
+"code": "ERD-48M",
+"name": "Besleme ON ile ani kontak ve gecikme veya Flaşör 8 farklı çalışma modu 48x48mm",
+"list": 4670.0,
+"cur": "TL",
+"cat": "Dijital Zaman Röleleri"
+},
+{
+"code": "ERD-72M",
+"name": "Besleme ON ile ani kontak ve gecikme veya Flaşör 8 farklı çalışma modu 72x72mm",
+"list": 4930.0,
+"cur": "TL",
+"cat": "Dijital Zaman Röleleri"
+},
+{
+"code": "ERD-96M",
+"name": "Besleme ON ile ani kontak ve gecikme veya Flaşör 8 farklı çalışma modu 96x96mm",
+"list": 5300.0,
+"cur": "TL",
+"cat": "Dijital Zaman Röleleri"
+},
+{
+"code": "ERD-48K",
+"name": "Besleme ON ile ani kontak ve Flaşör",
+"list": 2850.0,
+"cur": "TL",
+"cat": "Dijital Zaman Röleleri"
+},
+{
+"code": "ERP-DX",
+"name": "Çekmede Gecikmeli - Bırakmada Gecikmeli Analog Ayarlı Dijital Göstergeli 48x48mm Klemens",
+"list": 1780.0,
+"cur": "TL",
+"cat": "Dijital Zaman Röleleri"
+},
+{
+"code": "ER-30",
+"name": "Zaman Rölesi 30sn,Klasik DIN kutu",
+"list": 985.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ER-60",
+"name": "Zaman Rölesi 60sn,Klasik DIN kutu",
+"list": 985.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ER-03D",
+"name": "Zaman Rölesi 3dk,Klasik DIN kutu",
+"list": 1030.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ER-12D",
+"name": "Zaman Rölesi 12dk,Klasik DIN kutu",
+"list": 1030.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ER-30D",
+"name": "Zaman Rölesi 30dk,Klasik DIN kutu",
+"list": 1100.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ER-60D",
+"name": "Zaman Rölesi 60dk,Klasik DIN kutu",
+"list": 1100.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERV-08",
+"name": "Multifonksiyonlu Zaman Rölesi 1-100 saat",
+"list": 1200.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERV-08M",
+"name": "Multifonksiyonlu Zaman Rölesi (Çalışma Gerilimi 12V-240V AC/DC) 1-100 saat",
+"list": 1500.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERV-03",
+"name": "W-Otomat Zaman Rölesi 3sn",
+"list": 1300.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERV-12",
+"name": "W-Otomat Zaman Rölesi 12sn",
+"list": 1300.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERV-30",
+"name": "W-Otomat Zaman Rölesi 30sn",
+"list": 960.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERV-60",
+"name": "W-Otomat Zaman Rölesi 60sn",
+"list": 960.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERV-03D",
+"name": "W-Otomat Zaman Rölesi 3dk",
+"list": 990.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERV-12D",
+"name": "W-Otomat Zaman Rölesi 12dk",
+"list": 1020.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERV-30D",
+"name": "W-Otomat Zaman Rölesi 30dk",
+"list": 1050.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERV-60D",
+"name": "W-Otomat Zaman Rölesi 30dk",
+"list": 1050.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERS-03Y",
+"name": "8 Pin Soketli Zaman Rölesi 3sn,Pano Tipi 48x48mm",
+"list": 1100.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERS-12Y",
+"name": "8 Pin Soketli Zaman Rölesi 12sn,Pano Tipi 48x48mm",
+"list": 1100.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERS-30Y",
+"name": "8 Pin Soketli Zaman Rölesi 30sn,Pano Tipi 48x48mm",
+"list": 1100.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERS-60Y",
+"name": "8 Pin Soketli Zaman Rölesi 60sn,Pano Tipi 48x48mm",
+"list": 1100.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERS-03DY",
+"name": "8 Pin Soketli Zaman Rölesi 3dk,Pano Tipi 48x48mm",
+"list": 1150.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERS-12DY",
+"name": "8 Pin Soketli Zaman Rölesi 12dk,Pano Tipi 48x48mm",
+"list": 1150.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERS-30DY",
+"name": "8 Pin Soketli Zaman Rölesi 30dk,Pano Tipi 48x48mm",
+"list": 1150.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERS-60DY",
+"name": "8 Pin Soketli Zaman Rölesi 60dk,Pano Tipi 48x48mm",
+"list": 1150.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERP-03Y",
+"name": "Zaman Rölesi 3sn,Pano Tipi 48x48mm",
+"list": 1250.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERP-12Y",
+"name": "Zaman Rölesi 12sn,Pano Tipi 48x48mm",
+"list": 1250.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERP-30Y",
+"name": "Zaman Rölesi 30sn,Pano Tipi 48x48mm",
+"list": 1250.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERP-60Y",
+"name": "Zaman Rölesi 60sn,Pano Tipi 48x48mm",
+"list": 1250.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERP-03DY",
+"name": "Zaman Rölesi 3dk,Pano Tipi 48x48mm",
+"list": 1330.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERP-12DY",
+"name": "Zaman Rölesi 12dk,Pano Tipi 48x48mm",
+"list": 1330.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERP-30DY",
+"name": "Zaman Rölesi 30dk,Pano Tipi 48x48mm",
+"list": 1330.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERP-60DY",
+"name": "Zaman Rölesi 60dk,Pano Tipi 48x48mm",
+"list": 1330.0,
+"cur": "TL",
+"cat": "Zaman Röleleri"
+},
+{
+"code": "ERS-07",
+"name": "Multi Fonksiyonlu Çift Ayarlı Sağ Sol Rölesi (150-260 V AC) ON (Sağ-Sol) Zaman Aralığı : 1 sn. - 100 dk. / OFF (Ara Bekleme) Zaman Aralığı: 1 sn. - 100 dk.",
+"list": 1650.0,
+"cur": "TL",
+"cat": "Kumanda Kontrol Röleleri"
+},
+{
+"code": "ERV-YU",
+"name": "Yıldız Üçgen Rölesi, V-Otomat Tip, 220V AC (50-60 Hz.), Yıldız: 1sn. - 30 sn., Geçiş: 10 msn. - 500 msn.",
+"list": 1540.0,
+"cur": "TL",
+"cat": "Kumanda Kontrol Röleleri"
+},
+{
+"code": "ERV-ST",
+"name": "Start Stop Rölesi, Klasik Kutu, 220V AC (50-60 Hz.)",
+"list": 1130.0,
+"cur": "TL",
+"cat": "Kumanda Kontrol Röleleri"
+},
+{
+"code": "ERV-DG",
+"name": "Düşmede Gecikmeli Zaman Rölesi, V-Otomat Tip, 220V AC (50-60 Hz.), 1 sn. - 10 dk.",
+"list": 2880.0,
+"cur": "TL",
+"cat": "Kumanda Kontrol Röleleri"
+},
+{
+"code": "TBM-50DIN",
+"name": "Bulaşık Makinası Rölesi, 5 Kademeli yıkama, 01 sn - 30 sn. durulama, Endüstriyel amaçlı, Klasik Kutu, 220V AC (50-60 Hz.)",
+"list": 2040.0,
+"cur": "TL",
+"cat": "Kumanda Kontrol Röleleri"
+},
+{
+"code": "TBM-53B",
+"name": "Buzzer'lı Tahliye Çıkışlı Bulaşık Makinası Rölesi, 5 Kademeli yıkama, 01 sn - 30 sn. durulama, Endüstriyel amaçlı, Klasik Kutu, 220V AC (50-60 Hz.)",
+"list": 2900.0,
+"cur": "TL",
+"cat": "Kumanda Kontrol Röleleri"
+},
+{
+"code": "DFR-72",
+"name": "Dijital Multifonksiyonlu Flaşör Rölesi,72x72mm",
+"list": 2040.0,
+"cur": "TL",
+"cat": "Flaşör Röleleri"
+},
+{
+"code": "ERF-09",
+"name": "Multifonksiyonlu Flaşör Rölesi DIN Klasik Kutu",
+"list": 1500.0,
+"cur": "TL",
+"cat": "Flaşör Röleleri"
+},
+{
+"code": "ERV-09",
+"name": "Multifonksiyonlu Flaşör Rölesi DIN III Kutu",
+"list": 1380.0,
+"cur": "TL",
+"cat": "Flaşör Röleleri"
+},
+{
+"code": "ERV-09D",
+"name": "Multifonksiyonlu Flaşör Rölesi DIN II Kutu",
+"list": 2650.0,
+"cur": "TL",
+"cat": "Flaşör Röleleri"
+},
+{
+"code": "ERP-2F",
+"name": "Flaşör Rölesi, 1-60 dk,48x48mm Pano Tipi",
+"list": 2250.0,
+"cur": "TL",
+"cat": "Flaşör Röleleri"
+},
+{
+"code": "WL9 PT 5K",
+"name": "5K 22 mm Plastik Potansiyometre",
+"list": 11.0,
+"cur": "USD",
+"cat": "Potansıyometre"
+},
+{
+"code": "WL9 PT 10K",
+"name": "10K 22 mm Plastik Potansiyometre",
+"list": 11.0,
+"cur": "USD",
+"cat": "Potansıyometre"
+},
+{
+"code": "HF-41F",
+"name": "6A Röle + Soket (Vidalı Tk.) (1NO) 24V DC",
+"list": 7.7,
+"cur": "USD",
+"cat": "Röle + Soket"
+},
+{
+"code": "PTM-01",
+"name": "0-10V analog çıkışlı",
+"list": 3300.0,
+"cur": "TL",
+"cat": "Dijital Çıkışlı Dijital Potansiyometre"
+},
+{
+"code": "PTM-02",
+"name": "4-20mA analog çıkışlı",
+"list": 3300.0,
+"cur": "TL",
+"cat": "Dijital Çıkışlı Dijital Potansiyometre"
+},
+{
+"code": "SSR-05",
+"name": "Sıvı Seviye Rölesi Klasik DIN Kutu",
+"list": 1280.0,
+"cur": "TL",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "SSR-05D",
+"name": "Sıvı Seviye Rölesi DIN Kutu",
+"list": 1775.0,
+"cur": "TL",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "SSR-05D-24VDC",
+"name": "Sıvı Seviye Rölesi DIN Kutu(İzoleli 24V DC Besleme Katı)",
+"list": 2800.0,
+"cur": "TL",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "VSR-05",
+"name": "Sıvı Seviye Rölesi DIN II Kutu",
+"list": 1350.0,
+"cur": "TL",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "VSR-05-24",
+"name": "Sıvı Seviye Rölesi 24V Beslemeli DIN II Kutu",
+"list": 1700.0,
+"cur": "TL",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "SSR-09",
+"name": "Buharlı Ütü Kazanları için Sıvı Seviye Rölesi (Deposuz) Klasik DIN Kutu",
+"list": 1260.0,
+"cur": "TL",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "SSR-19",
+"name": "Buharlı Ütü Kazanları için Sıvı Seviye Rölesi (Depolu) Klasik DIN Kutu",
+"list": 1260.0,
+"cur": "TL",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "SSE-10",
+"name": "Sıvı Seviye Elektrodu (Paslanmaz)",
+"list": 295.0,
+"cur": "TL",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "SSE-20",
+"name": "Sıvı Seviye Elektrodu (Paslanmaz)",
+"list": 350.0,
+"cur": "TL",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "FLT-1.6",
+"name": "Kablolu Flatör, 1,6 metre, 8A 250V AC (50 / 60 Hz), IP68",
+"list": 22.0,
+"cur": "USD",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "FLT-3",
+"name": "Kablolu Flatör, 3 metre, 8A 250V AC (50 / 60 Hz), IP68",
+"list": 26.0,
+"cur": "USD",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "FLT-5",
+"name": "Kablolu Flatör, 5 metre, 8A 250V AC (50 / 60 Hz), IP68",
+"list": 35.0,
+"cur": "USD",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "FLT-10",
+"name": "Kablolu Flatör, 10 metre, 8A 250V AC (50 / 60 Hz), IP68",
+"list": 54.0,
+"cur": "USD",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "ASFLT-1.6",
+"name": "Asansör Seviye Flatör, 1.6 Metre 3X1.5 Kauçuk Sıvı Seviye Flatörü mm 8mm H05 21A",
+"list": 70.0,
+"cur": "USD",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "ASFLT-3",
+"name": "Asansör Seviye Flatör, 3 Metre 3X1.5 Kauçuk Sıvı Seviye Flatörü mm 8mm H05 21A",
+"list": 88.0,
+"cur": "USD",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "ASFLT-5",
+"name": "Asansör Seviye Flatör, 5 Metre 3X1.5 Kauçuk Sıvı Seviye Flatörü mm 8mm H05 21A",
+"list": 95.0,
+"cur": "USD",
+"cat": "Sıvı Seviye Röleleri"
+},
+{
+"code": "HSR-02X",
+"name": "Hidrofor Sıralama Rölesi (Off, 10 dk, 30 dk, 1 Saat, 3 Saat, 6 Saat ve 12 Saat Ayarlanabilir)",
+"list": 1680.0,
+"cur": "TL",
+"cat": "Hidrofor Sıralama Röleleri"
+},
+{
+"code": "HSR-03X",
+"name": "Hidrofor Sıralama Rölesi (Off, 10 dk, 30 dk, 1 Saat, 3 Saat, 6 Saat ve 12 Saat Ayarlanabilir)",
+"list": 1785.0,
+"cur": "TL",
+"cat": "Hidrofor Sıralama Röleleri"
+},
+{
+"code": "FTV-04",
+"name": "Fotosel Rölesi, 1 - 10 Lux ayarlı, 5A / 250V AC röle çıkışlı, DIN Kutu",
+"list": 1100.0,
+"cur": "TL",
+"cat": "Fotosel Röleleri"
+},
+{
+"code": "FT-GR",
+"name": "Fotosel Rölesi, 10 Lux sabit, 7A / 250V AC röle çıkışlı",
+"list": 1030.0,
+"cur": "TL",
+"cat": "Fotosel Röleleri"
+},
+{
+"code": "FT-G",
+"name": "Fotosel Göz, (5 mm LDR)",
+"list": 475.0,
+"cur": "TL",
+"cat": "Fotosel Röleleri"
+},
+{
+"code": "MDK-02",
+"name": "Monofaze Dalgıç Kontrol Rölesi ,72x72mm",
+"list": 4830.0,
+"cur": "TL",
+"cat": "Dalgıç Kontrol Röleleri"
+},
+{
+"code": "MDK-03",
+"name": "Dijital Kontaktörlü Monofaze Dalgıç Kontrol Rölesi (1-30 A Direkt Çalışma) (150-270 V AC",
+"list": 4725.0,
+"cur": "TL",
+"cat": "Dalgıç Kontrol Röleleri"
+},
+{
+"code": "TDK-01",
+"name": "Trifaze Dalgıç Kontrol Rölesi (Nötrsüz) (1-120A) 144X144mm",
+"list": 10550.0,
+"cur": "TL",
+"cat": "Dalgıç Kontrol Röleleri"
+},
+{
+"code": "TDK-02",
+"name": "Trifaze Dalgıç Kontrol Rölesi (Nötrsüz) (1-300A) 144X144mm",
+"list": 10700.0,
+"cur": "TL",
+"cat": "Dalgıç Kontrol Röleleri"
+},
+{
+"code": "TDK-30",
+"name": "Dijital Kontaktörlü Trifaze Dalgıç Kontrol Rölesi (51-30A.5kW'a kadar Direkt Çalışma) (150-270 V AC)",
+"list": 5880.0,
+"cur": "TL",
+"cat": "Dalgıç Kontrol Röleleri"
+},
+{
+"code": "TDK-96",
+"name": "Trifaze Dalgıç Kontrol Rölesi (Nötrsüz)(1-250A) 96X96mm",
+"list": 8500.0,
+"cur": "TL",
+"cat": "Dalgıç Kontrol Röleleri"
+},
+{
+"code": "MDK-24",
+"name": "Monofaze Dalgıç Kontrol Rölesi 2-40A DIN Kutu",
+"list": 3300.0,
+"cur": "TL",
+"cat": "Dalgıç Kontrol Röleleri"
+},
+{
+"code": "TDK-24",
+"name": "Ray Tipi Trifaze Dalgıç Kontrol Rölesi 2-40A",
+"list": 4200.0,
+"cur": "TL",
+"cat": "Dalgıç Kontrol Röleleri"
+},
+{
+"code": "TDK-24YU",
+"name": "Ray Tipi Trifaze Dalgıç Kontrol Rölesi (Yıldız-Üçgen Çıkışlı) 5-250A",
+"list": 4400.0,
+"cur": "TL",
+"cat": "Dalgıç Kontrol Röleleri"
+},
+{
+"code": "MTR-96D",
+"name": "Direkt Motor Kontrol Rölesi 300A",
+"list": 9500.0,
+"cur": "TL",
+"cat": "Motor Kontrol Röleleri"
+},
+{
+"code": "MTR-96DH",
+"name": "Haberleşmeli Direkt Motor Kontrol Rölesi 300A",
+"list": 9600.0,
+"cur": "TL",
+"cat": "Motor Kontrol Röleleri"
+},
+{
+"code": "MTR-96X5",
+"name": "Motor Kontrol Rölesi X5",
+"list": 9200.0,
+"cur": "TL",
+"cat": "Motor Kontrol Röleleri"
+},
+{
+"code": "MTR-96X5H",
+"name": "Haberleşmeli Motor Kontrol Rölesi X5",
+"list": 9300.0,
+"cur": "TL",
+"cat": "Motor Kontrol Röleleri"
+},
+{
+"code": "GK-03",
+"name": "Trifaze Aşırı Gerilim Kontrol Rölesi Klasik DIN Kutu",
+"list": 1650.0,
+"cur": "TL",
+"cat": "Gerilim Kontrol Röleleri"
+},
+{
+"code": "GK-04",
+"name": "Trifaze Aşırı Gerilim Kontrol Rölesi Klasik DIN Kutu",
+"list": 1750.0,
+"cur": "TL",
+"cat": "Gerilim Kontrol Röleleri"
+},
+{
+"code": "GK-04S",
+"name": "Trifaze Aşırı -Düşük Gerilim Kontrol Rölesi Klasik DIN Kutu",
+"list": 1800.0,
+"cur": "TL",
+"cat": "Gerilim Kontrol Röleleri"
+},
+{
+"code": "GKM-11",
+"name": "Monofaze Aşırı-Düşük Gerilim Kontrol Rölesi DIN Kutu",
+"list": 1625.0,
+"cur": "TL",
+"cat": "Gerilim Kontrol Röleleri"
+},
+{
+"code": "GKV-12",
+"name": "Trifaze Aşırı -Düşük Gerilim Kontrol Rölesi DIN III Kutu",
+"list": 1625.0,
+"cur": "TL",
+"cat": "Gerilim Kontrol Röleleri"
+},
+{
+"code": "GKM-02",
+"name": "Trifaze Aşırı -Düşük Gerilim Kontrol Rölesi DIN Kutu",
+"list": 1730.0,
+"cur": "TL",
+"cat": "Gerilim Kontrol Röleleri"
+},
+{
+"code": "GKM-02F",
+"name": "Trifaze Aşırı -Düşük Gerilim Kontrol Rölesi DIN Kutu",
+"list": 1785.0,
+"cur": "TL",
+"cat": "Gerilim Kontrol Röleleri"
+},
+{
+"code": "GKT-03F",
+"name": "Trifaze Aşırı -Düşük Gerilim Kontrol Rölesi DIN Kutu",
+"list": 1785.0,
+"cur": "TL",
+"cat": "Gerilim Kontrol Röleleri"
+},
+{
+"code": "DGK-01",
+"name": "Monofaze Dijital Aşırı-Düşük Gerilim Kontrol Rölesi Klasik DIN Kutu",
+"list": 2050.0,
+"cur": "TL",
+"cat": "Gerilim Kontrol Röleleri"
+},
+{
+"code": "DGK-04",
+"name": "Trifaze Dijital Aşırı -Düşük Gerilim Kontrol Rölesi Klasik DIN Kutu",
+"list": 2370.0,
+"cur": "TL",
+"cat": "Gerilim Kontrol Röleleri"
+},
+{
+"code": "DGK-04F",
+"name": "Trifaze Dijital Aşırı -Düşük Faz Sıralı,Gerilim Kontrol Rölesi Klasik DIN Kutu",
+"list": 2400.0,
+"cur": "TL",
+"cat": "Gerilim Kontrol Röleleri"
+},
+{
+"code": "DGK-04PF",
+"name": "Trifaze Dijital Aşırı -Düşük Faz Sıralı,PTC Korumalı Gerilim Kontrol Rölesi Klasik DIN Kutu",
+"list": 2730.0,
+"cur": "TL",
+"cat": "Gerilim Kontrol Röleleri"
+},
+{
+"code": "FKD-01F",
+"name": "Dijital Faz Koruma Rölesi (Nötrsüz)",
+"list": 1990.0,
+"cur": "TL",
+"cat": "Dijital Faz (motor) Koruma Röleleri"
+},
+{
+"code": "DFK-05F",
+"name": "Dijital Faz Koruma Rölesi (Nötrsüz)",
+"list": 2400.0,
+"cur": "TL",
+"cat": "Dijital Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FKV-03DF",
+"name": "V-Otomat Tip Dijital Faz Koruma Rölesi",
+"list": 2100.0,
+"cur": "TL",
+"cat": "Dijital Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FKV-03HF",
+"name": "V-Otomat Tip Setli Dijital Faz Koruma Rölesi",
+"list": 2200.0,
+"cur": "TL",
+"cat": "Dijital Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FK-01",
+"name": "Faz (Motor) Koruma Rölesi,Sabit %30 Asimetri,Klasik DIN Kutu",
+"list": 970.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FK-02",
+"name": "Faz (Motor) Koruma Rölesi,Sabit %40 Asimetri,Klasik DIN Kutu",
+"list": 970.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FK-04",
+"name": "Faz (Motor) Koruma Rölesi,Faz Sırası,Sabit %30 Asimetri,Klasik DIN Kutu",
+"list": 1040.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FK-05F",
+"name": "Faz Koruma Rölesi Nötrsüz,Faz Sırası, Ayarlı %5-25 Asimetri,Klasik DIN Kutu",
+"list": 1630.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FKM-05F",
+"name": "Faz Koruma Rölesi,Faz Sırası, Ayarlı %5-25 Asimetri,DIN Kutu",
+"list": 1840.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FKT-06",
+"name": "Faz Koruma Rölesi,Nötrsüz, Ayarlı %5-25 Asimetri,DIN Kutu",
+"list": 2200.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FKT-06F",
+"name": "Faz Koruma Rölesi,Faz Sırası,Nötrsüz, Ayarlı %5-25 Asimetri,DIN Kutu",
+"list": 2600.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FKT-06PF",
+"name": "Faz Koruma Rölesi,Nötrsüz,Faz Sırası, Ayarlı %5-25 Asimetri,DIN Kutu",
+"list": 2900.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FKV-03F",
+"name": "V-Otomat Faz (Motor) Koruma Rölesi,Faz Sırası,Sabit %40 Asimetri",
+"list": 1420.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FK-14",
+"name": "Faz (Motor) Koruma Rölesi,Faz Sırası,Sabit %30 Asimetri,DIN Kutu",
+"list": 1160.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FK-14P",
+"name": "Faz (Motor) Koruma Rölesi PTC Korumalı,Faz Sırası,Sabit %30 Asimetri,DIN Kutu",
+"list": 1260.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FKV-11",
+"name": "V-otomat Faz (Motor) Koruma Rölesi,Sabit %30 Asimetri",
+"list": 950.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FKV-14P",
+"name": "V-otomat Faz (Motor) Koruma Rölesi,Faz Sırası, PTC Koruması,Sabit %40 Asimetri",
+"list": 1370.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FKV-03N",
+"name": "V-Otomat Faz (Motor) Koruma Rölesi Nötrsüz,Faz Sırası,Sabit %40 Asimetri",
+"list": 1730.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "FKV-24F",
+"name": "V-otomat Faz (Motor) Koruma Rölesi,Nötrsüz,Faz Sırası,Sabit %40 Asimetri",
+"list": 1730.0,
+"cur": "TL",
+"cat": "Faz (motor) Koruma Röleleri"
+},
+{
+"code": "DT-36 EM",
+"name": "Opsiyonel Sıcaklık Kontrol Cihazı,J,K,R,S,PT100,PID,ON-OFF,SSR ve Kontak Çıkış,36x72mm",
+"list": 2940.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-48 EM",
+"name": "Opsiyonel Sıcaklık Kontrol Cihazı,J,K,R,S,PT100,PID,ON-OFF,SSR ve Kontak Çıkış,48x48mm",
+"list": 2940.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-72 EM",
+"name": "Opsiyonel Sıcaklık Kontrol Cihazı,J,K,R,S,PT100,PID,ON-OFF,SSR ve Kontak Çıkış,72x72mm",
+"list": 3100.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-96 EM",
+"name": "Opsiyonel Sıcaklık Kontrol Cihazı,J,K,R,S,PT100,PID,ON-OFF,SSR ve Kontak Çıkış,96x96mm",
+"list": 3400.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-36Y",
+"name": "Opsiyonel Sıcaklık Kontrol Cihazı,J,K,R,S,PT100,PID,ON-OFF,SSR ve Kontak Çıkış,36x72mm",
+"list": 3500.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-48Y",
+"name": "Opsiyonel Sıcaklık Kontrol Cihazı,J,K,R,S,PT100,PID,ON-OFF,Alarm ve Kontak Çıkış,48x48mm",
+"list": 3730.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-72Y",
+"name": "Opsiyonel Sıcaklık Kontrol Cihazı,J,K,R,S,PT100,PID,ON-OFF,Alarm ve Kontak Çıkış,72x72mm",
+"list": 3990.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-96Y",
+"name": "Opsiyonel Sıcaklık Kontrol Cihazı,J,K,R,S,PT100,PID,ON-OFF,Alarm ve Kontak Çıkış,96x96mm",
+"list": 4150.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-D",
+"name": "Opsiyonel Sıcaklık Kontrol Cihazı,J,K,R,S,PT100,PID,ON-OFF,Alarm ve Kontak Çıkış,96x48mm",
+"list": 4850.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-Y",
+"name": "Opsiyonel Sıcaklık Kontrol Cihazı,J,K,R,S,PT100,PID,ON-OFF,Alarm ve Kontak Çıkış,48x96mm",
+"list": 4850.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DTZ-48",
+"name": "Dahili Zaman Röleli,J,K,R,S,PT100,PID,ON-OFF,Alarm ve Kontak Çıkış,48x48mm",
+"list": 4675.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DTZ-72",
+"name": "Dahili Zaman Röleli,J,K,R,S,PT100,PID,ON-OFF,Alarm ve Kontak Çıkış,72x72mm",
+"list": 4675.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DTZ-96",
+"name": "Dahili Zaman Röleli,J,K,R,S,PT100,PID,ON-OFF,Alarm ve Kontak Çıkış,96x96mm",
+"list": 4775.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DTA-72",
+"name": "Dahili Zaman Röleli Sıcaklık Kontrol Cihazı (Auto-Tune PID) 72x72mm",
+"list": 5700.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DTA-96",
+"name": "Dahili Zaman Röleli Sıcaklık Kontrol Cihazı (Auto-Tune PID) 96x96mm",
+"list": 5880.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-48E",
+"name": "Ekonomik Tip Sıcaklık Kontrol Cihazı,J Tipi,ON-OFF 48X48mm",
+"list": 2675.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-72E",
+"name": "Ekonomik Tip Sıcaklık Kontrol Cihazı,J Tipi,ON-OFF 72X72mm",
+"list": 2990.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-96E",
+"name": "Ekonomik Tip Sıcaklık Kontrol Cihazı,J Tipi,ON-OFF 96X96mm",
+"list": 3200.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-DF1",
+"name": "Dijital Sıcaklık ve Defrost Kontrol Cihazı (1 Ölçüm Probu Fiyata Dahildir.) 28x70mm",
+"list": 2310.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-DF2",
+"name": "Dijital Sıcaklık ve Defrost Kontrol Cihazı (2 Ölçüm Probu Fiyata Dahildir.) 28x70mm",
+"list": 2480.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-321",
+"name": "Sıcaklık Kontrol Cihazı (-30 ile+150 °C) (NTC Ölçüm Probu Fiyata Dahildir.)",
+"list": 2400.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-322",
+"name": "Sıcaklık Kontrol Cihazı (-30 ile+150 °C) (NTC Ölçüm Probu Fiyata Dahildir.)",
+"list": 2400.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-321DIN",
+"name": "Sıcaklık Kontrol Cihazı (-30 ile+150 °C) (NTC Ölçüm Probu Fiyata Dahildir.)",
+"list": 2400.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "AD-96",
+"name": "Analog Ayarlı, Dijital Göstergeli Sıcaklık Kontrol Cihazı",
+"list": 3300.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "HT-310",
+"name": "Dijital Sıcaklık ve Nem Kontrol Cihazı (NT-310 Ölçüm Probu Fiyata Dahildir.)",
+"list": 4260.0,
+"cur": "TL",
+"cat": "Sıcaklık Kontrol Cihazları (dijital Termostatlar)"
+},
+{
+"code": "DT-DFM",
+"name": "Soğuk Hva Deposu Kontrol Modülü",
+"list": 8450.0,
+"cur": "TL",
+"cat": "Endüstriyel Soğutma Modülü"
+},
+{
+"code": "TPP-16",
+"name": "Raya Montaj Pano Priz (1x16A)",
+"list": 265.0,
+"cur": "TL",
+"cat": "Pano İçi Priz"
+},
+{
+"code": "NT-310",
+"name": "Nem ve Sıcaklık Sensörü",
+"list": 1730.0,
+"cur": "TL",
+"cat": "Termokupllar"
+},
+{
+"code": "NTC-105",
+"name": "NTC Sıcaklık Sensörü (105°C)",
+"list": 390.0,
+"cur": "TL",
+"cat": "Termokupllar"
+},
+{
+"code": "NTC-150",
+"name": "NTC Sıcaklık Sensörü (150°C)",
+"list": 695.0,
+"cur": "TL",
+"cat": "Termokupllar"
+},
+{
+"code": "NTC-S-150",
+"name": "NTC Sıvı Contalı Sıcaklık Sensörü (150°C)",
+"list": 965.0,
+"cur": "TL",
+"cat": "Termokupllar"
+},
+{
+"code": "TK-1",
+"name": "1 mt. J Tipi Fe-const Termokupl (Metrik 6/8)",
+"list": 11.0,
+"cur": "USD",
+"cat": "Termokupllar"
+},
+{
+"code": "TK-1,5",
+"name": "1,5 mt. J Tipi Fe-const Termokupl (Metrik 6/8)",
+"list": 12.0,
+"cur": "USD",
+"cat": "Termokupllar"
+},
+{
+"code": "TK-2",
+"name": "2 mt. J Tipi Fe-const Termokupl (Metrik 6/8)",
+"list": 14.0,
+"cur": "USD",
+"cat": "Termokupllar"
+},
+{
+"code": "TK-2,5",
+"name": "2,5 mt. J Tipi Fe-const Termokupl (Metrik 6/8)",
+"list": 16.0,
+"cur": "USD",
+"cat": "Termokupllar"
+},
+{
+"code": "TK-3",
+"name": "3 mt. J Tipi Fe-const Termokupl (Metrik 6/8)",
+"list": 17.0,
+"cur": "USD",
+"cat": "Termokupllar"
+},
+{
+"code": "TK-4",
+"name": "4 mt. J Tipi Fe-const Termokupl (Metrik 6/8)",
+"list": 21.0,
+"cur": "USD",
+"cat": "Termokupllar"
+},
+{
+"code": "TK-5",
+"name": "5 mt. J Tipi Fe-const Termokupl (Metrik 6/8)",
+"list": 25.0,
+"cur": "USD",
+"cat": "Termokupllar"
+},
+{
+"code": "PT-1",
+"name": "1 mt. PT-100 Termokupl (Metrik 6/8)",
+"list": 29.0,
+"cur": "USD",
+"cat": "Termokupllar"
+},
+{
+"code": "PT-2",
+"name": "2 mt. PT-100 Termokupl (Metrik 6/8)",
+"list": 33.0,
+"cur": "USD",
+"cat": "Termokupllar"
+},
+{
+"code": "PT-3",
+"name": "3 mt. PT-100 Termokupl (Metrik 6/8)",
+"list": 38.0,
+"cur": "USD",
+"cat": "Termokupllar"
+},
+{
+"code": "DS-25P",
+"name": "PNP Sensör Girişli Sayıcı 7 Dijit Display 26x50mm 24V -220VAC/DC",
+"list": 1370.0,
+"cur": "TL",
+"cat": "Sayıcılar"
+},
+{
+"code": "DS-25N",
+"name": "NPN Sensör Girişli Sayıcı 7 Dijit Display 26x50mm 24V -220VAC/DC",
+"list": 1370.0,
+"cur": "TL",
+"cat": "Sayıcılar"
+},
+{
+"code": "DS-72A",
+"name": "72x72 ebatlarında, Çift SET’li, çift çıkışlı, CP1, CP2, RESET girişli, kuru kontak, proximity ve encoder girişli ( NPN/PNP/Totem Pole ), Çift göstergeli, 6 hane, çarpan değeri girilebilen, rezervli, SSRçıkışlı, ileri-geri sayıcı",
+"list": 5060.0,
+"cur": "TL",
+"cat": "Sayıcılar"
+},
+{
+"code": "DS-72",
+"name": "72x72 ebatlarında, Çift SET’li, çift çıkışlı, CP1, CP2, RESET girişli, kuru kontak, proximity ve encoder girişli ( NPN/PNP/Totem Pole ), Çift göstergeli, 4 hane, çarpan değeri girilebilen, rezervli, SSR çıkışlı, ileri-geri sayıcı",
+"list": 4690.0,
+"cur": "TL",
+"cat": "Sayıcılar"
+},
+{
+"code": "DS-48",
+"name": "48x48 ebatlarında, Çift SET’li, çift çıkışlı, CP1, CP2, RESET girişli, kuru kontak, proximity ve encoder girişli ( NPN/PNP/Totem Pole ), Çift göstergeli, 4 hane, çarpan değeri girilebilen, rezervli, SSR çıkışlı, ileri-geri sayıcı",
+"list": 4300.0,
+"cur": "TL",
+"cat": "Sayıcılar"
+},
+{
+"code": "1SS-25-1",
+"name": "MonoFaze 25A SSR",
+"list": 19.0,
+"cur": "USD",
+"cat": "Solıd State Röleler (ssr'ler)"
+},
+{
+"code": "1SS-40-1",
+"name": "MonoFaze 40A SSR",
+"list": 20.0,
+"cur": "USD",
+"cat": "Solıd State Röleler (ssr'ler)"
+},
+{
+"code": "1SS-50-1",
+"name": "MonoFaze 50A SSR",
+"list": 21.0,
+"cur": "USD",
+"cat": "Solıd State Röleler (ssr'ler)"
+},
+{
+"code": "1SS-75-1",
+"name": "MonoFaze 75A SSR",
+"list": 41.0,
+"cur": "USD",
+"cat": "Solıd State Röleler (ssr'ler)"
+},
+{
+"code": "1SS-120-1",
+"name": "MonoFaze 120 SSR",
+"list": 53.0,
+"cur": "USD",
+"cat": "Solıd State Röleler (ssr'ler)"
+},
+{
+"code": "3SS-25-1",
+"name": "Trifaze 25A SSR",
+"list": 51.0,
+"cur": "USD",
+"cat": "Solıd State Röleler (ssr'ler)"
+},
+{
+"code": "3SS-40-1",
+"name": "Trifaze 40A SSR",
+"list": 66.0,
+"cur": "USD",
+"cat": "Solıd State Röleler (ssr'ler)"
+},
+{
+"code": "3SS-75-1",
+"name": "Trifaze 75A SSR",
+"list": 86.0,
+"cur": "USD",
+"cat": "Solıd State Röleler (ssr'ler)"
+},
+{
+"code": "ISS-M-25A",
+"name": "25A'lik SSR için Ray Montajlı Monofaze Soğutucu",
+"list": 22.0,
+"cur": "USD",
+"cat": "Ray Montajlı Soğutucular"
+},
+{
+"code": "ISS-M-40A",
+"name": "40A'lik SSR için Ray Montajlı Monofaze Soğutucu",
+"list": 24.0,
+"cur": "USD",
+"cat": "Ray Montajlı Soğutucular"
+},
+{
+"code": "ISS-M-75A",
+"name": "75A'lik SSR için Ray Montajlı Monofaze Soğutucu",
+"list": 26.0,
+"cur": "USD",
+"cat": "Ray Montajlı Soğutucular"
+},
+{
+"code": "ISS-T-25A",
+"name": "25A'lik SSR için Ray Montajlı Trifaze Soğutucu",
+"list": 33.0,
+"cur": "USD",
+"cat": "Ray Montajlı Soğutucular"
+},
+{
+"code": "IG3PA-4825D",
+"name": "MONOFAZE",
+"list": 37.0,
+"cur": "USD",
+"cat": "Ray Montajlı Soğutuculu Ssr"
+},
+{
+"code": "IG3PA-4840D",
+"name": "MONOFAZE",
+"list": 42.0,
+"cur": "USD",
+"cat": "Ray Montajlı Soğutuculu Ssr"
+},
+{
+"code": "3uf",
+"name": "3 mF Daimi Devre Kondansatörü",
+"list": 2.09,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "4uf",
+"name": "4 mF Daimi Devre Kondansatörü",
+"list": 2.22,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "5uf",
+"name": "5 mF Daimi Devre Kondansatörü",
+"list": 2.34,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "6uf",
+"name": "6 mF Daimi Devre Kondansatörü",
+"list": 2.52,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "7uf",
+"name": "7 mF Daimi Devre Kondansatörü",
+"list": 2.64,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "8uf",
+"name": "8 mF Daimi Devre Kondansatörü",
+"list": 2.76,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "10uf",
+"name": "10 mF Daimi Devre Kondansatörü",
+"list": 2.88,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "12uf",
+"name": "12 mF Daimi Devre Kondansatörü",
+"list": 3.0,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "12,5uf",
+"name": "12,5 mF Daimi Devre Kondansatörü",
+"list": 3.12,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "15uf",
+"name": "15 mF Daimi Devre Kondansatörü",
+"list": 3.42,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "20uf",
+"name": "20 mF Daimi Devre Kondansatörü",
+"list": 4.08,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "25uf",
+"name": "25 mF Daimi Devre Kondansatörü",
+"list": 4.8,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "30uf",
+"name": "30 mF Daimi Devre Kondansatörü",
+"list": 5.4,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "35uf",
+"name": "35 mF Daimi Devre Kondansatörü",
+"list": 6.72,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "40uf",
+"name": "40 mF Daimi Devre Kondansatörü",
+"list": 7.02,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "45uf",
+"name": "45 mF Daimi Devre Kondansatörü",
+"list": 7.44,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "50uf",
+"name": "50 mF Daimi Devre Kondansatörü",
+"list": 8.22,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "60uf",
+"name": "60 mF Daimi Devre Kondansatörü",
+"list": 9.96,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "80uf",
+"name": "80 mF Daimi Devre Kondansatörü",
+"list": 12.24,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "100uf",
+"name": "100 mF Daimi Devre Kondansatörü",
+"list": 13.8,
+"cur": "USD",
+"cat": "Daimi Devre Kondansatörleri"
+},
+{
+"code": "124-149 uf",
+"name": "124-149 mF İlk Hareket Kondansatörü",
+"list": 6.72,
+"cur": "USD",
+"cat": "İlk Hareket Kondansatörleri"
+},
+{
+"code": "130-156 uf",
+"name": "130-156 mF İlk Hareket Kondansatörü",
+"list": 6.84,
+"cur": "USD",
+"cat": "İlk Hareket Kondansatörleri"
+},
+{
+"code": "145-175 uf",
+"name": "145-175 mF İlk Hareket Kondansatörü",
+"list": 6.96,
+"cur": "USD",
+"cat": "İlk Hareket Kondansatörleri"
+},
+{
+"code": "161-193 uf",
+"name": "161-193 mF İlk Hareket Kondansatörü",
+"list": 7.08,
+"cur": "USD",
+"cat": "İlk Hareket Kondansatörleri"
+},
+{
+"code": "189-227 uf",
+"name": "189-227 mF İlk Hareket Kondansatörü",
+"list": 7.2,
+"cur": "USD",
+"cat": "İlk Hareket Kondansatörleri"
+},
+{
+"code": "216-259 uf",
+"name": "216-259 mF İlk Hareket Kondansatörü",
+"list": 7.32,
+"cur": "USD",
+"cat": "İlk Hareket Kondansatörleri"
+},
+{
+"code": "233-280 uf",
+"name": "233-280 mF İlk Hareket Kondansatörü",
+"list": 8.16,
+"cur": "USD",
+"cat": "İlk Hareket Kondansatörleri"
+},
+{
+"code": "280-333 uf",
+"name": "280-333 mF İlk Hareket Kondansatörü",
+"list": 8.76,
+"cur": "USD",
+"cat": "İlk Hareket Kondansatörleri"
+},
+{
+"code": "TNS-0,5",
+"name": "0,5 kVAr Monofaze /230V Şönt Reaktörü",
+"list": 92.0,
+"cur": "USD",
+"cat": "Monofaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-0,5/400V",
+"name": "0,5 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 170.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-1/400V",
+"name": "1 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 198.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-1,5/400V",
+"name": "1,5 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 215.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-2,5/400V",
+"name": "2,5 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 298.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-3/400V",
+"name": "3 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 460.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-5/400V",
+"name": "5 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 517.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-7,5/400V",
+"name": "7,5 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 638.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-10/400V",
+"name": "10 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 810.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-15/400V",
+"name": "15 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 1061.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-20/400V",
+"name": "20 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 1485.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-25/400V",
+"name": "25 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 1650.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-30/400V",
+"name": "30 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 1980.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-40/400V",
+"name": "40 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 2530.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "TNS-50/400V",
+"name": "50 kVAr Trifaze /400V Şönt Reaktörü",
+"list": 2860.0,
+"cur": "USD",
+"cat": "Trifaze Şönt Reaktörleri (endüktif Yük Reaktörleri)"
+},
+{
+"code": "HRM-0,40-07",
+"name": "0,40 kVAr Monofaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 45.0,
+"cur": "USD",
+"cat": "Monofaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRM-0,55-07",
+"name": "0,55 kVAr Monofaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 49.0,
+"cur": "USD",
+"cat": "Monofaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRM-0,83-07",
+"name": "0,83 kVAr Monofaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 52.0,
+"cur": "USD",
+"cat": "Monofaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRM-1-07",
+"name": "1 kVAr Monofaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 56.0,
+"cur": "USD",
+"cat": "Monofaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRM-1,50-07",
+"name": "1,50 kVAr Monofaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 60.0,
+"cur": "USD",
+"cat": "Monofaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRM-2-07",
+"name": "2 kVAr Monofaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 63.0,
+"cur": "USD",
+"cat": "Monofaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRM-2,50-07",
+"name": "2,50 kVAr Monofaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 70.0,
+"cur": "USD",
+"cat": "Monofaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRM-3-07",
+"name": "3 kVAr Monofaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 84.0,
+"cur": "USD",
+"cat": "Monofaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRM-4-07",
+"name": "4 kVAr Monofaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 118.0,
+"cur": "USD",
+"cat": "Monofaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRM-5-07",
+"name": "5 kVAr Monofaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 128.0,
+"cur": "USD",
+"cat": "Monofaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRM-7,50-07",
+"name": "7,50 kVAr Monofaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 168.0,
+"cur": "USD",
+"cat": "Monofaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRM-10-07",
+"name": "10 kVAr Monofaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 210.0,
+"cur": "USD",
+"cat": "Monofaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-0,50-07",
+"name": "0,50 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 91.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-1-07",
+"name": "1 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 97.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-1,50-07",
+"name": "1,50 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 113.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-2,50-07",
+"name": "2,50 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 119.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-5-07",
+"name": "5 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 154.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-6,25-07",
+"name": "6,25 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 162.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-7,50-07",
+"name": "7,50 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 178.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-10-07",
+"name": "10 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 194.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-12,50-07",
+"name": "12,50 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 215.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-15-07",
+"name": "15 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 236.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-20-07",
+"name": "20 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 257.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-25-07",
+"name": "25 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 284.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-30-07",
+"name": "30 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 294.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-40-07",
+"name": "40 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 344.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-50-07",
+"name": "50 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 384.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-60-07",
+"name": "60 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 525.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-75-07",
+"name": "75 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 619.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-80-07",
+"name": "80 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 647.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "HRT-100-07",
+"name": "100 kVAr Trifaze Harmonik Filtre P:%7 189Hz THDU:%8",
+"list": 809.0,
+"cur": "USD",
+"cat": "Trifaze Harmonik Filtre Reaktörleri P:%7 Fr:189hz Thdu:%8"
+},
+{
+"code": "A72-05 D",
+"name": "5A Direkt Ampermetre,90 Derece,72x72mm",
+"list": 35.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A72-10 D",
+"name": "10A Direkt Ampermetre,90 Derece,72x72mm",
+"list": 35.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A72-15 D",
+"name": "15A Direkt Ampermetre,90 Derece,72x72mm",
+"list": 35.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A72-20 D",
+"name": "20A Direkt Ampermetre,90 Derece,72x72mm",
+"list": 35.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A72-25 D",
+"name": "25A Direkt Ampermetre,90 Derece,72x72mm",
+"list": 35.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A72-30 D",
+"name": "30A Direkt Ampermetre,90 Derece,72x72mm",
+"list": 35.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A72-40 D",
+"name": "40A Direkt Ampermetre,90 Derece,72x72mm",
+"list": 35.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A72-50 D",
+"name": "50A Direkt Ampermetre,90 Derece,72x72mm",
+"list": 35.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A72-60 D",
+"name": "60A Direkt Ampermetre,90 Derece,72x72mm",
+"list": 35.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A72-75 D",
+"name": "75A Direkt Ampermetre,90 Derece,72x72mm",
+"list": 36.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A72-100 D",
+"name": "100A Direkt Ampermetre,90 Derece,72x72mm",
+"list": 36.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A96-30 D",
+"name": "30A Direkt Ampermetre,90 Derece,96x96mm",
+"list": 38.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A96-50 D",
+"name": "50A Direkt Ampermetre,90 Derece,96x96mm",
+"list": 38.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A96-60 D",
+"name": "60A Direkt Ampermetre,90 Derece,96x96mm",
+"list": 38.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A96-75 D",
+"name": "75A Direkt Ampermetre,90 Derece,96x96mm",
+"list": 38.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "A96-100 D",
+"name": "100A Direkt Ampermetre,90 Derece,96x96mm",
+"list": 38.0,
+"cur": "USD",
+"cat": "Direkt Analog Ampermetreler"
+},
+{
+"code": "V96-1000",
+"name": "0-1000V Voltmetre,90 Derece,96x96mm",
+"list": 35.0,
+"cur": "USD",
+"cat": "Analog Voltmetreler"
+},
+{
+"code": "V96-500",
+"name": "0-500V Voltmetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Voltmetreler"
+},
+{
+"code": "V96-250",
+"name": "0-250V Voltmetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Voltmetreler"
+},
+{
+"code": "V72-500",
+"name": "0-500V Voltmetre,90 Derece,72x72mm",
+"list": 31.0,
+"cur": "USD",
+"cat": "Analog Voltmetreler"
+},
+{
+"code": "V72-250",
+"name": "0-250V Voltmetre,90 Derece,72x72mm",
+"list": 31.0,
+"cur": "USD",
+"cat": "Analog Voltmetreler"
+},
+{
+"code": "A72-100",
+"name": "100/5 Ampermetre,90 Derece,72x72mm",
+"list": 26.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A72-150",
+"name": "150/5 Ampermetre,90 Derece,72x72mm",
+"list": 26.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A72-200",
+"name": "200/5 Ampermetre,90 Derece,72x72mm",
+"list": 26.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A72-250",
+"name": "250/5 Ampermetre,90 Derece,72x72mm",
+"list": 26.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A72-300",
+"name": "300/5 Ampermetre,90 Derece,72x72mm",
+"list": 26.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A72-400",
+"name": "400/5 Ampermetre,90 Derece,72x72mm",
+"list": 26.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A72-600",
+"name": "600/5 Ampermetre,90 Derece,72x72mm",
+"list": 26.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A72-800",
+"name": "800/5 Ampermetre,90 Derece,72x72mm",
+"list": 26.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A72-1000",
+"name": "1000/5 Ampermetre,90 Derece,72x72mm",
+"list": 26.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A72-1200",
+"name": "1200/5 Ampermetre,90 Derece,72x72mm",
+"list": 26.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-50",
+"name": "50/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-100",
+"name": "100/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-150",
+"name": "150/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-200",
+"name": "200/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-250",
+"name": "250/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-300",
+"name": "300/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-400",
+"name": "400/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-600",
+"name": "600/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-800",
+"name": "800/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-1000",
+"name": "1000/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-1200",
+"name": "1200/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-1600",
+"name": "1600/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-2000",
+"name": "2000/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-2500",
+"name": "2500/5 Ampermetre,90 Derece,96x96mm",
+"list": 28.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-3000",
+"name": "3000/5 Ampermetre,90 Derece,96x96mm",
+"list": 31.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "A96-4000",
+"name": "4000/5 Ampermetre,90 Derece,96x96mm",
+"list": 31.0,
+"cur": "USD",
+"cat": "Analog Ampermetreler"
+},
+{
+"code": "kV72 XX-0,10",
+"name": "OG Analog Voltmetre (kV72 XX -100V)",
+"list": 42.0,
+"cur": "USD",
+"cat": "Kv Og Voltmetreler"
+},
+{
+"code": "kV72 XX-0,11",
+"name": "OG Analog Voltmetre (kV72 XX -110V)",
+"list": 42.0,
+"cur": "USD",
+"cat": "Kv Og Voltmetreler"
+},
+{
+"code": "kV72 XX-0,22",
+"name": "OG Analog Voltmetre (kV72 XX -220V)",
+"list": 42.0,
+"cur": "USD",
+"cat": "Kv Og Voltmetreler"
+},
+{
+"code": "kV96 XX-0,10",
+"name": "OG Analog Voltmetre (kV96 XX -100V)",
+"list": 46.0,
+"cur": "USD",
+"cat": "Kv Og Voltmetreler"
+},
+{
+"code": "kV96 XX-0,11",
+"name": "OG Analog Voltmetre (kV96 XX -110V)",
+"list": 46.0,
+"cur": "USD",
+"cat": "Kv Og Voltmetreler"
+},
+{
+"code": "kV96 XX-0,22",
+"name": "OG Analog Voltmetre (kV96 XX -220V)",
+"list": 46.0,
+"cur": "USD",
+"cat": "Kv Og Voltmetreler"
+},
+{
+"code": "V72DCO-XX",
+"name": "72x72mm /1…......750V DC(+,-)",
+"list": 180.0,
+"cur": "USD",
+"cat": "Dc Analog Ortadan Sıfırlı Voltmetre (+ -) Döner Bobinli"
+},
+{
+"code": "V96DCO-XX",
+"name": "96x96mm /1…......750V DC(+,-)",
+"list": 192.0,
+"cur": "USD",
+"cat": "Dc Analog Ortadan Sıfırlı Voltmetre (+ -) Döner Bobinli"
+},
+{
+"code": "F72-XX",
+"name": "72x72mm Döner Bobinli Analog Frekansmetre 45-55Hz/55-65Hz",
+"list": 95.0,
+"cur": "USD",
+"cat": "Analog Frekansmetre Döner Bobinli"
+},
+{
+"code": "F96-XX",
+"name": "96x96mm Döner Bobinli Analog Frekansmetre 45-55Hz/55-65Hz",
+"list": 105.0,
+"cur": "USD",
+"cat": "Analog Frekansmetre Döner Bobinli"
+},
+{
+"code": "FD-72-XX",
+"name": "72x72mm Dilli Frekansmetre 45-55Hz/55-65Hz",
+"list": 120.0,
+"cur": "USD",
+"cat": "Dilli Frekansmetre"
+},
+{
+"code": "FD-96-XX",
+"name": "96x96mm Dilli Frekansmetre 45-55Hz/55-65Hz",
+"list": 130.0,
+"cur": "USD",
+"cat": "Dilli Frekansmetre"
+},
+{
+"code": "ÇDF96-XX",
+"name": "96x96mm Çift Dilli Frekansmetre 45-55Hz/55-65Hz",
+"list": 300.0,
+"cur": "USD",
+"cat": "Çift Dilli Frekansmetre"
+},
+{
+"code": "V72DC-XX",
+"name": "1….....1000V DC",
+"list": 53.0,
+"cur": "USD",
+"cat": "Dc Analog Voltmetre"
+},
+{
+"code": "V96DC-XX",
+"name": "1….....1000V DC",
+"list": 57.0,
+"cur": "USD",
+"cat": "Dc Analog Voltmetre"
+},
+{
+"code": "A72DC-XX",
+"name": "1…....100A DC",
+"list": 49.0,
+"cur": "USD",
+"cat": "Dc Analog Direkt Ampermetre"
+},
+{
+"code": "A96DC-XX",
+"name": "1…....100A DC",
+"list": 53.0,
+"cur": "USD",
+"cat": "Dc Analog Direkt Ampermetre"
+},
+{
+"code": "A72DCA-XX",
+"name": "60mV Döner Bobinli Analog Ampermetre/ 1…...3000A DC 72x72mm",
+"list": 95.0,
+"cur": "USD",
+"cat": "Dc Analog Ampermetre (döner Bobinli 60mv Girişli)"
+},
+{
+"code": "A96DCA-XX",
+"name": "60mV Döner Bobinli Analog Ampermetre/ 1…...3000A DC 96x96mm",
+"list": 98.0,
+"cur": "USD",
+"cat": "Dc Analog Ampermetre (döner Bobinli 60mv Girişli)"
+},
+{
+"code": "A72DCD-XX",
+"name": "4-20mA Döner Bobinli Analog Ampermetre /1….....3000A DC 72x72mm",
+"list": 110.0,
+"cur": "USD",
+"cat": "Dc Analog Ampermetre (döner Bobinli 4-20ma Girişli)"
+},
+{
+"code": "A96DCD-XX",
+"name": "4-20mA Döner Bobinli Analog Ampermetre /1….....3000A DC 96x96mm",
+"list": 120.0,
+"cur": "USD",
+"cat": "Dc Analog Ampermetre (döner Bobinli 4-20ma Girişli)"
+},
+{
+"code": "V72DCB-XX",
+"name": "72x72mm Döner Bobinli DC Voltmetre /1…..750V DC",
+"list": 98.0,
+"cur": "USD",
+"cat": "Dc Analog Voltmetre (döner Bobinli)"
+},
+{
+"code": "V96DCB-XX",
+"name": "72x72mm Döner Bobinli DC Voltmetre /1…..750V DC",
+"list": 102.0,
+"cur": "USD",
+"cat": "Dc Analog Voltmetre (döner Bobinli)"
+},
+{
+"code": "A72DCAO-XX (+,-)",
+"name": "72x72mm 60mV Ortadan Sıfırlı Döner Bobinli Analog Ampermetre /1…....3000A DC (+,-)",
+"list": 170.0,
+"cur": "USD",
+"cat": "Dc Analog Ortadan Sıfırlı Ampermetre (+,-) Döner Bobinli 60mv Girişli"
+},
+{
+"code": "A96DCAO-XX (+,-)",
+"name": "96x96mm 60mV Ortadan Sıfırlı Döner Bobinli Analog Ampermetre /1…....3000A DC (+,-)",
+"list": 188.0,
+"cur": "USD",
+"cat": "Dc Analog Ortadan Sıfırlı Ampermetre (+,-) Döner Bobinli 60mv Girişli"
+}
+]
