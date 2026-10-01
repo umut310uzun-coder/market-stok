@@ -92,6 +92,16 @@ ok($('#sUrl') && $$('#sUsers .litem').length === 2, 'ayarlar ve kullanıcı list
 const nf = $('#nuForm'); nf.elements.namedItem('nu_name').value='Ayşe'; nf.elements.namedItem('nu_user').value='eleman2'; nf.elements.namedItem('nu_pass').value='123456';
 nf.dispatchEvent(new w.Event('submit', { cancelable: true })); await sleep(200);
 ok(w.__rpc.some(r => r[0] === 'create_user' && r[1].p_username === 'eleman2') && $$('#sUsers .litem').length === 3, 'ayarlardan yeni eleman açıldı');
+// fiyatsız ürün sepete eklenmemeli
+$('nav.bottom button[data-v=satis]').click(); await sleep(50);
+w.__db.products.push({id:77,barcode:'2000000009999',name:'Fiyatsız ürün',price:0,stock:3,min_stock:1,unit:'adet',active:true});
+const ci2 = $('.scanbox .code'); ci2.value='2000000009999'; ci2.dispatchEvent(new w.KeyboardEvent('keydown',{key:'Enter'})); await sleep(100);
+$('#lpCart').click(); await sleep(50);
+ok($$('.cline').length === 0 && $('#lastProd').textContent.includes('Fiyat yok'), 'fiyatsız ürün satılamıyor');
+$('#btnSet').click(); await sleep(150);
+ok($$('.rule').length === 1, 'marka kuralları görünüyor');
+$('#sRecalc').click(); await sleep(150);
+ok(w.__rpc.some(r => r[0]==='recalc_prices'), 'fiyatlar yeniden hesaplandı');
 ok(errors.length === 0 && !w.__err, 'tarayıcıda hata yok');
 console.log('\nARAYÜZ TESTLERİ GEÇTİ');
 process.exit(0);

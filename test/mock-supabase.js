@@ -8,7 +8,7 @@ const db = {
     {id:3,barcode:'2000000000015',name:'Kuruyemiş karışık',price:450,stock:0,min_stock:2,unit:'kg',active:true,is_own_barcode:true,image_url:null},
   ],
   supplier_codes:[{supplier_vkn:'1234567890',supplier_code:'SUT01',product_id:2,multiplier:12}],
-  invoices:[], sales:[], sale_items:[], app_settings:[], stock_movements:[],
+  brand_rules:[{brand:'Tense',discount:40,vat:20,markup:40}], invoices:[], sales:[], sale_items:[], app_settings:[], stock_movements:[],
 };
 window.__db=db; window.__rpc=[];
 let nid=100;
@@ -40,6 +40,7 @@ function q(table){
 const rpc=async(name,a)=>{ window.__rpc.push([name,a]);
   if(name==='make_sale'){ let t=0; const id=++nid; for(const i of a.p_items){const p=db.products.find(x=>x.id===i.product_id); p.stock-=i.qty; t+=p.price*i.qty; db.sale_items.push({sale_id:id,product_id:p.id,qty:i.qty,unit_price:p.price,line_total:p.price*i.qty});} db.sales.push({id,created_at:new Date().toISOString(),total:t,payment:a.p_payment,cancelled:false,user_id:'u1'}); return {data:{sale_id:id,total:t,negative:[]},error:null}; }
   if(name==='daily_report') return {data:{tarih:a.p_date,ciro:db.sales.reduce((s,x)=>s+x.total,0),satis_adedi:db.sales.length,nakit:0,kart:0,en_cok_satan:[],azalan:db.products.filter(p=>p.stock<=p.min_stock).map(p=>({urun:p.name,stok:p.stock,min_stok:p.min_stock,birim:p.unit}))},error:null};
+  if(name==='recalc_prices') return {data:5,error:null};
   if(name==='needs_setup') return {data:false,error:null};
   if(name==='create_user'){ db.profiles.push({id:'u'+(++nid),full_name:a.p_full_name,role:a.p_role,active:true}); return {data:'x',error:null}; }
   if(name==='import_products') return {data:{eklenen:a.p_rows.length,guncellenen:0},error:null};

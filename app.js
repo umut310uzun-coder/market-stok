@@ -431,7 +431,7 @@ VIEWS.satis = (v) => {
       <div class="pinfo">
         <div class="pname">${esc(p.name)}</div>
         <div class="muted small">${esc(p.barcode)}${p.brand ? ' · ' + esc(p.brand) : ''}</div>
-        <div class="price">${tl(p.price)}</div>
+        <div class="price">${Number(p.price) > 0 ? tl(p.price) : '<span class="neg">Fiyat yok</span>'}</div>
         <div>Stok: ${stockBadge(p)} ${p.active ? '' : '<span class="badge red">pasif</span>'}</div>
       </div>
       <div class="row">
@@ -449,6 +449,10 @@ VIEWS.satis = (v) => {
   }
 
   function addToCart(p, q) {
+    if (!(Number(p.price) > 0)) {
+      feedback(false);
+      return toast('Bu ürünün satış fiyatı girilmemiş. Yöneticiye haber verin.', 'err', 5000);
+    }
     const ex = S.cart.find((i) => i.id === p.id);
     if (ex) ex.qty = Math.round((ex.qty + q) * 1000) / 1000;
     else S.cart.unshift({ id: p.id, name: p.name, price: Number(p.price), unit: p.unit, qty: q });
@@ -545,6 +549,9 @@ async function openProductForm(p0 = {}, onSaved) {
         <button type="button" class="btn ghost small" id="fImgDel">Resmi kaldır</button>
       </div>
     </div>
+    ${p.list_price ? `<div class="infobox small">Üretici kodu: <b>${esc(p.product_code || '-')}</b> · Liste fiyatı: <b>${num(p.list_price)} ${esc(p.list_currency)}</b> (KDV hariç)<br>
+      <label class="switch small"><input type="checkbox" name="price_auto" ${p.price_auto !== false ? 'checked' : ''}> Satış fiyatını marka kuralından otomatik hesapla</label>
+      <span class="muted">Fiyatı elle değiştirirsen otomatik hesaplama bu ürün için kapanır.</span></div>` : ''}
     <label class="switch"><input type="checkbox" name="active" ${p.active ? 'checked' : ''}> Satışta (aktif)</label>
     <div class="row"><button class="btn primary big" type="submit">Kaydet</button>
       ${isNew ? '' : '<button type="button" class="btn red" id="fDel">Sil</button>'}</div>
@@ -615,6 +622,10 @@ async function openProductForm(p0 = {}, onSaved) {
         active: fe("active").checked,
         is_own_barcode: ownBarcode,
       };
+      if (fe('price_auto')) {
+        row.price_auto = fe('price_auto').checked;
+        if (row.price_auto && p.id && Number(p.price) !== price) row.price_auto = false; // elle değiştirildi
+      }
       if (!row.barcode || !row.name) throw new Error('Barkod ve ad zorunlu');
       let saved;
       if (isNew) {
@@ -649,7 +660,8 @@ VIEWS.urunler = async (v) => {
     <div class="chips">
       <button class="chip on" data-f="all">Tümü</button><button class="chip" data-f="low">Azalan</button>
       <button class="chip" data-f="out">Biten</button><button class="chip" data-f="own">Kendi barkodlu</button>
-      <button class="chip" data-f="passive">Pasif</button></div>
+      <button class="chip" data-f="passive">Pasif</button><button class="chip" data-f="noprice">Fiyatsız</button><button class="chip" data-f="instock">Stokta olan</button></div>
+    <select class="inp" id="pBrand"><option value="">Tüm markalar</option></select>
     <div class="row wrap">
       <label class="btn ghost small">📥 Excel/CSV yükle<input type="file" accept=".csv,text/csv" id="pCsv" hidden></label>
       <button class="btn ghost small" id="pExport">📤 Listeyi indir</button>
@@ -666,7 +678,11 @@ VIEWS.urunler = async (v) => {
       if (filter === 'out' && !(p.active && Number(p.stock) <= 0)) return false;
       if (filter === 'own' && !p.is_own_barcode) return false;
       if (filter === 'passive' && p.active) return false;
-      if (q && !(p.name.toLocaleLowerCase('tr').includes(q) || p.barcode.includes(q))) return false;
+      if (filter === 'noprice' && Number(p.price) > 0) return false;
+      if (filter === 'instock' && !(Number(p.stock) > 0)) return false;
+      const br = $('#pBrand').value;
+      if (br && p.brand !== br) return false;
+      if (q && !(p.name.toLocaleLowerCase('tr').includes(q) || p.barcode.includes(q) || (p.product_code || '').toLocaleLowerCase('tr').includes(q))) return false;
       return true;
     });
     shown = items;
@@ -679,6 +695,9 @@ VIEWS.urunler = async (v) => {
   draw();
   if (!all.length) $('#pInfo').innerHTML = 'Henüz ürün yok. <b>+ Yeni</b> ile tek tek, <b>Sayım</b> ekranından okutarak veya <b>Excel/CSV yükle</b> ile toplu ekleyin.';
 
+  const brands = [...new Set(S.products.map((p) => p.brand).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'tr'));
+  $('#pBrand').innerHTML += brands.map((b) => `<option>${esc(b)}</option>`).join('');
+  $('#pBrand').onchange = draw;
   $('#pSearch').oninput = draw;
   $$('.chip', v).forEach((c) => (c.onclick = () => { $$('.chip', v).forEach((x) => x.classList.remove('on')); c.classList.add('on'); filter = c.dataset.f; draw(); }));
   $('#pList').onclick = (e) => {
@@ -1075,11 +1094,43 @@ VIEWS.ayarlar = async (v) => {
           <label>Yetki<select class="inp" name="nu_role"><option value="staff">Eleman (satış + fiyat görme)</option><option value="admin">Yönetici (her şey)</option></select></label>
           <button class="btn primary" type="submit">Oluştur</button>
         </form></details></div>
+    <div class="card"><div class="card-h">Marka fiyat kuralları</div>
+      <p class="muted small">Satış fiyatı = Liste fiyatı × kur × (1 − iskonto) × (1 + KDV) × (1 + kâr). Kâr boşsa satış fiyatı hesaplanmaz, sadece maliyet yazılır.</p>
+      <div class="grid2"><label>1 USD = ? TL<input class="inp" id="sUsd" inputmode="decimal" value="${esc(sv.usd_rate || '')}"></label>
+        <label>1 EUR = ? TL<input class="inp" id="sEur" inputmode="decimal" value="${esc(sv.eur_rate || '')}"></label></div>
+      <div id="sRules"></div>
+      <div class="row wrap"><button class="btn ghost small" id="sRuleAdd">+ Marka ekle</button>
+        <button class="btn primary" id="sRecalc">Kaydet ve fiyatları yeniden hesapla</button></div></div>
     <div class="card"><div class="card-h">Bu cihaz</div>
       <label>Market adı<input class="inp" id="sName" value="${esc(S.cfg.name)}"></label>
       <div class="row"><button class="btn" id="sNameSave">Kaydet</button>
       ${S.cfg.fromFile ? '' : '<button class="btn ghost" id="sReset">Bağlantı ayarını sıfırla</button>'}</div>
       <div class="muted small">Sunucu: ${esc(S.cfg.url)}</div></div></div>`));
+
+  const { data: rules } = await S.sb.from('brand_rules').select('*').order('brand');
+  const rb = $('#sRules');
+  const ruleRow = (r = {}) => h(`<div class="rule grid4">
+      <label>Marka<input class="inp" data-k="brand" value="${esc(r.brand || '')}" ${r.brand ? 'readonly' : ''}></label>
+      <label>İskonto %<input class="inp" data-k="discount" inputmode="decimal" value="${r.discount != null ? num(r.discount) : ''}"></label>
+      <label>KDV %<input class="inp" data-k="vat" inputmode="decimal" value="${r.vat != null ? num(r.vat) : '20'}"></label>
+      <label>Kâr %<input class="inp" data-k="markup" inputmode="decimal" value="${r.markup != null ? num(r.markup) : ''}" placeholder="boş"></label></div>`);
+  (rules || []).forEach((r) => rb.append(ruleRow(r)));
+  $('#sRuleAdd').onclick = () => rb.append(ruleRow());
+  $('#sRecalc').onclick = (e) => busy(e.currentTarget, async () => {
+    const usd = toNum($('#sUsd').value), eur = toNum($('#sEur').value);
+    const { error: e1 } = await S.sb.from('app_settings').upsert([
+      { key: 'usd_rate', value: usd != null ? String(usd) : '' }, { key: 'eur_rate', value: eur != null ? String(eur) : '' }]);
+    if (e1) throw e1;
+    const list = $$('.rule', rb).map((el) => {
+      const g = (k) => $(`[data-k="${k}"]`, el).value.trim();
+      return { brand: g('brand'), discount: toNum(g('discount')) ?? 0, vat: toNum(g('vat')) ?? 20, markup: toNum(g('markup')), updated_at: new Date().toISOString() };
+    }).filter((r) => r.brand);
+    if (list.length) { const { error: e2 } = await S.sb.from('brand_rules').upsert(list); if (e2) throw e2; }
+    const { data: n, error: e3 } = await S.sb.rpc('recalc_prices', { p_brand: null });
+    if (e3) throw e3;
+    invalidateProducts();
+    toast(`${n} ürünün fiyatı yeniden hesaplandı ✓`, 'ok', 5000);
+  });
 
   $('#sSave').onclick = (e) => busy(e.currentTarget, async () => {
     const { error } = await S.sb.from('app_settings').upsert([
