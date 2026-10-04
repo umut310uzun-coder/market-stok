@@ -379,7 +379,8 @@ begin
     'azalan', coalesce((
       select jsonb_agg(t order by t.stok) from (
         select name as urun, stock as stok, min_stock as min_stok, unit as birim
-        from public.products where active and stock <= min_stock
+        from public.products p where active and stock <= min_stock
+          and exists (select 1 from public.stock_movements m where m.product_id = p.id)  -- katalogdan gelip hiç stoklanmamışları sayma
         order by stock limit 50) t), '[]'::jsonb)
   ) into v;
   return v;
