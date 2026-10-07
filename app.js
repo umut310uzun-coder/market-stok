@@ -888,8 +888,10 @@ async function invoiceCard(inv, fileName) {
     const { data } = await S.sb.from('supplier_codes').select('*').eq('supplier_vkn', header.supplier_vkn);
     supMap = new Map((data || []).map((r) => [r.supplier_code, r]));
   }
+  // Firmanın kalem anahtarı: ürün kodu, kod yoksa adı (ASENA fatura.mjs kalemAnahtari ile aynı).
+  const anahtar = (l) => l.supplier_code || (l.name ? 'AD:' + l.name.toLocaleUpperCase('tr-TR').replace(/\s+/g, ' ').trim().slice(0, 120) : '');
   const rows = lines.map((l) => {
-    const sm = l.supplier_code && supMap.get(l.supplier_code);
+    const sm = anahtar(l) && supMap.get(anahtar(l));
     let product = null, mult = 1;
     if (sm && byId.get(sm.product_id)) { product = byId.get(sm.product_id); mult = Number(sm.multiplier) || 1; }
     else if (l.barcode) product = barcodeVariants(l.barcode).map((b) => byBarcode.get(b)).find(Boolean) || null;
@@ -958,7 +960,7 @@ async function invoiceCard(inv, fileName) {
     }
     const { error } = await S.sb.rpc('apply_invoice', {
       p_header: { uuid: header.uuid || null, invoice_no: header.invoice_no, supplier_vkn: header.supplier_vkn, supplier_name: header.supplier_name, invoice_date: header.invoice_date || null, total: header.total },
-      p_lines: use.map((r) => ({ product_id: r.product.id, qty: r.l.qty, unit_cost: r.l.unit_cost, supplier_code: r.l.supplier_code || null, multiplier: r.mult || 1 })),
+      p_lines: use.map((r) => ({ product_id: r.product.id, qty: r.l.qty, unit_cost: r.l.unit_cost, supplier_code: anahtar(r.l) || null, multiplier: r.mult || 1 })),
     });
     if (error) throw error;
     invalidateProducts();
