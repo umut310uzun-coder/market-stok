@@ -821,8 +821,8 @@ VIEWS.fatura = (v) => {
   v.append(h(`<div>
     <div class="card">
       <b>E-fatura ile stok girişi</b>
-      <p class="muted small">Tedarikçiden gelen e-faturanın <b>XML</b> dosyasını (veya içinde XML olan <b>ZIP</b>'i) seçin. GİB e-Fatura portalı veya entegratörünüzün (Uyumsoft, Logo, Mysoft vb.) "gelen faturalar" bölümünden "XML indir / UBL indir" ile alınır. Birden fazla dosya seçebilirsiniz.</p>
-      <label class="btn primary big">📂 Fatura dosyası seç<input type="file" id="invFile" accept=".xml,.zip,text/xml,application/zip" multiple hidden></label>
+      <p class="muted small">Tedarikçiden gelen e-faturanın <b>PDF</b>'ini, <b>XML</b>'ini veya içinde XML olan <b>ZIP</b>'i seçin (Ticari Bulut, GİB portalı, Uyumsoft, Logo vb. "gelen faturalar"dan indirilir). Birden fazla dosya seçebilirsiniz. PDF'te rakamlar faturadaki toplamla karşılaştırılır; tutmazsa uyarı çıkar.</p>
+      <label class="btn primary big">📂 Fatura dosyası seç<input type="file" id="invFile" accept=".pdf,.xml,.zip,application/pdf,text/xml,application/zip" multiple hidden></label>
     </div>
     <div id="invList"></div></div>`));
   $('#invFile').onchange = async (e) => {
@@ -836,7 +836,10 @@ VIEWS.fatura = (v) => {
       await loadAllProducts(true);
       list.innerHTML = '';
       for (const x of xmls) {
-        try { list.append(await invoiceCard(parseUBL(x.xml), x.fileName)); }
+        try {
+          if (x.hata) throw new Error(x.hata);
+          list.append(await invoiceCard(x.pdf || parseUBL(x.xml), x.fileName));
+        }
         catch (err) { list.append(h(`<div class="card err">${esc(x.fileName)}: ${esc(errMsg(err))}</div>`)); }
       }
     } catch (err) { list.innerHTML = ''; toast(errMsg(err), 'err', 6000); }
@@ -845,6 +848,7 @@ VIEWS.fatura = (v) => {
 
 async function invoiceCard(inv, fileName) {
   const { header, lines } = inv;
+  const pdf = header.kaynak === 'pdf';
   const card = h(`<div class="card invoice">
     <div class="card-h"><b>${esc(header.supplier_name || 'Tedarikçi?')}</b><span class="sp"></span><span class="muted small">${esc(header.invoice_date)}</span></div>
     <div class="muted small">Fatura no: ${esc(header.invoice_no)} · VKN: ${esc(header.supplier_vkn || '-')} · Toplam: ${tl(header.total)} · ${esc(fileName)}</div>
@@ -859,6 +863,20 @@ async function invoiceCard(inv, fileName) {
       $('.iapply', card).remove();
       return card;
     }
+  } else if (header.invoice_no && header.supplier_vkn) {
+    // PDF'te ETTN okunamadıysa: aynı firma + aynı fatura no daha önce işlendi mi?
+    const { data } = await S.sb.from('invoices').select('id, created_at').eq('invoice_no', header.invoice_no).eq('supplier_vkn', header.supplier_vkn).limit(1);
+    if (data && data.length) {
+      card.append(h(`<div class="warnbox">Bu fatura ${new Date(data[0].created_at).toLocaleDateString('tr-TR')} tarihinde zaten stoğa işlenmiş.</div>`));
+      $('.iapply', card).remove();
+      return card;
+    }
+  }
+  if (pdf) {
+    const k = inv.kontrol || { dogru: false, uyarilar: [] };
+    card.insertBefore(h(k.dogru
+      ? `<div class="okbox small">📄 PDF'ten okundu · ${lines.length} kalem · toplam faturadaki tutarla tuttu (${tl(k.kalem_net_toplam)} + KDV)</div>`
+      : `<div class="warnbox small">📄 PDF'ten okundu ama <b>rakamları kontrol edin</b>:<br>${k.uyarilar.map(esc).join('<br>')}<br>Miktar ve maliyeti aşağıda düzeltebilirsiniz.</div>`), $('.ilines', card));
   }
   if (/IADE/i.test(header.type)) card.append(h('<div class="warnbox">Bu bir İADE faturası. Stoğa eklemek yerine sayım ekranından düşmeniz gerekebilir.</div>'));
 
@@ -893,6 +911,9 @@ async function invoiceCard(inv, fileName) {
       ${r.product ? `<div class="grid2">
         <label>1 ${esc(r.l.unit_name)} = kaç ${esc(r.product.unit)}?<input class="inp" data-k="mult" inputmode="decimal" value="${num(r.mult)}"></label>
         <label>Satış fiyatı${margin != null ? ` <span class="${margin < 0 ? 'neg' : 'muted'}">(kâr %${margin})</span>` : ''}<input class="inp" data-k="price" inputmode="decimal" value="${r.price != null ? num(r.price) : ''}"></label></div>
+        ${pdf ? `<div class="grid2">
+        <label>Faturadaki miktar (${esc(r.l.unit_name)})<input class="inp" data-k="qty" inputmode="decimal" value="${num(r.l.qty)}"></label>
+        <label>Birim maliyet (KDV dahil)<input class="inp" data-k="cost" inputmode="decimal" value="${num(r.l.unit_cost)}"></label></div>` : ''}
         <div class="small">→ Stoğa <b>+${num(addQty)} ${esc(r.product.unit)}</b>, birim maliyet ${tl(pieceCost)}</div>` : ''}`}
       <label class="switch small"><input type="checkbox" data-k="skip" ${r.skip ? 'checked' : ''}> Bu kalemi atla (stok dışı: nakliye, poşet vb.)</label></div>`);
     el.addEventListener('click', (e) => {
@@ -907,6 +928,8 @@ async function invoiceCard(inv, fileName) {
       if (k === 'skip') r.skip = e.target.checked;
       if (k === 'mult') r.mult = toNum(e.target.value) || 1;
       if (k === 'price') r.price = toNum(e.target.value);
+      if (k === 'qty' && toNum(e.target.value) > 0) r.l.qty = toNum(e.target.value);
+      if (k === 'cost' && toNum(e.target.value) >= 0) r.l.unit_cost = toNum(e.target.value);
       redraw();
     });
     return el;
@@ -924,7 +947,8 @@ async function invoiceCard(inv, fileName) {
   $('.iapply', card).onclick = (e) => busy(e.currentTarget, async () => {
     const use = rows.filter((r) => !r.skip);
     if (!use.length) throw new Error('Eklenecek kalem yok');
-    if (!confirm(`${use.length} kalem stoğa eklenecek. Onaylıyor musunuz?`)) return;
+    const uyar = pdf && !(inv.kontrol && inv.kontrol.dogru) ? '\n\nDİKKAT: PDF\'ten okunan toplam faturayla tutmadı. Miktar ve maliyetleri kontrol ettiniz mi?' : '';
+    if (!confirm(`${use.length} kalem stoğa eklenecek. Onaylıyor musunuz?${uyar}`)) return;
     // Değişen satış fiyatlarını güncelle
     for (const r of use) {
       if (r.price != null && r.price !== Number(r.product.price)) {
@@ -933,7 +957,7 @@ async function invoiceCard(inv, fileName) {
       }
     }
     const { error } = await S.sb.rpc('apply_invoice', {
-      p_header: { uuid: header.uuid, invoice_no: header.invoice_no, supplier_vkn: header.supplier_vkn, supplier_name: header.supplier_name, invoice_date: header.invoice_date || null, total: header.total },
+      p_header: { uuid: header.uuid || null, invoice_no: header.invoice_no, supplier_vkn: header.supplier_vkn, supplier_name: header.supplier_name, invoice_date: header.invoice_date || null, total: header.total },
       p_lines: use.map((r) => ({ product_id: r.product.id, qty: r.l.qty, unit_cost: r.l.unit_cost, supplier_code: r.l.supplier_code || null, multiplier: r.mult || 1 })),
     });
     if (error) throw error;

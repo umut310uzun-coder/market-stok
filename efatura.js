@@ -100,7 +100,22 @@ export function parseUBL(xmlText, DOMParserImpl = globalThis.DOMParser) {
   return { header, lines };
 }
 
-// Tarayıcıda: seçilen dosyalardan XML metinlerini çıkar (.zip içindekiler dahil)
+// PDF okumak için pdf.js'i ilk ihtiyaçta yükle.
+const PDFJS = 'https://cdn.jsdelivr.net/npm/pdfjs-dist@4.10.38/build/';
+let pdfjsYukle = null;
+async function pdfjsAl() {
+  if (!pdfjsYukle) {
+    pdfjsYukle = import(PDFJS + 'pdf.min.mjs').then((m) => {
+      m.GlobalWorkerOptions.workerSrc = PDFJS + 'pdf.worker.min.mjs';
+      return m;
+    });
+    pdfjsYukle.catch(() => { pdfjsYukle = null; });
+  }
+  return pdfjsYukle;
+}
+
+// Tarayıcıda: seçilen dosyalardan XML metinlerini çıkar (.zip içindekiler dahil).
+// PDF'ler okunup hazır { header, lines, kontrol } olarak döner (pdf alanında).
 export async function readInvoiceFiles(fileList) {
   const out = [];
   for (const file of fileList) {
@@ -115,8 +130,16 @@ export async function readInvoiceFiles(fileList) {
       }
     } else if (name.endsWith('.xml')) {
       out.push({ fileName: file.name, xml: await file.text() });
+    } else if (name.endsWith('.pdf')) {
+      try {
+        const [pdfjs, { pdfSayfalari, parsePdfInvoice }] = await Promise.all([pdfjsAl(), import('./efatura-pdf.js')]);
+        const sayfalar = await pdfSayfalari(pdfjs, new Uint8Array(await file.arrayBuffer()));
+        out.push({ fileName: file.name, pdf: parsePdfInvoice(sayfalar) });
+      } catch (err) {
+        out.push({ fileName: file.name, hata: `PDF okunamadı: ${err && err.message ? err.message : err}` });
+      }
     } else {
-      throw new Error(`${file.name}: sadece .xml veya .zip yükleyin (PDF okunamaz)`);
+      throw new Error(`${file.name}: .xml, .zip veya .pdf yükleyin`);
     }
   }
   return out;

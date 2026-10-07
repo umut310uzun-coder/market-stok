@@ -1,6 +1,6 @@
 // Basit önbellek: uygulama dosyaları hızlı açılsın. Veritabanı istekleri ASLA önbelleğe alınmaz.
-const CACHE = 'market-v3';
-const SHELL = ['./', 'index.html', 'style.css', 'app.js', 'efatura.js', 'config.js', 'manifest.json', 'icon-192.png'];
+const CACHE = 'market-v4';
+const SHELL = ['./', 'index.html', 'style.css', 'app.js', 'efatura.js', 'efatura-pdf.js', 'config.js', 'manifest.json', 'icon-192.png'];
 
 self.addEventListener('install', (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));
