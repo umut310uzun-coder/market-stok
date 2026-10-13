@@ -655,63 +655,122 @@ async function openProductForm(p0 = {}, onSaved) {
 //  ÜRÜNLER
 // =====================================================================
 VIEWS.urunler = async (v) => {
-  v.append(h(`<div>
-    <div class="row"><input class="inp" id="pSearch" placeholder="Ürün adı veya barkod ara" autocomplete="off"><button class="btn primary" id="pNew">+ Yeni</button></div>
+  v.append(h(`<div class="plist">
+    <div class="phead">
+      <div><div class="ptitle">Ürünler</div><div class="muted small" id="pInfo"></div></div>
+      <button class="btn primary" id="pNew">＋ Yeni ürün</button></div>
+    <div class="kpis" id="pKpi"></div>
+    <div class="ptools">
+      <div class="search"><span class="sico">⌕</span><input class="inp" id="pSearch" placeholder="Ad, ürün kodu veya barkod ara" autocomplete="off"><button type="button" class="sclr" id="pClr" aria-label="Temizle" hidden>✕</button></div>
+      <div class="pselects">
+        <select class="inp" id="pBrand"><option value="">Tüm markalar</option></select>
+        <select class="inp" id="pSort">
+          <option value="name">Ada göre (A→Z)</option><option value="price_d">Fiyat (yüksek→düşük)</option>
+          <option value="price_a">Fiyat (düşük→yüksek)</option><option value="stock_a">Stok (azdan çoğa)</option>
+          <option value="stock_d">Stok (çoktan aza)</option><option value="new">Son güncellenen</option></select></div></div>
     <div class="chips">
-      <button class="chip on" data-f="all">Tümü</button><button class="chip" data-f="low">Azalan</button>
-      <button class="chip" data-f="out">Biten</button><button class="chip" data-f="own">Kendi barkodlu</button>
-      <button class="chip" data-f="passive">Pasif</button><button class="chip" data-f="noprice">Fiyatsız</button><button class="chip" data-f="instock">Stokta olan</button></div>
-    <select class="inp" id="pBrand"><option value="">Tüm markalar</option></select>
-    <div class="row wrap">
+      <button class="chip on" data-f="all">Tümü <i></i></button><button class="chip" data-f="instock">Stokta <i></i></button>
+      <button class="chip" data-f="low">Azalan <i></i></button><button class="chip" data-f="out">Biten <i></i></button>
+      <button class="chip" data-f="noprice">Fiyatsız <i></i></button><button class="chip" data-f="own">Kendi barkodlu <i></i></button>
+      <button class="chip" data-f="passive">Pasif <i></i></button></div>
+    <div class="pactions">
       <label class="btn ghost small">📥 Excel/CSV yükle<input type="file" accept=".csv,text/csv" id="pCsv" hidden></label>
       <button class="btn ghost small" id="pExport">📤 Listeyi indir</button>
       <button class="btn ghost small" id="pLabels">🏷️ Etiket yazdır</button></div>
-    <div class="muted small" id="pInfo"></div>
-    <div id="pList" class="list"></div></div>`));
-  let filter = 'all', shown = [];
+    <div class="ptable">
+      <div class="pth"><span></span><span>Ürün</span><span>Marka</span><span class="r">Stok</span><span class="r">Satış fiyatı</span></div>
+      <div id="pList" class="list"></div></div>
+    <div class="center-row"><button class="btn" id="pMore" hidden>Daha fazla göster</button></div></div>`));
+  let filter = 'all', shown = [], limit = 60;
   const all = await loadAllProducts(true);
+
+  const F = {
+    all: () => true,
+    instock: (p) => Number(p.stock) > 0,
+    low: (p) => p.active && Number(p.stock) <= Number(p.min_stock) && Number(p.stock) > 0,
+    out: (p) => p.active && Number(p.stock) <= 0,
+    noprice: (p) => !(Number(p.price) > 0),
+    own: (p) => p.is_own_barcode,
+    passive: (p) => !p.active,
+  };
+  const SORT = {
+    name: (a, b) => a.name.localeCompare(b.name, 'tr'),
+    price_d: (a, b) => Number(b.price) - Number(a.price),
+    price_a: (a, b) => Number(a.price) - Number(b.price),
+    stock_a: (a, b) => Number(a.stock) - Number(b.stock),
+    stock_d: (a, b) => Number(b.stock) - Number(a.stock),
+    new: (a, b) => String(b.updated_at || '').localeCompare(String(a.updated_at || '')),
+  };
+
+  const kpis = () => {
+    const act = S.products.filter((p) => p.active);
+    const val = act.reduce((s, p) => s + Math.max(0, Number(p.stock)) * Number(p.cost || 0), 0);
+    const k = (f, label, n, cls = '') => `<button class="kpi ${cls}" data-k="${f}"><span>${label}</span><b>${n}</b></button>`;
+    $('#pKpi').innerHTML =
+      k('all', 'Toplam ürün', num(S.products.length)) +
+      k('instock', 'Stok değeri', tl(val)) +
+      k('low', 'Azalan', num(act.filter(F.low).length), 'warn') +
+      k('out', 'Biten', num(act.filter(F.out).length), 'bad');
+  };
+
+  // ad zaten ürün koduyla başlıyorsa kodu adda tekrar gösterme (kod ayrıca yazılıyor)
+  const cleanName = (p) => {
+    const c = (p.product_code || '').trim();
+    if (c && p.name.toLocaleUpperCase('tr').startsWith(c.toLocaleUpperCase('tr') + ' ')) return p.name.slice(c.length).trim();
+    return p.name;
+  };
+  const row = (p) => {
+    const noPrice = !(Number(p.price) > 0);
+    const meta = [p.product_code ? `<span class="code">${esc(p.product_code)}</span>` : '', `<span class="bc">${esc(p.barcode)}</span>`, p.category ? `<span class="cat">${esc(p.category)}</span>` : '']
+      .filter(Boolean).join('<span class="dot">·</span>');
+    return `<div class="litem prow${p.active ? '' : ' off'}" data-id="${p.id}">${thumb(p, 'thumb pth-img')}
+      <div class="lmain"><div class="pnm">${esc(cleanName(p))}</div>
+        <div class="pmeta">${p.brand ? `<span class="brand">${esc(p.brand)}</span>` : ''}${meta}${p.active ? '' : '<span class="tag">Pasif</span>'}</div></div>
+      <div class="pbrand">${esc(p.brand || '—')}</div>
+      <div class="pstock">${stockBadge(p)}</div>
+      <div class="pprice">${noPrice ? '<span class="noprice">Fiyat yok</span>' : `<b>${tl(p.price)}</b>`}${Number(p.cost) > 0 && !noPrice ? `<span class="muted small">Maliyet ${tl(p.cost)}</span>` : ''}</div></div>`;
+  };
 
   const draw = () => {
     const q = $('#pSearch').value.trim().toLocaleLowerCase('tr');
-    const items = S.products.filter((p) => {
-      if (filter === 'low' && !(p.active && Number(p.stock) <= Number(p.min_stock) && Number(p.stock) > 0)) return false;
-      if (filter === 'out' && !(p.active && Number(p.stock) <= 0)) return false;
-      if (filter === 'own' && !p.is_own_barcode) return false;
-      if (filter === 'passive' && p.active) return false;
-      if (filter === 'noprice' && Number(p.price) > 0) return false;
-      if (filter === 'instock' && !(Number(p.stock) > 0)) return false;
-      const br = $('#pBrand').value;
-      if (br && p.brand !== br) return false;
-      if (q && !(p.name.toLocaleLowerCase('tr').includes(q) || p.barcode.includes(q) || (p.product_code || '').toLocaleLowerCase('tr').includes(q))) return false;
-      return true;
-    });
+    $('#pClr').hidden = !q;
+    const br = $('#pBrand').value;
+    const base = S.products.filter((p) => (!br || p.brand === br) &&
+      (!q || p.name.toLocaleLowerCase('tr').includes(q) || p.barcode.includes(q) || (p.product_code || '').toLocaleLowerCase('tr').includes(q)));
+    $$('.chip', v).forEach((c) => { c.querySelector('i').textContent = num(base.filter(F[c.dataset.f]).length); });
+    const items = base.filter(F[filter]).sort(SORT[$('#pSort').value]);
     shown = items;
-    $('#pInfo').textContent = `${items.length} ürün${items.length > 300 ? ' (ilk 300 gösteriliyor, arama yapın)' : ''}`;
-    $('#pList').innerHTML = items.slice(0, 300).map((p) => `
-      <div class="litem" data-id="${p.id}">${thumb(p)}
-        <div class="lmain"><div>${esc(p.name)}</div><div class="muted small">${esc(p.barcode)}${p.category ? ' · ' + esc(p.category) : ''}</div></div>
-        <div class="lright"><b>${tl(p.price)}</b>${stockBadge(p)}</div></div>`).join('') || '<div class="muted empty">Ürün yok</div>';
+    $('#pInfo').textContent = `${num(items.length)} ürün listeleniyor${br ? ' · ' + br : ''}`;
+    $('#pList').innerHTML = items.slice(0, limit).map(row).join('') || '<div class="muted empty">Bu filtreye uyan ürün yok</div>';
+    $('#pMore').hidden = items.length <= limit;
+    $('#pMore').textContent = `Daha fazla göster (${num(items.length - limit)} ürün daha)`;
   };
-  draw();
-  if (!all.length) $('#pInfo').innerHTML = 'Henüz ürün yok. <b>+ Yeni</b> ile tek tek, <b>Sayım</b> ekranından okutarak veya <b>Excel/CSV yükle</b> ile toplu ekleyin.';
+  const setFilter = (f) => { filter = f; limit = 60; $$('.chip', v).forEach((x) => x.classList.toggle('on', x.dataset.f === f)); draw(); };
+
+  kpis(); draw();
+  if (!all.length) $('#pInfo').innerHTML = 'Henüz ürün yok. <b>＋ Yeni ürün</b> ile tek tek, <b>Sayım</b> ekranından okutarak veya <b>Excel/CSV yükle</b> ile toplu ekleyin.';
 
   const brands = [...new Set(S.products.map((p) => p.brand).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'tr'));
   $('#pBrand').innerHTML += brands.map((b) => `<option>${esc(b)}</option>`).join('');
-  $('#pBrand').onchange = draw;
-  $('#pSearch').oninput = draw;
-  $$('.chip', v).forEach((c) => (c.onclick = () => { $$('.chip', v).forEach((x) => x.classList.remove('on')); c.classList.add('on'); filter = c.dataset.f; draw(); }));
+  const reset = () => { limit = 60; draw(); };
+  $('#pBrand').onchange = reset; $('#pSort').onchange = reset; $('#pSearch').oninput = reset;
+  $('#pClr').onclick = () => { $('#pSearch').value = ''; reset(); $('#pSearch').focus(); };
+  $('#pMore').onclick = () => { limit += 120; draw(); };
+  $$('.chip', v).forEach((c) => (c.onclick = () => setFilter(c.dataset.f)));
+  $('#pKpi').onclick = (e) => { const k = e.target.closest('.kpi'); if (k) setFilter(k.dataset.k); };
+  const refresh = async () => { await loadAllProducts(true); kpis(); draw(); };
   $('#pList').onclick = (e) => {
     const it = e.target.closest('.litem');
     if (!it) return;
     const p = S.products.find((x) => x.id === Number(it.dataset.id));
-    openProductForm(p, async () => { await loadAllProducts(true); draw(); });
+    openProductForm(p, refresh);
   };
-  $('#pNew').onclick = () => openProductForm({}, async () => { await loadAllProducts(true); draw(); });
+  $('#pNew').onclick = () => openProductForm({}, refresh);
   $('#pExport').onclick = () => exportCsv(shown);
   $('#pLabels').onclick = () => openLabels(shown);
   $('#pCsv').onchange = async (e) => {
     const file = e.target.files[0]; e.target.value = '';
-    if (file) await importCsv(file, async () => { await loadAllProducts(true); draw(); });
+    if (file) await importCsv(file, refresh);
   };
 };
 

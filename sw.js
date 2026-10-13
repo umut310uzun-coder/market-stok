@@ -1,5 +1,5 @@
 // Basit önbellek: uygulama dosyaları hızlı açılsın. Veritabanı istekleri ASLA önbelleğe alınmaz.
-const CACHE = 'market-v4';
+const CACHE = 'market-v5';
 const SHELL = ['./', 'index.html', 'style.css', 'app.js', 'efatura.js', 'efatura-pdf.js', 'config.js', 'manifest.json', 'icon-192.png'];
 
 self.addEventListener('install', (e) => {

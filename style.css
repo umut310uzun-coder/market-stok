@@ -164,3 +164,70 @@ details.adduser .form { margin-top: 10px; }
 .infobox { background: var(--chip); border-radius: 10px; padding: 10px; }
 .grid4 { display: grid; grid-template-columns: 1.4fr 1fr 1fr 1fr; gap: 6px; margin-bottom: 6px; }
 #pBrand { margin: 6px 0; }
+
+/* ===== ÜRÜNLER — profesyonel liste ===== */
+.plist { --soft: color-mix(in srgb, var(--pri) 9%, var(--card)); }
+.phead { display: flex; align-items: flex-end; justify-content: space-between; gap: 12px; margin: 4px 0 10px; }
+.ptitle { font-size: 22px; font-weight: 750; letter-spacing: -.01em; }
+.kpis { display: grid; grid-template-columns: repeat(2, 1fr); gap: 8px; }
+@media (min-width: 640px) { .kpis { grid-template-columns: repeat(4, 1fr); } }
+.kpi { text-align: left; border: 1px solid var(--line); background: var(--card); color: var(--text); border-radius: var(--r); padding: 10px 12px; cursor: pointer; display: flex; flex-direction: column; gap: 2px; font: inherit; }
+.kpi span { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .04em; }
+.kpi b { font-size: 19px; font-variant-numeric: tabular-nums; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.kpi.warn b { color: var(--orange); } .kpi.bad b { color: var(--red); }
+.kpi:hover { border-color: var(--pri); }
+.ptools { display: flex; flex-direction: column; gap: 8px; margin-top: 12px; }
+@media (min-width: 700px) { .ptools { flex-direction: row; } .ptools .search { flex: 1.4; } .pselects { flex: 1; } }
+.search { position: relative; }
+.search .inp { padding-left: 36px; padding-right: 36px; background: var(--card); }
+.sico { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: var(--muted); font-size: 18px; pointer-events: none; }
+.sclr { position: absolute; right: 6px; top: 50%; transform: translateY(-50%); border: 0; background: var(--chip); color: var(--muted); width: 26px; height: 26px; border-radius: 50%; cursor: pointer; }
+.pselects { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.pselects .inp { background: var(--card); padding: 10px; font-size: 15px; }
+.plist #pBrand { margin: 0; }
+.plist .chip i { font-style: normal; font-size: 12px; opacity: .7; margin-left: 4px; font-variant-numeric: tabular-nums; }
+.pactions { display: flex; gap: 6px; flex-wrap: wrap; margin: 6px 0 10px; }
+.pactions .btn { border-color: var(--line); color: var(--muted); }
+.ptable { background: var(--card); border: 1px solid var(--line); border-radius: var(--r); overflow: hidden; }
+.ptable .list { margin: 0; }
+.pth { display: none; }
+.prow { padding: 10px 12px; gap: 12px; }
+.prow:last-child { border-bottom: 0; }
+.litem.prow:first-child { border-radius: 0; }
+.prow .thumb { width: 52px; height: 52px; border: 1px solid var(--line); border-radius: 10px; padding: 3px; }
+.prow.off { opacity: .6; }
+.pnm { font-weight: 600; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.pmeta { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 6px; margin-top: 4px; font-size: 12.5px; color: var(--muted); }
+.pmeta .code, .pmeta .bc { font-family: ui-monospace, "SF Mono", Consolas, monospace; font-size: 12px; }
+.pmeta .code { color: var(--text); }
+.pmeta .dot { opacity: .5; }
+.pmeta .brand { background: var(--soft); color: var(--pri); font-weight: 600; padding: 1px 8px; border-radius: 6px; }
+.pmeta .tag { border: 1px solid var(--line); padding: 0 6px; border-radius: 6px; font-size: 11.5px; }
+.pbrand { display: none; }
+.pstock { display: none; }
+.pprice { display: flex; flex-direction: column; align-items: flex-end; gap: 4px; text-align: right; white-space: nowrap; }
+.pprice b { font-size: 16px; font-variant-numeric: tabular-nums; }
+.noprice { font-size: 12px; font-weight: 600; color: var(--orange); background: var(--warn-bg); padding: 2px 8px; border-radius: 6px; }
+.prow .badge { font-variant-numeric: tabular-nums; }
+/* telefonda stok rozeti fiyatın altında */
+@media (max-width: 699px) {
+  .pprice .small { display: none; }
+  .prow { display: grid; grid-template-columns: 52px 1fr auto; grid-template-areas: "img main price" "img main stock"; align-items: center; }
+  .prow .thumb { grid-area: img; } .prow .lmain { grid-area: main; } .prow .pprice { grid-area: price; align-self: end; }
+  .prow .pstock { display: block; grid-area: stock; justify-self: end; align-self: start; }
+}
+/* geniş ekranda tablo görünümü */
+@media (min-width: 700px) {
+  main#view:has(.plist) { max-width: 1100px; }
+  .pth, .prow { display: grid; grid-template-columns: 52px minmax(0, 1fr) 130px 110px 140px; align-items: center; gap: 14px; }
+  .pth { padding: 10px 12px; font-size: 12px; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); background: var(--chip); border-bottom: 1px solid var(--line); }
+  .pmeta .brand { display: none; }
+  .pbrand { display: block; font-size: 14px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .pstock { display: block; text-align: right; }
+  .prow:nth-child(even) { background: color-mix(in srgb, var(--chip) 35%, var(--card)); }
+  .prow:hover { background: var(--soft) !important; }
+}
+.center-row { display: flex; justify-content: center; margin: 12px 0; }
+.plist [hidden] { display: none !important; }
+.pactions { flex-wrap: nowrap; overflow-x: auto; }
+@media (max-width: 699px) { .pmeta .cat, .pmeta .cat + .dot, .pmeta .dot:has(+ .cat) { display: none; } }
